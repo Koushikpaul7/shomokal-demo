@@ -1,0 +1,45 @@
+import React from 'react';
+import { BiCalendar } from 'react-icons/bi';
+import { FiFacebook } from 'react-icons/fi';
+import { AiOutlineTwitter } from 'react-icons/ai';
+import { SiInstagram } from 'react-icons/si';
+import { TfiYoutube } from 'react-icons/tfi';
+import { BiRss } from 'react-icons/bi';
+import { Link } from 'react-router-dom';
+const NavMid = () => {
+    return (
+        <div className='py-4 d-none d-md-block'>
+            <div className='container'>
+                <div className='row '>
+                    <div className='col-md-4 '>
+                        <div className='m-auto'>
+                            <div className='date-time d-flex align-items-center mt-2'>
+                                <BiCalendar className='me-2' /><p>সোমবার, ১৬ জানুয়ারি ২০২৩</p>
+                                <p> <samp>|</samp> ১ মাঘ ১৪২৯</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className='col-md-4'>
+                        <div className='d-flex justify-content-center'>
+                           <Link to='/'> <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/logo.png" alt=""/></Link>
+                        </div>
+                    </div>
+                    <div className='col-md-4'>
+                        <div className=''>
+                        <div className='d-flex justify-content-end align-items-center'>
+                            <Link to='#' className='social-link me-2'><FiFacebook/></Link>
+                            <Link to='#' className='social-link me-2'><AiOutlineTwitter/></Link>
+                            <Link to='#' className='social-link me-2'><SiInstagram/></Link>
+                            <Link to='#' className='social-link me-2'><TfiYoutube/></Link>
+                            <Link to='#' className='social-link'><BiRss/></Link>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    );
+};
+
+export default NavMid;

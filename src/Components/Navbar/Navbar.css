@@ -1,0 +1,140 @@
+.bar {
+    padding: 5px 0;
+    border-bottom: 1px solid #ebebeb;
+}
+.link ul{
+    padding: 0;
+    margin: 0;
+}
+.link ul li{
+    list-style: none;
+}
+
+.link ul li:last-of-type a{
+    border-right: 0 solid #ebebeb;
+}
+
+.link ul li a {
+    
+    margin-right: 10px;
+    border-right: 2px solid #6f6f6f;
+    padding-right: 10px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+   
+}
+a {
+    text-decoration: none;
+    color: #337ab7;
+}
+.link :hover{
+    color: #e18b20;
+}
+.topBtn ul{
+    padding: 0;
+    margin: 0;
+}
+.topBtn ul{
+    list-style: none;
+}
+.topBtn  ul li a {
+    margin-left: 10px;
+    padding: 3px 12px;
+    border-radius: 3px;
+    background-color: #D0D0D7;
+    color: #333;
+    line-height: 21px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.topBtn :hover{
+    color: red;
+}
+
+/* 2nd section */
+.date-time p{ 
+        font-size: 15px;
+        display: inline-block;
+        line-height: 15px;
+        color: #333;
+    }
+    p {
+        margin-bottom: 0;
+       
+    }
+.social-link{
+    border: 1px solid #ddd;
+    font-size: 16px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 22px;
+    border-radius: 50px;
+    color: #333;
+    text-decoration: none;
+}
+.social-link:hover{
+    color: #e18b20;
+}
+
+/* bottom part */
+
+.active{
+    margin-right: 15px;
+    
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #e18b20;
+}
+
+.nav-border{
+    border-bottom: 4px double #b9b9b9;
+    border-top: 1px solid #ebebeb;
+}
+.collapse ul{
+    margin: 0;
+    padding: 0;
+}
+
+/* Sub Heading */
+.sub-head{
+    border-bottom: 2px solid #D0D0D7;
+}
+.sub-head ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.sub-head ul li{
+    list-style: none;
+    margin-right: 20px;
+    
+}
+.sub-head ul li p{
+    padding: 2px 12px;
+    border-radius: 3px;
+    background-color: #efefef;
+    color: #333;
+    line-height: 21px;
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+}
+.sub-head ul li p:hover{
+    color: #e18b20;
+}
+
+
+
+
+
+
+/* Media query */
+
+@media screen and (max-width: 768px){
+.sub-head ul {
+    overflow-x: scroll;
+}
+}
