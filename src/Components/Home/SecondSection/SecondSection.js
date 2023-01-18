@@ -145,7 +145,7 @@ const SecondSection = () => {
             </div>
             <div className='row'>
                 <div className='col-md-12 col-12 py-4 d-flex justify-content-center'>
-                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement(970X90).png" alt=""/>
+                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement(970X90).png" className='img-fluid' alt=""/>
                 </div>
                 
             </div>
