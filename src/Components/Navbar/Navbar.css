@@ -97,6 +97,19 @@ a {
     margin: 0;
     padding: 0;
 }
+.nav-fix{
+    position: sticky;
+    background: white;
+    width: 100%;
+    top: 0;
+}
+.is-sticky {
+    background: white;
+    width: 100%;
+  position: fixed;
+  z-index: 999;
+  animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
+}
 
 /* Sub Heading */
 .sub-head{

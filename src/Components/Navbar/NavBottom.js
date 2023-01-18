@@ -1,9 +1,36 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 const NavBottom = () => {
+  const [chatWidth, setChatWidth] = useState(undefined);
+  const [sidebarTop, setSidebarTop] = useState(undefined);
+
+  useEffect(() => {
+    const chatEl = document.querySelector('.sidebar').getBoundingClientRect();
+    setChatWidth(chatEl.width);
+    setSidebarTop(chatEl.top);
+  }, []);
+
+  useEffect(() => {
+    if (!sidebarTop) return;
+
+    window.addEventListener('scroll', isSticky);
+    return () => {
+      window.removeEventListener('scroll', isSticky);
+    };
+  }, [sidebarTop]);
+
+  const isSticky = (e) => {
+    const chatEl = document.querySelector('.sidebar');
+    const scrollTop = window.scrollY;
+    if (scrollTop >= sidebarTop - 10) {
+      chatEl.classList.add('is-sticky');
+    } else {
+      chatEl.classList.remove('is-sticky');
+    }
+  };
     return (
-        <div className='nav-border sticky-top'>
-            <div className='container'>
+        <div id='navbar_top' className='nav-border sticky-top sidebar'>
+            <div className='container '>
             <nav class="navbar navbar-expand-lg navbar-light ">
   <div class="container-fluid">
    <div className='d-flex '>
@@ -84,6 +111,8 @@ const NavBottom = () => {
         </div>
         </div>
     );
+    
 };
+
 
 export default NavBottom;
