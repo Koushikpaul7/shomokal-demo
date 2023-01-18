@@ -1,11 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../Home/Home.css'
+import '../Home.css'
 import BannerBottom from './BannerBottom';
+import BannerSide from './BannerSide';
 const Banner = () => {
     return (
-        <div className='border-bottom'>
-            <div className='row'>
+        <div className=''>
+            <div className='row border-bottom'>
                 <div className='col-md-9 col-12'>
                     <div className='row border-bottom border-end'>
                         <div className='col-md-8 col-12 border-end '>
@@ -109,9 +110,18 @@ const Banner = () => {
                 </div>
                 
                 {/* Side bar */}
-                <div className='col-md-3 col-12'>
-                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement%20(300X250).png" alt=""/>
+               <BannerSide/>
+            </div>
+            {/* Advertisement */}
+            <div className='py-4 d-flex justify-content-center'>
+                <div className='row'>
+                    <div className='col-12 col-md-12'>
+                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement(970X90).png"className='img-fluid' alt=""/>
+                    </div>
                 </div>
+            </div>
+            <div>
+                
             </div>
         </div>
     );

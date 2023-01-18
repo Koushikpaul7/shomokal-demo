@@ -1,0 +1,125 @@
+import React from 'react';
+import { Link } from 'react-router-dom';
+import '../Home.css'
+const SubNews = () => {
+    return (
+        <div>
+            <div className='separate'>
+            <div className='row'>
+            <div className='col-5 col-md-5'>
+                <div className='lead-2 '>
+                    <Link to='/'>
+                        <div className='zoom '>
+                            <div className='imgContainer'>
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' />
+                            </div>
+                        </div>
+                    </Link>
+                </div>
+            </div>
+            <div className='col-7 col-md-7'>
+                <Link to='#' className='text-decoration-none sub-font text-dark'>
+                    <p className='effect '> রিফাতের ছবি ‘ওয়ান ইলেভেন’, মূখ্য চরিত্রে আফজাল হোসেন</p></Link>
+            </div>
+            </div>
+        </div>
+            <div className='separate'>
+            <div className='row'>
+            <div className='col-5 col-md-5'>
+                <div className='lead-2 '>
+                    <Link to='/'>
+                        <div className='zoom '>
+                            <div className='imgContainer'>
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-samakal-63be89701583f.webp" alt="" className='fix-ratio' />
+                            </div>
+                        </div>
+                    </Link>
+                </div>
+            </div>
+            <div className='col-7 col-md-7'>
+                <Link to='#' className='text-decoration-none sub-font text-dark'>
+                    <p className='effect '> ৬০ হাজার মেট্রিক টন সার কিনবে সরকার</p></Link>
+            </div>
+            </div>
+        </div>
+            <div className='separate'>
+            <div className='row'>
+            <div className='col-5 col-md-5'>
+                <div className='lead-2 '>
+                    <Link to='/'>
+                        <div className='zoom '>
+                            <div className='imgContainer'>
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/4210d.webp" alt="" className='fix-ratio' />
+                            </div>
+                        </div>
+                    </Link>
+                </div>
+            </div>
+            <div className='col-7 col-md-7'>
+                <Link to='#' className='text-decoration-none sub-font text-dark'>
+                    <p className='effect '> ১০০টি রেলক্রসিংয়ের মধ্যে ৭০টিই অবৈধ</p></Link>
+            </div>
+            </div>
+        </div>
+            <div className='separate'>
+            <div className='row'>
+            <div className='col-5 col-md-5'>
+                <div className='lead-2 '>
+                    <Link to='/'>
+                        <div className='zoom '>
+                            <div className='imgContainer'>
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/ramu-bn-samakal-63be6d06213c2.jpg" alt="" className='fix-ratio' />
+                            </div>
+                        </div>
+                    </Link>
+                </div>
+            </div>
+            <div className='col-7 col-md-7'>
+                <Link to='#' className='text-decoration-none sub-font text-dark'>
+                    <p className='effect '> গরু ডাকাতি হল রাতে, সকালে মিলল যুবকের হাত-পা বাঁধা লাশ</p></Link>
+            </div>
+            </div>
+        </div>
+            <div className='separate'>
+            <div className='row'>
+            <div className='col-5 col-md-5'>
+                <div className='lead-2 '>
+                    <Link to='/'>
+                        <div className='zoom '>
+                            <div className='imgContainer'>
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/b1b2197c537140e26c3caeae815cece5-616e8ea44d2ed.webp" alt="" className='fix-ratio' />
+                            </div>
+                        </div>
+                    </Link>
+                </div>
+            </div>
+            <div className='col-7 col-md-7'>
+                <Link to='#' className='text-decoration-none sub-font text-dark'>
+                    <p className='effect '> করোনার টিকা কি বাধ্যতামূলক হওয়া উচিত</p></Link>
+            </div>
+            </div>
+        </div>
+            <div className='separate'>
+            <div className='row'>
+            <div className='col-5 col-md-5'>
+                <div className='lead-2 '>
+                    <Link to='/'>
+                        <div className='zoom '>
+                            <div className='imgContainer'>
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' />
+                            </div>
+                        </div>
+                    </Link>
+                </div>
+            </div>
+            <div className='col-7 col-md-7'>
+                <Link to='#' className='text-decoration-none sub-font text-dark'>
+                    <p className='effect '> রিফাতের ছবি ‘ওয়ান ইলেভেন’, মূখ্য চরিত্রে আফজাল হোসেন</p></Link>
+            </div>
+            </div>
+        </div>
+        </div>
+    );
+};
+
+export default SubNews;

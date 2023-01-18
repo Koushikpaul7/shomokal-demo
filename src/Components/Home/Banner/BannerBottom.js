@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../Home/Home.css'
+import '../Home.css'
 const BannerBottom = () => {
     return (
         <div className='row my-3'>
