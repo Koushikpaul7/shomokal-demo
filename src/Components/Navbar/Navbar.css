@@ -24,6 +24,7 @@
     font-weight: 500;
    
 }
+
 a {
     text-decoration: none;
     color: #337ab7;
@@ -108,12 +109,14 @@ a {
     width: 100%;
   position: fixed;
   z-index: 999;
-  animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
+ ;
 }
 
 /* Sub Heading */
 .sub-head{
     border-bottom: 2px solid #D0D0D7;
+    margin-bottom: 10px;
+    width: 100%;
 }
 .sub-head ul{
     display: flex;

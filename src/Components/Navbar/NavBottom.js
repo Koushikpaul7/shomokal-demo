@@ -11,7 +11,8 @@ const NavBottom = () => {
   }, []);
 
   useEffect(() => {
-    if (!sidebarTop) return;
+    if (!sidebarTop) 
+    return;
 
     window.addEventListener('scroll', isSticky);
     return () => {
@@ -29,7 +30,7 @@ const NavBottom = () => {
     }
   };
     return (
-        <div id='navbar_top' className='nav-border sticky-top sidebar'>
+        <div id='navbar_top' className='nav-border sticky-top sidebar position'>
             <div className='container '>
             <nav class="navbar navbar-expand-lg navbar-light ">
   <div class="container-fluid">

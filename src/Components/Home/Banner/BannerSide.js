@@ -5,7 +5,7 @@ import { AiOutlineDoubleRight } from 'react-icons/ai';
 const BannerSide = () => {
     return (
 
-        <div className='col-md-3 col-12'>
+        <div className='col-md-3 col-12 '>
             <div className='row'>
                 <div className='col-12 col-md-12 d-flex justify-content-center'>
                     <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement%20(300X250).png" className='img-fluid' alt="" />

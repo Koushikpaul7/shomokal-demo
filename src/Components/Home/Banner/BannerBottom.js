@@ -1,7 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../Home.css'
-const BannerBottom = () => {
+const 
+BannerBottom = () => {
     return (
         <div className='row my-3'>
             <div className='col-12 col-md-4 border-end'>

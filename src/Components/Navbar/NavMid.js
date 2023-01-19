@@ -14,8 +14,8 @@ const NavMid = () => {
                     <div className='col-md-4 '>
                         <div className='m-auto'>
                             <div className='date-time d-flex align-items-center mt-2'>
-                                <BiCalendar className='me-2' /><p>সোমবার, ১৬ জানুয়ারি ২০২৩</p>
-                                <p> <samp>|</samp> ১ মাঘ ১৪২৯</p>
+                                <BiCalendar className='me-2' /><p> বৃহস্পতিবার, ১৯ জানুয়ারি ২০২৩</p>
+                                <p> <samp>|</samp> ৪ মাঘ ১৪২৯</p>
                             </div>
                         </div>
                     </div>

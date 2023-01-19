@@ -42,7 +42,11 @@
     
     padding-right: 5px;
   }
-  
+
+.banner-sec{
+  position: relative;
+  z-index: 1;
+}
 
   /* Lead news */
 .lead {
@@ -89,6 +93,7 @@
   background: #f5f5f5;
 }
 .bodyHeight{
+  position: relative;
   max-height: 385px;
   overflow: auto;
 }

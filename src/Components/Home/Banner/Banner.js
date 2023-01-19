@@ -5,7 +5,7 @@ import BannerBottom from './BannerBottom';
 import BannerSide from './BannerSide';
 const Banner = () => {
     return (
-        <div className=''>
+        <div className='banner-sec'>
             <div className='row border-bottom'>
                 <div className='col-md-9 col-12'>
                     <div className='row border-bottom border-end'>

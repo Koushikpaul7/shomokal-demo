@@ -1,0 +1,45 @@
+.box{
+    width: 25px;
+    height: 10px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color: #e18b20;
+}
+.title h6{
+    position: relative;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: bold;
+    padding-top: 0;
+    padding-bottom: 7px;
+}
+.title h6::before{
+    background: #ededed;
+    width: 100%;
+    content: '';
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+}
+.title h6::after{
+    background: #e18b20 !important;
+    width: 170px;
+    content: '';
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+}
+
+
+.font{
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+}
+.font:hover{
+    color: #333;
+}

@@ -3,6 +3,7 @@ import '../Navbar/Navbar.css'
 import NavBottom from './NavBottom';
 import NavMid from './NavMid';
 import Navtop from './Navtop';
+import SubHeading from './SubHeading';
 
 const Navbar = () => {
     return (
@@ -10,7 +11,7 @@ const Navbar = () => {
             <Navtop/>
             <NavMid/>
             <NavBottom/>
-            
+            <SubHeading/>
         </div>
     );
 
