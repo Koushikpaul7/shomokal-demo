@@ -43,3 +43,48 @@
 .font:hover{
     color: #333;
 }
+.B-lead{
+    width: 100%;
+    position: relative;
+    margin-bottom: 5px;
+}
+.B-head{
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 600;
+}
+.B-2-head{
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 400;
+}
+.B-line{
+    font-size: 14px;
+    line-height: 24px;
+    color: #555;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-right: 5px;
+    height: 80px;
+}
+.B-side-head{
+    font-size: 14px;
+    color: #333;
+}
+.fix-ratio-B{
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        height: 80px;
+        width: 150px;
+        object-fit: cover;
+        overflow: hidden;
+      
+}
+.rowBorderBottom{
+    border-bottom: 2px solid #ededed;
+}

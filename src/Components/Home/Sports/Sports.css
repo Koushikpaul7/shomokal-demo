@@ -1,0 +1,32 @@
+.Sp-line{
+    font-size: 14px;
+    line-height: 24px;
+    color: #555;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-right: 5px;
+    height: 80px;
+}
+.Sp-font{
+    font-size: 14px;
+    color: #555;
+}
+.fix-ratio-sp{
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 350px;
+    width: 100%;
+    object-fit: cover;
+    overflow: hidden;
+  }
+
+  .Sp-head{
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 600;
+}
