@@ -67,7 +67,7 @@ const Rajdhani = () => {
                 </div>
             </div>
                 </div>
-                <div className='col-md-4 col-12'>
+                <div className='col-md-4 col-12 border-end'>
                     <Shikkha/>
                 </div>
                 <div className='col-md-4 col-12'>

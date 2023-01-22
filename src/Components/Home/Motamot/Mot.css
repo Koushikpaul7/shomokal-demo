@@ -13,8 +13,12 @@ px
     border: 3px solid #fff;
 }
 .heading-mot{
-    font-size: 12px;
+    font-size: 11px;
+    font-weight: 600;
 }
 .sub-heading-mot{
     font-size: 14px;
+}
+.writer{
+    color: #94959a;
 }

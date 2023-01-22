@@ -12,9 +12,11 @@ const Sharadesh = () => {
             </h6>
             <div className='row'>
                 <div className='col-md-9 col-12'>
-                    <div className='row'>
+                    <div className='row border-end'>
                         <div className='col-md-8 col-12 border-end'>
                             <div className='row'>
+                            <div className='col-12 col-md-12 border-bottom py-2'>
+                                <div className='row'>
                                 <div className='col-md-7 col-12'>
                                     <div className='B-lead'>
                                         <Link to='/'>
@@ -30,12 +32,16 @@ const Sharadesh = () => {
                                     <p className='py-1 fw-bold effect B-head'> খুলনায় করোনা টিকার চতুর্থ ডোজ নিয়েছে ১২ হাজার মানুষ</p>
                                     <p className='Sha-line'>খুলনায় করোনাভাইরাসের প্রতিষেধকের চতুর্থ ডোজ দেওয়া শুরু হয় গত বছরের ২০ ডিসেম্বর। ১৯ দিনে টিকা দেওয়া হয়েছে ১২ হাজার মানুষকে। অথচ জেলায় প্রথম ও দ্বিতীয় ডোজের পাশাপাশি তৃতীয় ডোজ নিয়েছেন ১২ লাখ ৫৪ হাজার ব্যক্তি। এ অবস্থায় সংশ্লিষ্টদের টিকা কার্যক্রম জোরদার করার পরামর্শ দেওয়া হয়েছে।</p>
                                 </div>
+                                </div>
+                                </div>
                             </div>
                             <div className='row mt-2'>
                                 <div className='col-md-6'>
                                     <div className='row'>
+                                    <div className='col-12 col-md-12 border-bottom py-2'>
+                                <div className='row'>
                                         <div className='col-md-6 col-7'>
-                                            <p className='Sha-head fw-bold'>খুলনায় বিএনপির বিক্ষোভ মিছিল ও পথসভা</p>
+                                            <Link className='font'><p className='Sha-head fw-bold effect'>খুলনায় বিএনপির বিক্ষোভ মিছিল ও পথসভা</p></Link>
                                         </div>
                                         <div className='col-md-6 col-5'>
                                             <div className='B-lead'>
@@ -47,13 +53,17 @@ const Sharadesh = () => {
                                                     </div>
                                                 </Link>
                                             </div>
+                                        </div>
+                                        </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div className='col-md-6'>
                                     <div className='row'>
+                                    <div className='col-12 col-md-12 border-bottom py-2'>
+                                <div className='row'>
                                         <div className='col-md-6 col-7'>
-                                            <p className='Sha-head fw-bold'>খুলনায় বিএনপির বিক্ষোভ মিছিল ও পথসভা</p>
+                                            <Link className='font'><p className='Sha-head fw-bold effect'>খুলনায় বিএনপির বিক্ষোভ মিছিল ও পথসভা</p></Link>
                                         </div>
                                         <div className='col-md-6 col-5'>
                                             <div className='B-lead'>
@@ -65,13 +75,17 @@ const Sharadesh = () => {
                                                     </div>
                                                 </Link>
                                             </div>
+                                        </div>
+                                        </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div className='col-md-6'>
                                     <div className='row'>
+                                    <div className='col-12 col-md-12  py-2'>
+                                <div className='row'>
                                         <div className='col-md-6 col-7'>
-                                            <p className='Sha-head fw-bold'>খুলনায় বিএনপির বিক্ষোভ মিছিল ও পথসভা</p>
+                                            <Link className='font'><p className='Sha-head fw-bold effect'>খুলনায় বিএনপির বিক্ষোভ মিছিল ও পথসভা</p></Link>
                                         </div>
                                         <div className='col-md-6 col-5'>
                                             <div className='B-lead'>
@@ -83,13 +97,17 @@ const Sharadesh = () => {
                                                     </div>
                                                 </Link>
                                             </div>
+                                        </div>
+                                        </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div className='col-md-6'>
                                     <div className='row'>
+                                    <div className='col-12 col-md-12  py-2'>
+                                <div className='row'>
                                         <div className='col-md-6 col-7'>
-                                            <p className='Sha-head fw-bold'>খুলনায় বিএনপির বিক্ষোভ মিছিল ও পথসভা</p>
+                                            <Link className='font'><p className='Sha-head fw-bold effect'>খুলনায় বিএনপির বিক্ষোভ মিছিল ও পথসভা</p></Link>
                                         </div>
                                         <div className='col-md-6 col-5'>
                                             <div className='B-lead'>
@@ -101,15 +119,19 @@ const Sharadesh = () => {
                                                     </div>
                                                 </Link>
                                             </div>
+                                        </div>
+                                        </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div className='col-md-4 col-12 border-end'>
-                            <div className='row'>
+                            <div className='row mt-1'>
+                            <div className='col-12 col-md-12 border-bottom py-2'>
+                                <div className='row'>
                                 <div className='col-md-6 col-7'>
-                                    <p className='Sha-sub-head fw-bold'>খুলনায় বিএনপির বিক্ষোভ মিছিল ও পথসভা</p>
+                                    <Link className='font'><p className='Sha-sub-head fw-bold effect'>খুলনায় বিএনপির বিক্ষোভ মিছিল ও পথসভা</p></Link>
                                 </div>
                                 <div className='col-md-6 col-5'>
                                     <div className='B-lead'>
@@ -122,6 +144,10 @@ const Sharadesh = () => {
                                         </Link>
                                     </div>
                                 </div>
+                                </div>
+                                </div>
+                                <div className='col-12 col-md-12 border-bottom py-2'>
+                                <div className='row'>
                                 <div className='col-md-6 col-7'>
                                     <p className='Sha-sub-head fw-bold'>নাটোরে ১১ সাংবাদিকের ওপর হামলায় গ্রেপ্তার ৩</p>
                                 </div>
@@ -136,6 +162,10 @@ const Sharadesh = () => {
                                         </Link>
                                     </div>
                                 </div>
+                                </div>
+                                </div>
+                                <div className='col-12 col-md-12 border-bottom py-2'>
+                                <div className='row'>
                                 <div className='col-md-6 col-7'>
                                     <p className='Sha-sub-head fw-bold'>যুক্তরাষ্ট্র জ্ঞানের অভাবে নির্বাচনে কারসাজি নিয়ে</p>
                                 </div>
@@ -150,6 +180,10 @@ const Sharadesh = () => {
                                         </Link>
                                     </div>
                                 </div>
+                                </div>
+                                </div>
+                                <div className='col-12 col-md-12 border-bottom pt-2'>
+                                <div className='row'>
                                 <div className='col-md-6 col-7'>
                                     <p className='Sha-sub-head fw-bold'>নাটোরে ১১ সাংবাদিকের ওপর হামলায় গ্রেপ্তার ৩</p>
                                 </div>
@@ -163,6 +197,8 @@ const Sharadesh = () => {
                                             </div>
                                         </Link>
                                     </div>
+                                </div>
+                                </div>
                                 </div>
                             </div>
                         </div>

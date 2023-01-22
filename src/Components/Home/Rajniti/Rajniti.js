@@ -10,7 +10,7 @@ const Rajniti = () => {
                     <span className='box'></span>
                     রাজনীতি</Link>
                 </h6>
-                <div className='row'>
+                <div className='row border-bottom'>
                     <div className='col-md-9 col-12'>
                         <div className='row'>
                             <div className='col-md-5 col-12 border-end'>
@@ -104,7 +104,7 @@ const Rajniti = () => {
                                         </div>
                                     </Link>
                                 </div>
-                                <div className='border-bottom pb-1'>
+                                <div className='pb-1'>
                                     <Link to='/'>
                                         <div className='text-decoration-none text-dark'>
                                             <p className='py-1  effect B-2-head py-4'>রাজধানীতে অনুমোদনহীন ক্লিনিক নেই</p>

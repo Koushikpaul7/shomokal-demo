@@ -23,7 +23,7 @@ const Motamot = () => {
                         </div>
                         <div className='col-md-7'>
                             <p className='heading-mot'>রাজউকের ওয়েবসাইট হ্যাক এবং আমাদের প্রস্তুতি পর্ব</p>
-                           <i> <p className='sub-heading-mot mt-1'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></i>
+                           <i> <p className='sub-heading-mot mt-1 writer'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></i>
                         </div>
                     </div>
                 </div>
@@ -34,7 +34,7 @@ const Motamot = () => {
                         </div>
                         <div className='col-md-7'>
                             <p className='heading-mot'>রাজউকের ওয়েবসাইট হ্যাক এবং আমাদের প্রস্তুতি পর্ব</p>
-                           <i> <p className='sub-heading-mot mt-1'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></i>
+                           <i> <p className='sub-heading-mot mt-1 writer'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></i>
                         </div>
                     </div>
                 </div>
@@ -45,7 +45,7 @@ const Motamot = () => {
                         </div>
                         <div className='col-md-7'>
                             <p className='heading-mot'>রাজউকের ওয়েবসাইট হ্যাক এবং আমাদের প্রস্তুতি পর্ব</p>
-                           <i> <p className='sub-heading-mot mt-1'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></i>
+                           <i> <p className='sub-heading-mot mt-1 writer'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></i>
                         </div>
                     </div>
                 </div>
@@ -56,7 +56,7 @@ const Motamot = () => {
                         </div>
                         <div className='col-md-7'>
                             <p className='heading-mot'>রাজউকের ওয়েবসাইট হ্যাক এবং আমাদের প্রস্তুতি পর্ব</p>
-                           <i> <p className='sub-heading-mot mt-1'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></i>
+                           <i> <p className='sub-heading-mot mt-1 writer'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></i>
                         </div>
                     </div>
                 </div>

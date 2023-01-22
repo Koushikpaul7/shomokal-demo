@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../Bangladesh/Bangladesh.css';
+import '../Home.css'
 const Projukti = () => {
     return (
         <div>
@@ -24,7 +25,7 @@ const Projukti = () => {
 
                         </Link>
                     </div>
-                    <p className='fw-bold'>এন্ট গ্রুপের নিয়ন্ত্রণ ছাড়ছেন জ্যাক মা</p>
+                   <Link className='font'> <p className='fw-bold effect'>এন্ট গ্রুপের নিয়ন্ত্রণ ছাড়ছেন জ্যাক মা</p></Link>
                 </div>
                 <div className='col-md-3 col-12'>
                 <div className='B-lead'>
@@ -37,7 +38,8 @@ const Projukti = () => {
 
                         </Link>
                     </div>
-                    <p className='fw-bold'>সিইএস ২০২৩ :আইওটি পণ্য প্রদর্শন করছে ওয়ালটন</p>
+                    <Link className='font'>  <p className='fw-bold effect'>সিইএস ২০২৩ :আইওটি পণ্য প্রদর্শন করছে ওয়ালটন</p></Link>
+                   
                 </div>
                 <div className='col-md-3 col-12'>
                 <div className='B-lead'>
@@ -50,7 +52,7 @@ const Projukti = () => {
 
                         </Link>
                     </div>
-                    <p className='fw-bold'>টুইটারের ২০ কোটি ব্যবহারকারীর ই-মেইল হ্যাক</p>
+                    <Link className='font'><p className='fw-bold effect'>টুইটারের ২০ কোটি ব্যবহারকারীর ই-মেইল হ্যাক</p></Link>
                 </div>
                 <div className='col-md-3 col-12'>
                 <div className='B-lead'>
@@ -63,7 +65,7 @@ const Projukti = () => {
 
                         </Link>
                     </div>
-                    <p className='fw-bold'>স্কাইপেতে তাৎক্ষণিক ভাষান্তর সুবিধা চালু</p>
+                    <Link className='font'> <p className='fw-bold effect'>স্কাইপেতে তাৎক্ষণিক ভাষান্তর সুবিধা চালু</p></Link>
                 </div>
             </div>
         </div>
