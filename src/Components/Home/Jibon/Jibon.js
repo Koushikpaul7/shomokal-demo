@@ -25,7 +25,7 @@ const Jibon = () => {
 
                         </Link>
                     </div>
-                    <p className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p>
+                    <Link className='font'> <p className='Int-sub-head effect'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p></Link>
                 </div>
                 <div className='col-md-3 col-12 border-end'>
                     <div className='B-lead'>
@@ -38,7 +38,7 @@ const Jibon = () => {
 
                         </Link>
                     </div>
-                    <p className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p>
+                    <Link className='font'> <p className='Int-sub-head effect'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p></Link>
                 </div>
                 <div className='col-md-3 col-12 border-end'>
                     <div className='B-lead'>
@@ -51,7 +51,7 @@ const Jibon = () => {
 
                         </Link>
                     </div>
-                    <p className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p>
+                    <Link className='font'> <p className='Int-sub-head effect'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p></Link>
                 </div>
                 <div className='col-md-3 col-12 border-end'>
                     <div className='B-lead'>
@@ -64,7 +64,7 @@ const Jibon = () => {
 
                         </Link>
                     </div>
-                    <p className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p>
+                    <Link className='font'> <p className='Int-sub-head effect'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p></Link>
                 </div>
             </div>
         </div>

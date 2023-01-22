@@ -33,7 +33,7 @@ const Economics = () => {
                         <div className='Inter-sub-list'>
                         <div className='row'>
                         <div className='col-md-6 col-7 '>
-                        <p className='Int-sub-head'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p>
+                        <Link className='font'> <p className='Int-sub-head effect'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p></Link>
                         </div>
                         <div className='col-md-6 col-5'>
                             <div className='B-lead'>
@@ -54,7 +54,7 @@ const Economics = () => {
                         <div className='Inter-sub-list'>
                         <div className='row'>
                         <div className='col-md-6 col-7 '>
-                        <p className='Int-sub-head'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p>
+                        <Link className='font'> <p className='Int-sub-head effect'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p></Link>
                         </div>
                         <div className='col-md-6 col-5'>
                             <div className='B-lead'>
@@ -75,7 +75,7 @@ const Economics = () => {
                         <div className='Int-sub-border'>
                         <div className='row'>
                         <div className='col-md-6 col-7 '>
-                        <p className='Int-sub-head'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p>
+                        <Link className='font'> <p className='Int-sub-head effect'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p></Link>
                         </div>
                         <div className='col-md-6 col-5'>
                             <div className='B-lead'>
@@ -96,7 +96,7 @@ const Economics = () => {
                         <div className='Int-sub-border'>
                         <div className='row'>
                         <div className='col-md-6 col-7 '>
-                        <p className='Int-sub-head'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p>
+                        <Link className='font'> <p className='Int-sub-head effect'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p></Link>
                         </div>
                         <div className='col-md-6 col-5'>
                             <div className='B-lead'>

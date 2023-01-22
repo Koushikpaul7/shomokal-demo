@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 const NavBottom = () => {
-  const [chatWidth, setChatWidth] = useState(undefined);
+
   const [sidebarTop, setSidebarTop] = useState(undefined);
 
   useEffect(() => {
     const chatEl = document.querySelector('.sidebar').getBoundingClientRect();
-    setChatWidth(chatEl.width);
+   
     setSidebarTop(chatEl.top);
   }, []);
 

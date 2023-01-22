@@ -49,6 +49,5 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
-    background-color:none;
     font-size: 14px;
 }

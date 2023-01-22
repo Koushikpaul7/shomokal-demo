@@ -1,13 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../Bangladesh/Bangladesh.css';
-import '../MultiSection/Multi.css'
+import '../MultiSection/Multi.css';
+import '../Home'
 import Probash from './Probash';
 import Shikkha from './Shikkha';
 const Rajdhani = () => {
     return (
         <div>
-            <div className='row'>
+            <div className='row '>
                 <div className='col-md-4 col-12 border-end'>
                 <div className='title'>
             <div className='col-md-12 '>
@@ -33,7 +34,7 @@ const Rajdhani = () => {
                     </div>
                 </div>
             </div>
-            <div className='row g-2 py-3'> 
+            <div className='row g-2 py-3 border-bottom'> 
                 <div className='col-md-5 col-7'>
                 <Link to='/'>
                         <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/SUICIDE-samakal-63b9c29a8d0a2.webp" className='img-fluid' alt=""/>
