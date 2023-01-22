@@ -1,0 +1,82 @@
+.footer-top{
+    background: #fff;
+    border-top: 2px solid #e18b20;
+    padding: 10px 0;
+}
+.logo{
+    width: 200px;
+}
+.social-link{
+    border: 1px solid #ddd;
+    font-size: 16px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 29px;
+    border-radius: 50px;
+    color: #333;
+    text-decoration: none;
+}
+.main-footer{
+        background: #393939;
+        border-top: 2px solid #e18b20;
+        padding: 30px 0;
+}
+.DAddress h6 {
+        color: #fff;
+        margin-bottom: 10px;
+    }
+.DAddress {
+        color: #fff;
+    }
+p a{
+    text-decoration: none;
+    color: #fff;
+}
+p{ font-size: 14px;}
+a:hover{
+    color: #ddd;
+}
+
+.AboutMenu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.AboutMenu li {
+    display: inline-block;
+    margin-bottom: 25px;
+}
+.AboutMenu li a {
+    font-size: 14px;
+    color: #f5f5f5;
+    padding: 9px 17px 7px;
+    line-height: 16px;
+    background: #313131;
+    margin-left: 10px;
+    border-radius: 4px;
+}
+.AboutMenu li a:hover{
+    background: #000;
+    color: #e18b20;
+}
+.footer-bottom{
+    background: #393939;
+    border-top: 2px solid #e18b20;
+    padding: 30px 0;
+}
+.DFooterLink ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.DFooterLink li {
+    display: inline-block;
+}
+.DFooterLink li a {
+    font-size: 14px;
+    color: #f5f5f5;
+    padding: 3px 10px;
+    line-height: 16px;
+}
