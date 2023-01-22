@@ -12,6 +12,9 @@ const FooterBottom = () => {
                         </ul>
                     </div>
                 </div>
+                <div className='col-md-8 col-12 d-flex justify-content-end'>
+                <p>© ২০২৩ |সমকাল কর্তৃক সর্বসত্ব ® সংরক্ষিত | উন্নয়নে ইমিথমেকারস.কম</p>
+                </div>
             </div>
         </div>
     );
