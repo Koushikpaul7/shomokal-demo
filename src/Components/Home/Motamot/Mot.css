@@ -1,0 +1,20 @@
+.DBGWhite {
+    background: #f0f0f0;
+    margin: 40px
+px
+ 0;
+    padding: 30px 0 40px 0;
+}
+
+
+.DBGWhite img {
+    aspect-ratio: 1;
+    border-radius: 50%;
+    border: 3px solid #fff;
+}
+.heading-mot{
+    font-size: 12px;
+}
+.sub-heading-mot{
+    font-size: 14px;
+}

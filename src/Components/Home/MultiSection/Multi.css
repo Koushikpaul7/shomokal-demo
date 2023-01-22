@@ -1,0 +1,54 @@
+.DCatStyle2Top {
+    position: relative;
+    margin-top: 10px;
+}
+.DCatStyle2Top .thumbnail {
+    border: 0 none;
+    box-shadow: none;
+    margin: 0 0 0 0;
+    padding: 0;
+}
+.Imgresize {
+    position: relative;
+}
+.DCatStyle2Top .ImgViewer {
+    margin: 0;
+}
+.ImgViewer {
+    position: relative;
+    overflow: hidden;
+    display: block;
+}
+.DCatStyle2Top .ImgViewer::after {
+    background-image: linear-gradient(180deg,transparent,transparent 50%,#000);
+    content: " ";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+.DCatStyle2Top .thumbnail .Desc {
+    padding: 0px 10px 7px;
+}
+.DCatStyle2Top .Desc {
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+    z-index: 10;
+}
+.DCatStyle2Top .Desc .Title2 {
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 600;
+    color: #fff;
+}
+.Title2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    background-color:none;
+    font-size: 14px;
+}

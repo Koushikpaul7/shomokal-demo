@@ -1,0 +1,13 @@
+.Chakri-sub{
+    font-size: 15px;
+}
+.MulTwo{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    background-color:none;
+    font-size: 13px;
+    font-weight: 900;
+}
