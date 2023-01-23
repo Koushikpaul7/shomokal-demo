@@ -26,8 +26,8 @@ const Rajniti = () => {
                                 </div>
 
                                     <div className='Desc'>
-                                    <div className='Title'>
-                                       <h3 className='fw-bold'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3>
+                                    <div className=''>
+                                       <h3 className='fw-bold Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3>
                                        </div>
                                         <div className='Brief'>
                                             <p>নতুন করে সংকট সৃষ্টি না করতে বিএনপির প্রতি আহ্বান জানিয়েছেন আওয়ামী লীগের সাধারণ সম্পাদক ওবায়দুল কাদের। তিনি বলেন, অংশগ্রহণের মাধ্যমে আসুন আমরা আগামী জাতীয় নির্বাচনে একসঙ্গে লড়াই করি। আশা করছি বিএনপি নতুন করে কোনো সংকট তৈরি করবে না। </p>
@@ -50,8 +50,8 @@ const Rajniti = () => {
                                     </div>
                                   
                                         <div className=''>
-                                        <div className='Title my-2'>
-                                       <h4 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
+                                        <div className=' my-2'>
+                                       <h4 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
                                        </div>
 
                                         </div>
@@ -70,8 +70,8 @@ const Rajniti = () => {
                                     </div>
                                     <Link to='/'>
                                       
-                                        <div className='Title my-2'>
-                                       <h4 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
+                                        <div className=' my-2'>
+                                       <h4 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
                                        
 
                                         </div>
@@ -82,8 +82,8 @@ const Rajniti = () => {
                                 <div className='border-bottom pb-1'>
                                     <Link to='/'>
                                         <div className='text-decoration-none text-dark'>
-                                        <div className='Title my-2'>
-                                       <h4 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
+                                        <div className=' my-2'>
+                                       <h4 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
                                        </div>
 
                                         </div>
@@ -92,16 +92,16 @@ const Rajniti = () => {
                                 <div className='border-bottom pb-1'>
                                     <Link to='/'>
                                       
-                                        <div className='Title my-2'>
-                                       <h4 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
+                                        <div className=' my-2'>
+                                       <h4 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
                                        </div>
                                       
                                     </Link>
                                 </div>
                                 <div className='border-bottom pb-1'>
                                     <Link to='/'>
-                                        <div className='Title my-2'>
-                                       <h4 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
+                                        <div className=' my-2'>
+                                       <h4 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
 
                                         </div>
                                     </Link>
@@ -109,16 +109,16 @@ const Rajniti = () => {
                                 <div className='border-bottom pb-1'>
                                     <Link to='/'>
                                        
-                                        <div className='Title my-2'>
-                                       <h4 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
+                                        <div className=' my-2'>
+                                       <h4 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
                                        </div>
                                     
                                     </Link>
                                 </div>
                                 <div className='pb-1'>
                                     <Link to='/'>
-                                    <div className='Title my-2'>
-                                       <h4 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
+                                    <div className=' my-2'>
+                                       <h4 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
                                        </div>
                                     </Link>
                                 </div>

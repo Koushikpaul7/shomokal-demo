@@ -12,9 +12,7 @@ const OffBit = () => {
                     </h6>
                 </div>
             </div>
-            <ul class="list-group">
-                <li class="list-group-item p-0">
-                    <div className='DCatStyle'>
+            <div className='DCatStyle'>
                         <div className='DCatStyle2Top'>
                             <div className='col-sm-12 thumbnail'>
                                 <Link to='/' className='font'>
@@ -30,11 +28,19 @@ const OffBit = () => {
                             </div>
                         </div>
                     </div>
-                </li>
-                <Link> <li class="list-group-item Chakri-sub effect">এসএসসি পাসেই শ্রম ও কর্মসংস্থান মন্ত্রণালয়ে চাকরির সুযোগ</li></Link>
-                <Link> <li class="list-group-item Chakri-sub effect">১২ পদে ২২৩৭ জনকে নিয়োগ দেবে এলজিইডি</li></Link>
-                <Link><li class="list-group-item Chakri-sub effect">এমপিওভুক্ত ৬৮ হাজার শিক্ষক নিয়োগে বিজ্ঞপ্তি</li></Link>
-            </ul>
+                    <div className='DCatStyle3List'>
+                        <div className='DCatStyle3ListItem'>
+
+                            <Link to='/'> <h5 className='Title'>এসএসসি পাসেই শ্রম ও কর্মসংস্থান মন্ত্রণালয়ে চাকরির সুযোগ</h5></Link>
+
+                        </div>
+                        <div className='DCatStyle3ListItem'>
+                            <Link to='/'><h3 className='Title'>  ১২ পদে ২২৩৭ জনকে নিয়োগ দেবে এলজিইডি</h3></Link>
+                        </div>
+                        <div className='DCatStyle3ListItem'>
+                            <Link to='/'><h3 className='Title'>   এমপিওভুক্ত ৬৮ হাজার শিক্ষক নিয়োগে বিজ্ঞপ্তি</h3></Link>
+                        </div>
+                    </div>
         </div>
     );
 };

@@ -29,3 +29,27 @@
     height: 100%;
     object-fit: cover;
   }
+  .swiper-button {
+  position: absolute;
+  top: 50%;
+  z-index: 10;
+  cursor: pointer;
+}
+  .image-swiper-button-prev {
+    top: 0;
+    left: 5px;
+    color: gold;
+    margin-top: 70px;
+  }
+  .swiper-button svg {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+  .image-swiper-button-next {
+    right: 5px;
+    color: gold;
+    margin-top: 70px;
+  }
+  .swiper-button-disabled {
+    opacity: 0.5;
+  }

@@ -9,9 +9,7 @@ const NavBottom = () => {
     const chatEl = document.querySelector('.sidebar').getBoundingClientRect();
    
     setSidebarTop(chatEl.top);
-  }, []);
-
-  useEffect(() => {
+ 
     if (!sidebarTop) 
     return;
 
@@ -46,45 +44,36 @@ const NavBottom = () => {
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0 ">
         <li class="nav-item ">
-          <Link to="/"> <a class="nav-link active" aria-current="page"  href={() => false}>বাংলাদেশ</a> </Link>
+        <Link class="nav-link active" to="/">বাংলাদেশ </Link>
         </li>
         <li class="nav-item ">
-          <Link to="/"> <a class="nav-link active"  href={() => false}>রাজনীতি
-</a> </Link>
+        <Link class="nav-link active" to="/">রাজনীতি </Link>
         </li>
         <li class="nav-item ">
-          <Link to="/"> <a class="nav-link active"  href={() => false}>অর্থনীতি
+        <Link class="nav-link active" to="/">অর্থনীতি</Link>
+        </li>
+        <li class="nav-item ">
+        <Link class="nav-link active" to="/">আন্তর্জাতিক </Link>
+        </li>
+        <li class="nav-item ">
+        <Link class="nav-link active" to="/">খেলা </Link>
+        </li>
+        <li class="nav-item ">
+        <Link class="nav-link active" to="/">বিনোদন </Link>
+        </li>
+        <li class="nav-item ">
+        <Link class="nav-link active" to="/">সারাদেশ</Link>
+        </li>
+        <li class="nav-item ">
+        <Link class="nav-link active" to="/">মতামত </Link>
+        </li>
+        <li class="nav-item ">
+          <Link to="/" class="nav-link active"> প্রবাস </Link>
+        </li>
+        <li class="nav-item ">
+          <Link class="nav-link active" to="/"> রাজধানী
 
-</a> </Link>
-        </li>
-        <li class="nav-item ">
-          <Link to="/"> <a class="nav-link active"  href={() => false}>আন্তর্জাতিক
-</a> </Link>
-        </li>
-        <li class="nav-item ">
-          <Link to="/"> <a class="nav-link active"  href={() => false}>খেলা
-</a> </Link>
-        </li>
-        <li class="nav-item ">
-          <Link to="/"> <a class="nav-link active"  href={() => false}>বিনোদন
-</a> </Link>
-        </li>
-        <li class="nav-item ">
-          <Link to="/"> <a class="nav-link active"  href={() => false}>সারাদেশ
-</a> </Link>
-        </li>
-        <li class="nav-item ">
-          <Link to="/"> <a class="nav-link active"  href={() => false}>মতামত
-</a> </Link>
-        </li>
-        <li class="nav-item ">
-          <Link to="/"> <a class="nav-link active"  href={() => false}>প্রবাস
-</a> </Link>
-        </li>
-        <li class="nav-item ">
-          <Link to="/"> <a class="nav-link active"  href={() => false}>রাজধানী
-
-</a> </Link>
+</Link>
         </li>
         <li class="nav-item ">
           <Link to="/"> <a class="nav-link active"  href={() => false}>জীবনশৈলী

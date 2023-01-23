@@ -5,25 +5,44 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/free-mode";
 import "swiper/css/pagination";
-
+import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
 import "../VideoGallery/Slider.css";
 import '../VideoGallery/VedioGallery.css'
 // import required modules
-import { FreeMode, Pagination } from "swiper";
+import { FreeMode, Pagination, Autoplay, Navigation } from "swiper";
 import { Link } from 'react-router-dom';
 const Slider = () => {
     return (
-        <div className='mt-4'>
+        <div className='container mt-4'>
+             <div style={{  position: "relative" }}>
+      <div className="swiper-button image-swiper-button-next">
+        <IoIosArrowForward />
+      </div>
+      <div className="swiper-button image-swiper-button-prev">
+        <IoIosArrowBack />
+      </div>
+      </div>
         <Swiper
+          navigation={{
+            nextEl: ".image-swiper-button-next",
+            prevEl: ".image-swiper-button-prev",
+            disabledClass: "swiper-button-disabled"
+          }}
+          
+          className="mySwiper"
         slidesPerView={4}
         loop={true}
+        autoplay={{
+            delay: 2500,
+            disableOnInteraction: false,
+          }}
         spaceBetween={30}
         freeMode={true}
         pagination={{
           clickable: true,
         }}
-        modules={[FreeMode, Pagination]}
-        className="mySwiper"
+        modules={[Navigation,Autoplay,FreeMode, Pagination]}
+        
       >
         <SwiperSlide><div className='DVideoGalleryTopItem'>
                         <div className='col-sm-12 thumbnail'>

@@ -41,7 +41,9 @@
 }
 /* image */
 
-
+.DLeadNewsList2 .Desc .Title:hover{
+  color: #e18b20;
+}
 /* Lead list 3 */
 .DLeadNewsList3 {
   width: 100%;
@@ -71,7 +73,6 @@
 .DLeadNewsList2 {
   width: 100%;
   position: relative;
-  border-bottom: 1px solid #e2e2e2;
   padding-bottom: 15px;
 }
 .DLeadNewsList2:hover .Title {
@@ -263,6 +264,9 @@
   -webkit-line-clamp: 2;
   color: #555;
 }
+.DBangTopNews.Title:hover {
+  color: #e18b20;
+}
 
 .Brief p {
   font-size: 16px;
@@ -278,13 +282,13 @@
 .DBangTopNews .Title {
   font-size: 18px;
   line-height: 25px;
-  font-weight: 600;
+  font-weight: 500;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
-
+  margin-top: 10px;
   color: #000;
 }
 .Title:hover {
