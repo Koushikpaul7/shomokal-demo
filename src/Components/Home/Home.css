@@ -5,6 +5,241 @@
     padding-left: 10px;
 }
 
+/* Lead section */
+.DLeadNews {
+  width: 100%;
+  position: relative;
+  border-bottom: 1px solid #e2e2e2;
+  margin-bottom: 15px;
+}
+/* Publish Time */
+.PublishTime {
+  color: #777;
+  font-size: 14px;
+}
+/* title  */
+.DLeadNews .Desc .Title {
+  font-size: 28px;
+  line-height: 38px;
+  color: #333;
+  font-weight: 700;
+}
+.DLeadNews:hover .Title {
+  color: #e18b20;
+}
+/* brief  */
+.DLeadNews .Desc .Brief p {
+  -webkit-line-clamp: 3;
+  color: #555;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 7px;
+}
+/* Border right */
+.border-right-inner {
+  border-right: 1px solid #ebebeb;
+}
+/* image */
+
+
+/* Lead list 3 */
+.DLeadNewsList3 {
+  width: 100%;
+  position: relative;
+}
+.DLeadNewsList3 .Desc {
+  padding: 15px 0;
+}
+.DLeadNewsList3 .Desc .Title {
+  font-size: 18px;
+  line-height: 25px;
+  color: #333;
+  font-weight: 600;
+  margin-top: 5px;
+}
+.DLeadNewsList3:hover .Title {
+  color: #e18b20;
+}
+.DLeadNewsList3 .Desc .Brief p {
+  -webkit-line-clamp: 2;
+  color: #555;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 7px;
+}
+/* Seconf banner sec */
+.DLeadNewsList2 {
+  width: 100%;
+  position: relative;
+  border-bottom: 1px solid #e2e2e2;
+  padding-bottom: 15px;
+}
+.DLeadNewsList2:hover .Title {
+  color: #e18b20;
+}
+.DLeadNewsList2 .Desc {
+  padding-top: 7px;
+}
+.DLeadNewsList2 .Desc .Title {
+  font-size: 18px;
+  line-height: 25px;
+  color: #333;
+  font-weight: 600;
+  margin-top: 5px;
+}
+.DLeadNewsList2 .Desc .Brief p {
+  -webkit-line-clamp: 3;
+  color: #555;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 7px;
+}
+.DTop2 {
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid #e2e2e2;
+}
+.DTop2List {
+  width: 100%;
+  position: relative;
+}
+.DTop2List .Desc {
+  padding: 5px 0px 10px;
+}
+.DTop2List .Title {
+  -webkit-line-clamp: 2;
+  font-size: 18px;
+  line-height: 25px;
+  color: #333;
+  font-weight: 600;
+  min-height: 50px;
+}
+.Title {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.DTop2List .Brief p {
+  color: #555;
+  font-size: 16px;
+  line-height: 24px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: 7px;
+}
+.DTop3List {
+  width: 100%;
+  position: relative;
+  padding: 15px 0 0;
+  border-bottom: 1px solid #e2e2e2;
+}
+.DTop3List .Title {
+  -webkit-line-clamp: 2;
+  height: 56px;
+  font-weight: 600;
+}
+.Title:hover {
+  color: #e18b20;
+}
+.DTop4NewsItem .Title {
+  font-size: 16px;
+  line-height: 1.5;
+  max-height: 69px;
+  overflow: hidden;
+  padding: 0;
+  color: #333;
+  display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.DTop4NewsItem .Title:hover{
+  color: #e18b20;
+}
+
+.DTop4NewsItem {
+  border-bottom: 1px solid #eee;
+  padding:  0;
+}
+.DTop4NewsItem:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+/* Jorip */
+
+.Question {
+  padding: 5px 7px 7px 7px;
+  background: #F1DBDB;
+}
+.Question h3 {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 23px;
+}
+ .VoteAnswer {
+  margin: 12px 0 6px;
+}
+.DEditorialTopNews .Desc {
+  padding: 10px 0;
+  min-height: 147px;
+}
+.DEditorialTopNews .WriterName {
+  font-size: 14px;
+  margin: 0;
+  color: #e18b20;
+  line-height: 16px;
+  padding: 5px 0;
+}
+.DEditorialTopNews .Brief p {
+  -webkit-line-clamp: 2;
+  color: #555;
+}
+
+.Brief p {
+  font-size: 16px;
+  line-height: 1.425;
+  color: #555;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: 6px;
+}
+
+.DEditorialListItem:first-child {
+  border-top: 0;
+}
+
+.DEditorialListItem {
+  padding: 10px 0;
+  border-top: 1px solid #ebebeb;
+  display: flow-root;
+}
+.DEditorialListItem .DetailsBlock {
+  float: none;
+  width: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Zoom effect */
 
 .zoom {
@@ -59,8 +294,8 @@
 .lead {
     width: 100%;
     position: relative;
-    border-bottom: 1px solid #e2e2e2;
-    margin-bottom: 15px;
+   
+    
 }
 /* pic caption */
 .lead .caption {
@@ -105,19 +340,18 @@
   overflow: auto;
 }
 .latest span{
-  font-size: 30px;
+  font-size: 35px;
     padding-right: 12px;
     color: #B78C8C;
 }
 .latest p{
-  font-size: 15px;
+  font-size: 18px;
   line-height: 25px;
   align-items: center;
   display: flex;
   position: relative;
   top: 2px;
   color: #000;
-  font-weight: 500;
 }
 .latest p:hover{
   color: #e18b20;
@@ -127,7 +361,10 @@
   background: #e18b20;
   color: #fff;
 }
-
+.bg{
+  font-size: 18px;
+    line-height: 25px;
+}
 
 
 
@@ -232,9 +469,10 @@
   background: #e18b20;
   border-color: #e18b20;
   border-radius: 25px;
-  padding: 9px 15px 7px;
+  padding: 9px 15px 6px;
   line-height: 16px;
-  font-size: 14px;
+  font-size: 15px;
+  margin-bottom: 5px;
 }
 h1, h2, h3, h4, h5, h6 p{
   font-family: 'SolaimanLipi';

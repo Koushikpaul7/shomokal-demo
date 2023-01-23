@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import '../Home.css'
 const SubNews = () => {
     return (
-        <div>
+        <div className='DTop4NewsItem'>
             <div className='separate'>
             <div className='row'>
             <div className='col-5 col-md-5'>
@@ -18,8 +18,11 @@ const SubNews = () => {
                 </div>
             </div>
             <div className='col-7 col-md-7'>
-                <Link to='#' className='text-decoration-none sub-font text-dark'>
-                    <p className='effect '> রিফাতের ছবি ‘ওয়ান ইলেভেন’, মূখ্য চরিত্রে আফজাল হোসেন</p></Link>
+                <Link to='#' >
+                    <div className=''>
+                    <p className='Title'> রিফাতের ছবি ‘ওয়ান ইলেভেন’, মূখ্য চরিত্রে আফজাল হোসেন</p>
+                    </div>
+                  </Link>
             </div>
             </div>
         </div>
@@ -37,8 +40,8 @@ const SubNews = () => {
                 </div>
             </div>
             <div className='col-7 col-md-7'>
-                <Link to='#' className='text-decoration-none sub-font text-dark'>
-                    <p className='effect '> ৬০ হাজার মেট্রিক টন সার কিনবে সরকার</p></Link>
+                <Link to='#' >
+                    <p className='Title '> ৬০ হাজার মেট্রিক টন সার কিনবে সরকার</p></Link>
             </div>
             </div>
         </div>
@@ -56,8 +59,8 @@ const SubNews = () => {
                 </div>
             </div>
             <div className='col-7 col-md-7'>
-                <Link to='#' className='text-decoration-none sub-font text-dark'>
-                    <p className='effect '> ১০০টি রেলক্রসিংয়ের মধ্যে ৭০টিই অবৈধ</p></Link>
+                <Link to='#' >
+                    <p className='Title '> ১০০টি রেলক্রসিংয়ের মধ্যে ৭০টিই অবৈধ</p></Link>
             </div>
             </div>
         </div>
@@ -75,8 +78,8 @@ const SubNews = () => {
                 </div>
             </div>
             <div className='col-7 col-md-7'>
-                <Link to='#' className='text-decoration-none sub-font text-dark'>
-                    <p className='effect '> গরু ডাকাতি হল রাতে, সকালে মিলল যুবকের হাত-পা বাঁধা লাশ</p></Link>
+                <Link to='#'>
+                    <p className='Title '> গরু ডাকাতি হল রাতে, সকালে মিলল যুবকের হাত-পা বাঁধা লাশ</p></Link>
             </div>
             </div>
         </div>
@@ -94,8 +97,8 @@ const SubNews = () => {
                 </div>
             </div>
             <div className='col-7 col-md-7'>
-                <Link to='#' className='text-decoration-none sub-font text-dark'>
-                    <p className='effect '> করোনার টিকা কি বাধ্যতামূলক হওয়া উচিত</p></Link>
+                <Link to='#'>
+                    <p className='Title '> করোনার টিকা কি বাধ্যতামূলক হওয়া উচিত</p></Link>
             </div>
             </div>
         </div>
@@ -113,8 +116,8 @@ const SubNews = () => {
                 </div>
             </div>
             <div className='col-7 col-md-7'>
-                <Link to='#' className='text-decoration-none sub-font text-dark'>
-                    <p className='effect '> রিফাতের ছবি ‘ওয়ান ইলেভেন’, মূখ্য চরিত্রে আফজাল হোসেন</p></Link>
+                <Link to='#'>
+                    <p className='Title '> রিফাতের ছবি ‘ওয়ান ইলেভেন’, মূখ্য চরিত্রে আফজাল হোসেন</p></Link>
             </div>
             </div>
         </div>

@@ -29,14 +29,7 @@
 .DAddress {
         color: #fff;
     }
-p a{
-    text-decoration: none;
-    color: #fff;
-}
-p{ font-size: 14px;}
-a:hover{
-    color: #ddd;
-}
+
 
 .AboutMenu ul {
     list-style: none;

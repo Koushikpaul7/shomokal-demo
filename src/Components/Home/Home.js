@@ -22,6 +22,7 @@ const Home = () => {
         <div>
             <Banner/>
             <SecondSection/>
+            <AddSection/>
             <Editorial/>
             <Bangladesh/>
             <Rajniti/>

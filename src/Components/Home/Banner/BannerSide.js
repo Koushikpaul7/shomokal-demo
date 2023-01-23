@@ -12,7 +12,7 @@ const BannerSide = () => {
                 </div>
 
                 <div className='col-12 col-md-12'>
-                    <div className='mt-2  text-center background text-center d-flex col-12 col-md-12'>
+                    <div className='mt-2  text-center background text-center d-flex col-12 col-md-12 border-bottom'>
                         <p className='bg p-3 col-6 col-md-6'>সর্বশেষ</p>
                         <p className='bg p-3 col-6 col-md-6'>সর্বাধিক পঠিত</p>
                     </div>

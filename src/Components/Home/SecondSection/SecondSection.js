@@ -7,49 +7,54 @@ import { FaRegQuestionCircle } from 'react-icons/fa';
 const SecondSection = () => {
     return (
         <div  className='container'>
-            <div className='row border-bottom'>
+            <div className='row '>
                 <div className='col-12 col-md-9'>
                     <div className='row'>
                         {/* left section */}
                         <div className='col-12 col-md-8 '>
+                            <div className='DTop3list'>
                             <div className='row '>
                                 <div className='col-md-6 col-12 pb-3'>
                                     <div className='row border-end'>
+                                        <Link to='#'>
                                         <div className='col-md-12 col-5'>
                                             <div className='lead '>
-                                                <Link to='/'>
+                                               
                                                     <div className='zoom '>
                                                         <div className='imgContainer'>
                                                             <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/----7-samakal-63be880758163.webp" alt="" className='fix-ratio' />
                                                         </div>
                                                     </div>
 
-                                                </Link>
+                                              
                                             </div>
                                         </div>
                                         <div className='col-md-12 col-7 '>
-                                            <Link to='#' className='text-decoration-none head-font-2 text-dark'><p className='effect border-bottom pb-3'> সন্ত্রাসী গোষ্ঠীতে যুক্ত হয়েছিলেন বলে স্বীকারোক্তি শামীমা বেগমের</p></Link>
+                                           <h3 className='Title'> সন্ত্রাসী গোষ্ঠীতে যুক্ত হয়েছিলেন বলে স্বীকারোক্তি শামীমা বেগমের</h3>
                                         </div>
+                                        </Link>
                                     </div>
 
                                 </div>
                                 <div className='col-md-6 col-12 pb-3'>
-                                    <div className='row border-end'>
+                                <div className='row border-end'>
+                                        <Link to='#'>
                                         <div className='col-md-12 col-5'>
                                             <div className='lead '>
-                                                <Link to='/'>
+                                               
                                                     <div className='zoom '>
                                                         <div className='imgContainer'>
                                                             <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/dead-body-2-samakal-63be87b59388c.jpg" alt="" className='fix-ratio' />
                                                         </div>
                                                     </div>
 
-                                                </Link>
+                                              
                                             </div>
                                         </div>
                                         <div className='col-md-12 col-7 '>
-                                            <Link to='#' className='text-decoration-none head-font-2 text-dark'><p className='effect border-bottom pb-3'> পাঁচদিন আগে নিখোঁজ রিকশাচালকের লাশ উঠল পুকুরে ভেসে </p></Link>
+                                           <h3 className='Title'> পাঁচদিন আগে নিখোঁজ রিকশাচালকের লাশ উঠল পুকুরে ভেসে</h3>
                                         </div>
+                                        </Link>
                                     </div>
 
                                 </div>
@@ -68,7 +73,7 @@ const SecondSection = () => {
                                             </div>
                                         </div>
                                         <div className='col-md-12 col-7 '>
-                                            <Link to='#' className='text-decoration-none head-font-2 text-dark'><p className='effect pb-3'> রংপুরে চলছে বিএনপির গণ-অবস্থান, সতর্ক অবস্থানে আ'লীগ</p></Link>
+                                            <Link to='#'><h3 className='Title'> রংপুরে চলছে বিএনপির গণ-অবস্থান, সতর্ক অবস্থানে আ'লীগ</h3></Link>
                                         </div>
                                     </div>
 
@@ -88,11 +93,12 @@ const SecondSection = () => {
                                             </div>
                                         </div>
                                         <div className='col-md-12 col-7 '>
-                                            <Link to='#' className='text-decoration-none head-font-2 text-dark'><p className='effect pb-3'> ভোটের অধিকার আদায় করেই বিএনপি ঘরে ফিরবে: টুকু</p></Link>
+                                            <Link to='#'><h3 className='Title'> ভোটের অধিকার আদায় করেই বিএনপি ঘরে ফিরবে: টুকু</h3></Link>
                                         </div>
                                     </div>
 
                                 </div>
+                            </div>
                             </div>
                         </div>
                         <div className='col-12 col-md-4'>
@@ -121,11 +127,11 @@ const SecondSection = () => {
 
                                     </Link>
                                 </div>
-                                <div className=''>
-                                    <p className=' p-2 vote-cap'>আওয়ামী লীগ সাধারণ সম্পাদক ওবায়দুল কাদের বলেছেন- দেশের রাজনীতি নষ্টদের অধিকারে চলে গেছে। আপনি কি এই মন্তব্যের সঙ্গে একমত?</p>
+                                <div className='Question'>
+                                    <h3 className=' '>আওয়ামী লীগ সাধারণ সম্পাদক ওবায়দুল কাদের বলেছেন- দেশের রাজনীতি নষ্টদের অধিকারে চলে গেছে। আপনি কি এই মন্তব্যের সঙ্গে একমত?</h3>
                                 </div>
                                 <form>
-                                <div class="vote-ans mt-2 px-3 pb-2">
+                                <div class="VoteAnswer ps-2">
                                     <label class="form-check-label me-3" for="radio1">
                                         <input type="radio" class="form-check-input" name="rdoPoll" value="1" /> হ্যাঁ</label>
                                     <label class="form-check-label me-3" for="radio2">
@@ -143,12 +149,7 @@ const SecondSection = () => {
                     </div>
                 </div>
             </div>
-            <div className='row'>
-                <div className='col-md-12 col-12 py-4 d-flex justify-content-center'>
-                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement(970X90).png" className='img-fluid' alt=""/>
-                </div>
-                
-            </div>
+            
         </div>
     );
 };
