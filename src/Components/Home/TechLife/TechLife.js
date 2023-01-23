@@ -5,8 +5,8 @@ import '../International/International.css';
 import Campus from './Campus';
 const TechLife = () => {
     return (
-        <div>
-            <div className='row'>
+        <div className='container'>
+            <div className='row border-bottom pb-3'>
                 <div className='col-md-6 col-12'>
                     <div className='title my-4'>
                         <div className='col-md-12 '>

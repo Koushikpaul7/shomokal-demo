@@ -5,14 +5,14 @@ import '../Home.css';
 import '../Sharadesh/Sharadesh.css'
 const Sharadesh = () => {
     return (
-        <div className='title my-4 border-bottom'>
+        <div className='title my-4 border-bottom container'>
             <h6><Link className='font'>
                 <span className='box'></span>
                 সারাদেশ</Link>
             </h6>
             <div className='row'>
                 <div className='col-md-9 col-12'>
-                    <div className='row border-end'>
+                    <div className='row '>
                         <div className='col-md-8 col-12 border-end'>
                             <div className='row'>
                             <div className='col-12 col-md-12 border-bottom py-2'>

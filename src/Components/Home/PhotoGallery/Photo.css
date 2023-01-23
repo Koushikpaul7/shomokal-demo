@@ -1,7 +1,7 @@
 .photo{
     background: #f0f0f0;
     margin-top: 30px;
-    padding: 20px 0 40px 0;
+    padding: 20px 0 30px 0;
 }
 .carousel-control-prev{
 top: 44%;
@@ -41,13 +41,13 @@ top: 44%;
     text-align: center;
 }
 .DPhotoGalleryList:first-child {
-    margin-top: 15px;
+  
 }
 .DPhotoGalleryList {
-    margin-top: 20px;
+   
     width: 100%;
-    background: #fff;
     border-bottom: 1px solid #e18b20;
     background: #fff;
-    margin-bottom: 20px;
+    overflow: hidden;
+    
 }

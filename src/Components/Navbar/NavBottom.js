@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
+import {  GoSearch } from 'react-icons/go';
 const NavBottom = () => {
 
   const [sidebarTop, setSidebarTop] = useState(undefined);
@@ -34,7 +35,9 @@ const NavBottom = () => {
             <div className='container '>
             <nav class="navbar navbar-expand-lg navbar-light ">
   <div class="container-fluid">
-   <div className='d-flex '>
+   <div className='d-flex justify-content-between'>
+  
+        
    <Link to="/"> <a class="navbar-brand d-block d-md-none"  href={() => false}><img className='w-50 ' src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/logo.png" alt=""/></a> </Link>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -101,6 +104,10 @@ const NavBottom = () => {
             <li><hr class="dropdown-divider"/></li>
             <li><Link to="/"> <a class="dropdown-item"  href={() => false}>Something else here</a> </Link></li>
           </ul> */}
+        </li>
+        <li class="nav-item ">
+          <Link to="/"> <a class="nav-link active"  href={() => false}>< GoSearch className='fs-4 ms-4'/>
+</a> </Link>
         </li>
       </ul>
       <form class="d-flex">

@@ -4,7 +4,7 @@ import '../Bangladesh/Bangladesh.css'
 import { Link } from 'react-router-dom';
 const Jibon = () => {
     return (
-        <div className='my-5'>
+        <div className='my-5 container'>
             <div className='title'>
                 <div className='col-md-12 '>
                     <h6><Link className='font'>

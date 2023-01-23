@@ -5,7 +5,7 @@ import BannerBottom from './BannerBottom';
 import BannerSide from './BannerSide';
 const Banner = () => {
     return (
-        <div className='banner-sec'>
+        <div className='banner-sec container'>
             <div className='row border-bottom'>
                 <div className='col-md-9 col-12'>
                     <div className='row border-bottom border-end'>
@@ -26,7 +26,7 @@ const Banner = () => {
                             <Link to='/'>
                             <div className='text-decoration-none text-dark'>
                                 <span className='text-muted sub-heading-time'> আপডেট ১১ জানুয়ারি ২৩ । ১৩:২১ </span>
-                                    <h5 className='py-1 fw-bold effect'>আওয়ামী লীগকে ধাক্কা দিলেই পড়ে যাবে না: প্রধানমন্ত্রী</h5>
+                                    <h1 className='py-1 fw-bold effect b-Title'>আওয়ামী লীগকে ধাক্কা দিলেই পড়ে যাবে না: প্রধানমন্ত্রী</h1>
                                    <div className='line pb-3 border-bottom'>
                                    <p>প্রধানমন্ত্রী শেখ হাসিনা বলেছেন, আওয়ামী লীগ ক্ষমতায় এলেই দেশের মানুষের ভাগ্যের পরিবর্তন হয়। এই দল জনগণের কল্যাণে কাজ করে। দেশের আর্থসামাজিক উন্নতি হয়েছে বলেই জনগণ তাদের ভোট দেয়। এটি জনগণের দল। আওয়ামী লীগকে ধাক্কা দিলেই পড়ে যাবে না।</p>
                                    </div>

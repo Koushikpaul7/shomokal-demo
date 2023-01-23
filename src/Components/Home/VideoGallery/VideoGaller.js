@@ -6,7 +6,8 @@ import '../VideoGallery/VedioGallery.css'
 import Slider from './Slider';
 const VideoGaller = () => {
     return (
-        <div className='gallery'>
+        <div className='gallery '>
+            <div className='container'>
             <div className='title '>
             <div className='col-md-12 '>
                 <h6><Link  className='font text-white'>
@@ -83,6 +84,7 @@ const VideoGaller = () => {
                         </div>
                     </div>
                 </div>
+            </div>
             </div>
 
             {/* slider */}

@@ -7,7 +7,7 @@ import SubHeading from './SubHeading';
 
 const Navbar = () => {
     return (
-        <div>
+        <div >
             <Navtop/>
             <NavMid/>
             <NavBottom/>

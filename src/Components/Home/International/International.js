@@ -5,7 +5,7 @@ import '../International/International.css';
 import Economics from './Economics';
 const International = () => {
     return (
-        <div>
+        <div className='container'>
             <div className='row'>
                 <div className='col-md-6 col-12'>
                     <div className='title my-4'>

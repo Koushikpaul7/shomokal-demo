@@ -4,7 +4,7 @@ import FooterTop from './FooterTop';
 
 const Footer = () => {
     return (
-        <div className='container'>
+        <div className=''>
             <FooterTop />
             <div className='main-footer px-2'>
                 <div className='row'>

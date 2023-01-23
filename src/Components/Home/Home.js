@@ -19,7 +19,7 @@ import Motamot from './Motamot/Motamot';
 import Editorial from './Editorial/Editorial';
 const Home = () => {
     return (
-        <div className='container my-3'>
+        <div>
             <Banner/>
             <SecondSection/>
             <Editorial/>

@@ -9,7 +9,8 @@ import Bhromon from './Bhromon';
 import OffBit from './OffBit';
 const Chakri = () => {
     return (
-        <div className='row'>
+        <div className='container'>
+            <div className='row'>
             <div className='col-md-3 col-12'>
                 <div className='title my-4'>
                     <div className='col-md-12 '>
@@ -46,6 +47,7 @@ const Chakri = () => {
             <KalerKheya/>
             <Bhromon/>
             <OffBit/>
+        </div>
         </div>
     );
 };

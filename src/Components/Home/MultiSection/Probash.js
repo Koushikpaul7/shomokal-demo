@@ -30,38 +30,51 @@ const Probash = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='row g-2 py-3 border-bottom'>
-                        <div className='col-md-5 col-7'>
-                            <Link to='/'>
-                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/SUICIDE-samakal-63b9c29a8d0a2.webp" className='img-fluid' alt="" />
-                            </Link>
-                        </div>
-                        <div className='col-md-7 col-5'>
-                            <div class="Desc">
-                                <Link className='font'><h3 class="Title2 effect pt-2">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
+                    <div className='row g py-2 border-bottom'>
+                        <div className='col-12 col-md-12 border-bottom py-2'>
+                            <div className='row'>
+                                <div className='col-md-5 col-7'>
+                                    <Link to='/'>
+                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/SUICIDE-samakal-63b9c29a8d0a2.webp" className='img-fluid' alt="" />
+                                    </Link>
+                                </div>
+                                <div className='col-md-7 col-5'>
+                                    <div class="Desc">
+                                        <Link className='font'><h3 class="Title2 effect pt-2">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
+                                    </div>
+                                </div>
+                                </div>
+                                </div>
+                                <div className='col-12 col-md-12 border-bottom py-2'>
+                            <div className='row'>
+                                <div className='col-md-5 col-7'>
+                                    <Link to='/'>
+                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/SUICIDE-samakal-63b9c29a8d0a2.webp" className='img-fluid' alt="" />
+                                    </Link>
+                                </div>
+                                <div className='col-md-7 col-5'>
+                                    <div class="Desc">
+                                        <Link className='font'><h3 class="Title2 effect pt-2">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
+                                    </div>
+                                </div>
+                                </div>
+                                </div>
+                                <div className='col-12 col-md-12 py-2'>
+                            <div className='row'>
+                                <div className='col-md-5 col-7'>
+                                    <Link to='/'>
+                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/SUICIDE-samakal-63b9c29a8d0a2.webp" className='img-fluid' alt="" />
+                                    </Link>
+                                </div>
+                                <div className='col-md-7 col-5'>
+                                    <div class="Desc">
+                                        <Link className='font'><h3 class="Title2 effect pt-2">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
+                                    </div>
+                                </div>
+                                </div>
+                                </div>
+                               
                             </div>
-                        </div>
-                        <div className='col-md-5 col-7'>
-                            <Link to='/'>
-                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/SUICIDE-samakal-63b9c29a8d0a2.webp" className='img-fluid' alt="" />
-                            </Link>
-                        </div>
-                        <div className='col-md-7 col-5'>
-                            <div class="Desc">
-                                <Link className='font'><h3 class="Title2 effect pt-2">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
-                            </div>
-                        </div>
-                        <div className='col-md-5 col-7'>
-                            <Link to='/'>
-                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/SUICIDE-samakal-63b9c29a8d0a2.webp" className='img-fluid' alt="" />
-                            </Link>
-                        </div>
-                        <div className='col-md-7 col-5'>
-                            <div class="Desc">
-                                <Link className='font'><h3 class="Title2 effect pt-2">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
-                            </div>
-                        </div>
-                    </div>
                 </div>
     );
 };

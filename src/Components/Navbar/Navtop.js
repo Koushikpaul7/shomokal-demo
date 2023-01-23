@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Navtop = () => {
     return (
-        <div className='d-none d-md-block bar '>
+        <div className='headerTopBar d-none d-md-block bar '>
                 <div className='container'>
                     <div className='row ' >
                         <div className='col-md-6 link'>

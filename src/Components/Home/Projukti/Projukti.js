@@ -4,7 +4,7 @@ import '../Bangladesh/Bangladesh.css';
 import '../Home.css'
 const Projukti = () => {
     return (
-        <div>
+        <div className='container'>
              <div className='title my-4'>
             <div className='col-md-12 '>
                 <h6><Link className='font'>

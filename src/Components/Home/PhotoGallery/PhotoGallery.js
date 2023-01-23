@@ -8,6 +8,7 @@ import PhotoSide from './PhotoSide';
 const PhotoGallery = () => {
     return (
         <div className='photo'>
+            <div className='container'>
             <div className='title my-4'>
                 <div className='col-md-12 '>
                     <h6><Link className='font'>
@@ -89,6 +90,7 @@ const PhotoGallery = () => {
                     <PhotoSide/>
                 </div>
 
+            </div>
             </div>
         </div>
     );
