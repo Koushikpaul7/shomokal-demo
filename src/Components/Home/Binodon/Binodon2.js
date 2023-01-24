@@ -1,20 +1,23 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../Binodon/Binodon.css';
+import '../Home.css'
 const Binodon2 = () => {
     return (
-        <div className='container title my-3'>
-            <div className='col-md-12 '>
+        <div className='container title '>
+            <div className='col-md-12 mt-4'>
                 <h6><Link className='font'>
                     <span className='box'></span>
                     বিনোদন</Link>
                 </h6>
             </div>
+            <div className='mt-5'>
+                
             <div className='row g-4'>
-                <div className='col-md-6 col-12 '>
+                <div className='col-md-6 col-12 DEnterTop '>
                     <div className='row'>
                         <div className='col-md-8'>
-                        <div className='B-lead'>
+                        <div className='lead'>
                                         <Link to='/'>
                                             <div className='zoom '>
                                                 <div className='imgContainer'>
@@ -25,9 +28,11 @@ const Binodon2 = () => {
                                         </Link>
                                     </div>
                         </div>
-                        <div className='col-md-4'>
-                        <Link to='#' className='text-dark'><p className='py-3 fw-bold effect Bin-head'> আমরা একসঙ্গে আছি, এক ছাদের নিচেই আছি: পরীমণি</p></Link>
-                                    <div className='Bin-line'>
+                        <div className='col-md-4 p-3'>
+                        <Link to='#' >
+                       <h1 className='Title'> আমরা একসঙ্গে আছি, এক ছাদের নিচেই আছি: পরীমণি</h1>
+                        </Link>
+                                    <div className='Brief'>
                                     <p>রাজের বাসায় থাকছেন না পরীমণি বা রাজ থাকছেন না পরীমণির বাসায়- গত কয়েকদিন ধরে এ নিয়ে চলে আলোচনা। তাদের বিচ্ছেদ হচ্ছে- এমন কথাও সংবাদ মাধ্যমে আসে। কিন্তু এরই মধ্যে বৃহস্পতিবার সমকালকে পরীমণি বললেন, 'আমরা আলাদা থাকছি না, একসঙ্গেই আছি, এক ছাদের নিচে আছি।'</p>
                                     </div>
                         </div>
@@ -143,6 +148,7 @@ const Binodon2 = () => {
                             </Link>
                 </div>
 
+            </div>
             </div>
         </div>
     );

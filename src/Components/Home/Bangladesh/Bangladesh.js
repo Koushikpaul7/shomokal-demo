@@ -6,14 +6,16 @@ const Bangladesh = () => {
     return (
         <div className='title container'>
             <div className='col-md-12 '>
-                <h6><Link  className='font'>
+                <h6><Link to='/' className='font'>
                 <span className='box'></span>
                 বাংলাদেশ</Link>
                 </h6>
             </div>
+            <div className='DBangTopNews'>
+                
             <div className='row '>
-                <div className='col-md-5 left-lead col-12 border-end'>
-                <div className='B-lead'>
+                <div className='col-md-6 left-lead col-12 border-end'>
+                <div className='lead'>
                                 <Link to='/'>
                                     <div className='zoom '>
                                         <div className='imgContainer'>
@@ -24,18 +26,18 @@ const Bangladesh = () => {
                                 </Link>
                             </div>
                             <Link to='/'>
-                            <div className='text-decoration-none text-dark'>
-                                    <p className='py-1 fw-bold effect B-head'>ব্রাজিলের সঙ্গে বাণিজ্যিক সহযোগিতা বাড়ানোর আহ্বান প্রধানমন্ত্রীর</p>
-                                   <div className='B-line pb-3'>
+                            <div className='Desc'>
+                                    <p className='Title'>ব্রাজিলের সঙ্গে বাণিজ্যিক সহযোগিতা বাড়ানোর আহ্বান প্রধানমন্ত্রীর</p>
+                                   <div className='Brief'>
                                    <p>প্রধানমন্ত্রী শেখ হাসিনা বাংলাদেশ ও ব্রাজিলের মধ্যে বাণিজ্যিক সহযোগিতা বৃদ্ধির প্রয়োজনীয়তার ওপর গুরুত্বারোপ করে বলেছেন, দুই দেশের মধ্যে ব্যবসা সম্প্রসারণের বিপুল সম্ভাবনা রয়েছে।</p>
                                    </div>
                             </div>
                             </Link>
                 </div>
-                <div className='col-md-3 left-lead col-12 border-end'>  
-                <div className='border-bottom pb-1'>
+                <div className='col-md-2 left-lead col-12 border-end'>  
+                <div className=''>
                     <Link to='/'>
-                <div className='B-lead '>
+                <div className='lead '>
                                 
                                     <div className='zoom '>
                                         <div className='imgContainer'>
@@ -44,14 +46,14 @@ const Bangladesh = () => {
                                     </div>
 
                             </div>
-                            <div className='text-decoration-none text-dark'>
-                                    <p className='py-1 fw-bold effect B-2-head'>রাজধানীতে অনুমোদনহীন ক্লিনিক নেই</p>
+                            <div className='Title border-bottom mb-3'>
+                                    <h4 className='pb-2'>রাজধানীতে অনুমোদনহীন ক্লিনিক নেই</h4>
                                    
                             </div>
                             </Link>
                 </div>
                 <Link to='/'>
-                <div className='B-lead '>
+                <div className='lead '>
                                
                                     <div className='zoom '>
                                         <div className='imgContainer'>
@@ -62,9 +64,8 @@ const Bangladesh = () => {
                                 
                             </div>
                           
-                            <div className='text-decoration-none text-dark pb-3'>
-                                    <p className='py-1 fw-bold effect B-2-head'>রাজধানীতে অনুমোদনহীন ক্লিনিক নেই</p>
-                                   
+                            <div className='Title'>
+                                    <h3 className=''>রাজধানীতে অনুমোদনহীন ক্লিনিক নেই</h3>  
                             </div>
                             </Link>
                 
@@ -79,7 +80,9 @@ const Bangladesh = () => {
                        <div className='Bd-sub-list'>
                                         <div className='row'>
                                         <div className='col-md-8 col-7 '>
-                                        <p className='Int-sub-head effect'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p>
+                                       <div className='Title'>
+                                       <h3 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3>
+                                       </div>
                                         </div>
                                         <div className='col-md-4 col-5'>
                                             <div className='B-lead'>
@@ -107,7 +110,9 @@ const Bangladesh = () => {
                        <div className='Bd-sub-list'>
                                         <div className='row'>
                                         <div className='col-md-8 col-7 '>
-                                       <p className='Int-sub-head effect'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p>
+                                        <div className='Title'>
+                                       <h3 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3>
+                                       </div>
                                         </div>
                                         <div className='col-md-4 col-5'>
                                             <div className='B-lead'>
@@ -131,7 +136,9 @@ const Bangladesh = () => {
                        <div className='Bd-sub-list'>
                                         <div className='row'>
                                         <div className='col-md-8 col-7 '>
-                                      <p className='Int-sub-head effect'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p>
+                                        <div className='Title'>
+                                       <h3 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3>
+                                       </div>
                                         </div>
                                         <div className='col-md-4 col-5'>
                                             <div className='B-lead'>
@@ -155,7 +162,9 @@ const Bangladesh = () => {
                        <div className='Bd-sub-list'>
                                         <div className='row'>
                                         <div className='col-md-8 col-7 '>
-                                      <p className='Int-sub-head effect'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</p>
+                                        <div className='Title'>
+                                       <h3 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3>
+                                       </div>
                                         </div>
                                         <div className='col-md-4 col-5'>
                                             <div className='B-lead'>
@@ -177,6 +186,7 @@ const Bangladesh = () => {
                        </div>
                     </div>
                 </div>
+            </div>
             </div>
         </div>
     );

@@ -25,9 +25,11 @@ const Rajniti = () => {
                                  
                                 </div>
 
-                                    <div className='text-decoration-none text-dark'>
-                                        <p className='py-1 fw-bold effect B-head'>বিএনপি নতুন সংকট তৈরি করবে না, আশা সেতুমন্ত্রীর</p>
-                                        <div className='R-line pb-3'>
+                                    <div className='Desc'>
+                                    <div className='Title'>
+                                       <h3 className='fw-bold'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3>
+                                       </div>
+                                        <div className='Brief'>
                                             <p>নতুন করে সংকট সৃষ্টি না করতে বিএনপির প্রতি আহ্বান জানিয়েছেন আওয়ামী লীগের সাধারণ সম্পাদক ওবায়দুল কাদের। তিনি বলেন, অংশগ্রহণের মাধ্যমে আসুন আমরা আগামী জাতীয় নির্বাচনে একসঙ্গে লড়াই করি। আশা করছি বিএনপি নতুন করে কোনো সংকট তৈরি করবে না। </p>
                                         </div>
                                     </div>
@@ -36,7 +38,7 @@ const Rajniti = () => {
                             <div className='col-md-3 col-12 border-end'>
                                 <div className='border-bottom pb-1'>
                                 <Link to='/'>
-                                    <div className='B-lead '>
+                                    <div className='lead '>
                                         
                                             <div className='zoom '>
                                                 <div className='imgContainer'>
@@ -47,14 +49,16 @@ const Rajniti = () => {
                                       
                                     </div>
                                   
-                                        <div className='text-decoration-none text-dark'>
-                                            <p className='py-1 effect R-2-head R-line-2'>রাজধানীতে অনুমোদনহীন ক্লিনিক নেই</p>
+                                        <div className=''>
+                                        <div className='Title my-2'>
+                                       <h4 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
+                                       </div>
 
                                         </div>
                                     </Link>
                                 </div>
                                 <div className='pt-2'>
-                                    <div className='B-lead '>
+                                    <div className='lead '>
                                         <Link to='/'>
                                             <div className='zoom '>
                                                 <div className='imgContainer'>
@@ -65,8 +69,10 @@ const Rajniti = () => {
                                         </Link>
                                     </div>
                                     <Link to='/'>
-                                        <div className='text-decoration-none text-dark'>
-                                            <p className='py-1 effect R-2-head R-line-2'>রাজধানীতে অনুমোদনহীন ক্লিনিক নেই</p>
+                                      
+                                        <div className='Title my-2'>
+                                       <h4 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
+                                       
 
                                         </div>
                                     </Link>
@@ -76,41 +82,44 @@ const Rajniti = () => {
                                 <div className='border-bottom pb-1'>
                                     <Link to='/'>
                                         <div className='text-decoration-none text-dark'>
-                                            <p className='py-1 effect  R-2-head'>ফখরুল-আব্বাসের জামিননামা কারাগারে পৌঁছেছে</p>
+                                        <div className='Title my-2'>
+                                       <h4 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
+                                       </div>
 
                                         </div>
                                     </Link>
                                 </div>
                                 <div className='border-bottom pb-1'>
                                     <Link to='/'>
-                                        <div className='text-decoration-none text-dark  line-gap '>
-                                            <p className='py-1 effect R-2-head'>ফ্যাসিবাদকে সরাতে রাজপথে তুমুল আন্দোলনের প্রস্তুতি নিন: মামুন হাসান</p>
+                                      
+                                        <div className='Title my-2'>
+                                       <h4 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
+                                       </div>
+                                      
+                                    </Link>
+                                </div>
+                                <div className='border-bottom pb-1'>
+                                    <Link to='/'>
+                                        <div className='Title my-2'>
+                                       <h4 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
 
                                         </div>
                                     </Link>
                                 </div>
                                 <div className='border-bottom pb-1'>
                                     <Link to='/'>
-                                        <div className='text-decoration-none text-dark line-gap '>
-                                            <p className='py-1  effect R-2-head '>গণতন্ত্র বাঁচাতে শক্তিশালী বিরোধী দল প্রয়োজন: ওবায়দুল কাদের</p>
-
-                                        </div>
-                                    </Link>
-                                </div>
-                                <div className='border-bottom pb-1'>
-                                    <Link to='/'>
-                                        <div className='text-decoration-none text-dark  line-gap'>
-                                            <p className='py-1  R-2-head effect'>বিএনপি নতুন সংকট তৈরি করবে না, আশা সেতুমন্ত্রীর</p>
-
-                                        </div>
+                                       
+                                        <div className='Title my-2'>
+                                       <h4 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
+                                       </div>
+                                    
                                     </Link>
                                 </div>
                                 <div className='pb-1'>
                                     <Link to='/'>
-                                        <div className='text-decoration-none text-dark line-gap '>
-                                            <p className='py-1  R-2-head effect '>গেট নির্মাণে অর্ধকোটি টাকার অনিয়ম, তদন্তে ধীরগতি</p>
-
-                                        </div>
+                                    <div className='Title my-2'>
+                                       <h4 className=''>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
+                                       </div>
                                     </Link>
                                 </div>
                             </div>

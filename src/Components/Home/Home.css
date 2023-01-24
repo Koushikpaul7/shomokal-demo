@@ -232,12 +232,19 @@
   color: #e18b20;
   line-height: 16px;
   padding: 5px 0;
+  font-weight: 600;
 
 }
 .DEditorialListItem .Title {
   font-size: 16px;
   line-height: 22px;
   color: #000;
+  display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+   
 }
 .DEditorialListItem .Title:hover {
   color: #e18b20;
@@ -247,10 +254,74 @@
   padding-bottom: 10px;
 }
 
+.bg-body{
+  background: #f0f0f0 !important;
+  padding: 20px 10px;
+}
 
+.DBangTopNews .Desc .Brief p {
+  -webkit-line-clamp: 2;
+  color: #555;
+}
 
+.Brief p {
+  font-size: 16px;
+  line-height: 1.425;
+  color: #555;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: 6px;
+}
+.DBangTopNews .Title {
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 600;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 
-
+  color: #000;
+}
+.Title:hover {
+  color: #e18b20;
+}
+img {
+  aspect-ratio: 1.7777;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.DEnterTop .Title {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+}
+.DEnterTop.Title:hover {
+  color: #e18b20;
+}
+.DEnterTop .Brief p {
+  font-size: 16px;
+  line-height: 1.425;
+  color: #555;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: 6px;
+}
+.DEnterTop {
+  margin-top: 15px;
+  background: transparent;
+  position: relative;
+  border: 1px solid #ebebeb;
+  padding: 0 0;
+}
 
 
 
