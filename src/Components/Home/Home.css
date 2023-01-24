@@ -379,8 +379,18 @@
   font-size: 17px;
   line-height: 25px;
 }
-
-
+DCatStyle{
+  margin-top: 15px;
+}
+.DCatStyle3List {
+  border-bottom: 1px solid #ebebeb;
+  border-left: 1px solid #ebebeb;
+  border-right: 1px solid #ebebeb;
+}
+.DCatStyle3ListItem {
+  padding: 10px;
+  border-bottom: 1px solid #ebebeb;
+}
 
 
 

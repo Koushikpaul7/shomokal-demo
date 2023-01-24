@@ -10,7 +10,7 @@ const Probash = () => {
                         <div className='col-md-12 '>
                             <h6><Link className='font'>
                                 <span className='box'></span>
-                                শিক্ষা</Link>
+                                প্রবাস</Link>
                             </h6>
                         </div>
                     </div>
@@ -30,7 +30,7 @@ const Probash = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='row g py-2 border-bottom'>
+                    <div className='row  py-2 '>
                         <div className='col-12 col-md-12 border-bottom py-2'>
                             <div className='row'>
                                 <div className='col-md-5 col-7'>

@@ -8,7 +8,8 @@ const Bhromon = () => {
             <div className='col-md-12 '>
                 <h6><Link className='font'>
                     <span className='box'></span>
-                    চাকরি</Link>
+                    চাকরি'
+                    </Link>
                 </h6>
             </div>
         </div>

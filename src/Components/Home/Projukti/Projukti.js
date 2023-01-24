@@ -25,7 +25,7 @@ const Projukti = () => {
 
                         </Link>
                     </div>
-                   <Link className='font'> <p className='fw-bold effect'>এন্ট গ্রুপের নিয়ন্ত্রণ ছাড়ছেন জ্যাক মা</p></Link>
+                   <Link to='/'> <h3 className='Title'>এন্ট গ্রুপের নিয়ন্ত্রণ ছাড়ছেন জ্যাক মা</h3></Link>
                 </div>
                 <div className='col-md-3 col-12'>
                 <div className='B-lead'>
@@ -38,7 +38,7 @@ const Projukti = () => {
 
                         </Link>
                     </div>
-                    <Link className='font'>  <p className='fw-bold effect'>সিইএস ২০২৩ :আইওটি পণ্য প্রদর্শন করছে ওয়ালটন</p></Link>
+                    <Link to='/'>  <h3 className='Title'>সিইএস ২০২৩ :আইওটি পণ্য প্রদর্শন করছে ওয়ালটন</h3></Link>
                    
                 </div>
                 <div className='col-md-3 col-12'>
@@ -52,7 +52,7 @@ const Projukti = () => {
 
                         </Link>
                     </div>
-                    <Link className='font'><p className='fw-bold effect'>টুইটারের ২০ কোটি ব্যবহারকারীর ই-মেইল হ্যাক</p></Link>
+                    <Link to='/'><h3 className='Title'>টুইটারের ২০ কোটি ব্যবহারকারীর ই-মেইল হ্যাক</h3></Link>
                 </div>
                 <div className='col-md-3 col-12'>
                 <div className='B-lead'>
@@ -65,7 +65,7 @@ const Projukti = () => {
 
                         </Link>
                     </div>
-                    <Link className='font'> <p className='fw-bold effect'>স্কাইপেতে তাৎক্ষণিক ভাষান্তর সুবিধা চালু</p></Link>
+                    <Link to='/'> <h3 className='Title'>স্কাইপেতে তাৎক্ষণিক ভাষান্তর সুবিধা চালু</h3></Link>
                 </div>
             </div>
         </div>
