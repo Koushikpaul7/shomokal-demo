@@ -26,7 +26,10 @@
         color: #fff;
         margin-bottom: 10px;
     }
-.DAddress {
+.DAddress  {
+        color: #fff;
+    }
+.DAddress p a {
         color: #fff;
     }
 

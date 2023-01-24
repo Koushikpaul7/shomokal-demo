@@ -39,7 +39,7 @@ const PhotoGallery = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item ">
                                 <div className='DCatStyle'>
                                     <div className='DCatStyle2Top'>
                                         <div className='col-sm-12 thumbnail'>
@@ -85,6 +85,9 @@ const PhotoGallery = () => {
                             <span class="visually-hidden">Next</span>
                         </button>
                     </div>
+
+                        
+
                 </div>
                 <div className='col-md-4 col-12'>
                     <PhotoSide/>

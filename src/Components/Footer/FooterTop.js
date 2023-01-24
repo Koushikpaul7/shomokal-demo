@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 import '../Footer/Footer.css';
 const FooterTop = () => {
     return (
-        <div className='footer-top d-none d-md-block px-2'>
+        <div className='footer-top d-none d-md-block px-5'>
             <div className='row'>
                 <div className='col-md-6'>
                     <img src=" https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/logo.png" className='img-fluid logo' alt=""/>

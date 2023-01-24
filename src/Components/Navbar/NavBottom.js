@@ -90,9 +90,9 @@ const NavBottom = () => {
                    </Link>
                 </li>
                 <li class="nav-item dropdown">
-                  <Link to="/"> <a class="nav-link active dropdown-toggle" href={() => false} id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="true">
+                  <Link to="/"  class="nav-link active dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="true">
                     অন্যান্য
-                  </a> </Link>
+                  </Link>
                 </li>
                 
                 <div className={`position-absolute top-0 start-0 w-100 h-100 ${navbar2 ? "d-block" : "d-none"}`}>

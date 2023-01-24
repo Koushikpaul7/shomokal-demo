@@ -4,16 +4,15 @@ import { Link } from 'react-router-dom';
 const Navtop = () => {
     return (
         <div className='headerTopBar d-none d-md-block bar '>
-                <div className='container'>
+                <div className='container '>
                     <div className='row ' >
                         <div className='col-md-6 link'>
                             
-                            <div className='d-flex  top'>
+                            <div className=' top'>
                                 <ul className='d-flex'>
                                 <li ><Link to='/'>ইউনিকোড কনভার্টার </Link></li>
-                                
-                                
-                                <li className='text-decoration-none'><Link to='/'> আর্কাইভ </Link></li>     
+                    
+                                <li ><Link to='/'> আর্কাইভ </Link></li>     
                                 </ul>
                                
                                 
@@ -26,7 +25,7 @@ const Navtop = () => {
                                 <li ><Link to='/' >ই-পেপার  </Link></li>
                                 
                                 
-                                <li className='text-decoration-none'><Link to='/'> আর্কাইভ </Link></li>     
+                                <li><Link to='/'> ENGLISH </Link></li>     
                                 </ul>
                                                        
                             </div>
