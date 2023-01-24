@@ -12,10 +12,11 @@ const Sports = () => {
             </h6>
             <div className='row'>
                 <div className='col-md-9 col-12'>
+                <div className='DSportsTop'>
                     <div className='row'>
                         <div className='col-md-4 col-12'>
-                            <p className='py-1 fw-bold effect B-head'>মাশরাফিকে বিসিবিতে চান পাপন</p>
-                            <div className='py-2 Sp-font'>
+                            <h3 className='Title'>মাশরাফিকে বিসিবিতে চান পাপন</h3>
+                            <div className='Brief'>
                                 <p>২০২০ সালে সবশেষ জাতীয় দলের হয়ে খেলেছিলেন মাশরাফি বিন মর্তুজা। এরপর জাতীয় দলে না খেললেও খেলছেন দেশের ঘরোয়া টুর্নামেন্টগুলোতে। অনেক ভক্তই চান, মাশরাফি এখন খেলা বাদ দিয়ে ক্রিকেট বোর্ড কিংবা জাতীয় দলের কোনো দায়িত্ব সম্পৃক্ত হোক। বছর দুয়েক আগে মাশরাফি বলেছিলেন, বোর্ড থেকে দায়িত্ব নেওয়ার ব্যাপারে সুনির্দিষ্ট কোনো প্রস্তাব পাননি </p>
                             </div>
                         </div>
@@ -33,8 +34,9 @@ const Sports = () => {
                         </div>
                     </div>
                 </div>
-                <div className='col-md-3 col-12'>
-                    <div className='B-lead'>
+                </div>
+                <div className='col-md-3 col-12 DSportsTop'>
+                    <div className='lead'>
                         <Link to='/'>
                             <div className='zoom '>
                                 <div className='imgContainer'>
@@ -43,15 +45,15 @@ const Sports = () => {
                             </div>
                         </Link>
                     </div>
-                    <p className='py-1 fw-bold effect B-head'>অ্যালিসনের ‘শিশুতোষ’ ভুল, অফসাইড বিতর্কে হার এড়াল লিভারপুল</p>
-                    <div className='py-2 Sp-font'>
+                    <h5 className='Title-2'>অ্যালিসনের ‘শিশুতোষ’ ভুল, অফসাইড বিতর্কে হার এড়াল লিভারপুল</h5>
+                    <div className='Brief'>
                         <p>লিভারপুল কোচ জার্গেন ক্লপের কাছে ফুটবল বিশ্লেষক ও ভক্তদের আর্জি- নতুন মিডফিল্ডার সাইন করান। ইনজুরি জর্জরিত দল তার। মিডফিল্ডাররা নিয়মিত খেলতে পারছেন না।</p>
                     </div>
                 </div>
                 {/* bottom part */}
-                <div className='row mt-4'>
-                    <div className='col-md-3 col-12'>
-                        <div className='B-lead'>
+                <div className='row mt-4 border-top pt-4'>
+                    <div className='col-md-3 col-12 '>
+                        <div className='lead'>
                             <Link to='/'>
                                 <div className='zoom '>
                                     <div className='imgContainer'>
@@ -60,10 +62,10 @@ const Sports = () => {
                                 </div>
                             </Link>
                         </div>
-                        <p className='py-1 fw-bold effect Sp-head'>ইনজুরিতে পাকিস্তান ও ভারতের বিপক্ষে নেই হেনরি</p>
+                        <p className='Title-2'>ইনজুরিতে পাকিস্তান ও ভারতের বিপক্ষে নেই হেনরি</p>
                     </div>
                     <div className='col-md-3 col-12'>
-                        <div className='B-lead'>
+                        <div className='lead'>
                             <Link to='/'>
                                 <div className='zoom '>
                                     <div className='imgContainer'>
@@ -72,7 +74,7 @@ const Sports = () => {
                                 </div>
                             </Link>
                         </div>
-                        <p className='py-1 fw-bold effect Sp-head'>পর্তুগালের কোচ হচ্ছেন রবার্তো মার্টিনেজ</p>
+                        <p className='Title-2'>পর্তুগালের কোচ হচ্ছেন রবার্তো মার্টিনেজ</p>
                     </div>
                     <div className='col-md-3 col-12'>
                         <div className='B-lead'>
@@ -84,10 +86,10 @@ const Sports = () => {
                                 </div>
                             </Link>
                         </div>
-                        <p className='py-1 fw-bold effect Sp-head'>সিডনি টেস্ট ড্র, ২০০ করতে না পারার আক্ষেপ নেই খাজার</p>
+                        <p className='Title-2'>সিডনি টেস্ট ড্র, ২০০ করতে না পারার আক্ষেপ নেই খাজার</p>
                     </div>
                     <div className='col-md-3 col-12'>
-                        <div className='B-lead'>
+                        <div className='lead'>
                             <Link to='/'>
                                 <div className='zoom '>
                                     <div className='imgContainer'>
@@ -96,7 +98,7 @@ const Sports = () => {
                                 </div>
                             </Link>
                         </div>
-                        <p className='py-1 fw-bold effect Sp-head'>সাকিব ঝড়ে রান পাহাড়ে বরিশাল</p>
+                        <p className='Title-2'>সাকিব ঝড়ে রান পাহাড়ে বরিশাল</p>
                     </div>
                 </div>
             </div>

@@ -290,12 +290,7 @@
 .Title:hover {
   color: #e18b20;
 }
-img {
-  aspect-ratio: 1.7777;
-  width: 100%;
-  object-fit: cover;
-  object-position: center;
-}
+
 .DEnterTop .Title {
   font-size: 20px;
   line-height: 30px;
@@ -316,12 +311,76 @@ img {
   margin-top: 6px;
 }
 .DEnterTop {
-  margin-top: 15px;
+ 
   background: transparent;
   position: relative;
   border: 1px solid #ebebeb;
   padding: 0 0;
+  
 }
+.DEnterTop2 {
+  padding: 0 0;
+  background: transparent;
+  position: relative;
+  width: 100%;
+}
+
+.DSportsTop .Title {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: bold;
+}
+.DSportsTop .Brief p {
+  -webkit-line-clamp: 7;
+  color: #555;
+  padding-top: 10px;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.Title-2{
+  margin-top: 5px;
+  font-size: 19px;
+  line-height: 32px;
+  line-height: 1.43;
+    letter-spacing: -0.3px;
+    padding-left: 2px;
+    color: #000;
+ 
+}
+.DBusinessTop .Brief p {
+  -webkit-line-clamp: 4;
+  color: #555;
+}
+.DBusinessListItem .Title {
+  font-size: 17px;
+  line-height: 24px;
+  -webkit-line-clamp: 3;
+}
+.DInternationalTop .Title {
+  font-weight: bold;
+}
+.DInternationalTop .Brief p {
+  -webkit-line-clamp: 4;
+  color: #555;
+}
+.DInternational4List .Title {
+  font-size: 17px;
+}
+.DTechCamTop .Title {
+  font-weight: bold;
+}
+.DTechCamTop .Brief p {
+  -webkit-line-clamp: 4;
+  color: #555;
+}
+.DTechCam3List .Title {
+  margin-top: 6px;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+
 
 
 

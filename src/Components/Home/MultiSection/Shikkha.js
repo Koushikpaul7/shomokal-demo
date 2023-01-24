@@ -30,7 +30,7 @@ const Shikkha = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='row g py-2 border-bottom'>
+                    <div className='row g py-2 '>
                         <div className='col-12 col-md-12 border-bottom py-2'>
                             <div className='row'>
                                 <div className='col-md-5 col-7'>
@@ -40,7 +40,7 @@ const Shikkha = () => {
                                 </div>
                                 <div className='col-md-7 col-5'>
                                     <div class="Desc">
-                                        <Link className='font'><h3 class="Title2 effect pt-2">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
+                                    <Link to='/'><h3 class="Title ">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
                                     </div>
                                 </div>
                                 </div>
@@ -54,7 +54,7 @@ const Shikkha = () => {
                                 </div>
                                 <div className='col-md-7 col-5'>
                                     <div class="Desc">
-                                        <Link className='font'><h3 class="Title2 effect pt-2">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
+                                    <Link to='/'><h3 class="Title ">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
                                     </div>
                                 </div>
                                 </div>
@@ -68,7 +68,7 @@ const Shikkha = () => {
                                 </div>
                                 <div className='col-md-7 col-5'>
                                     <div class="Desc">
-                                        <Link className='font'><h3 class="Title2 effect pt-2">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
+                                    <Link to='/'><h3 class="Title ">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
                                     </div>
                                 </div>
                                 </div>

@@ -40,7 +40,7 @@ const Probash = () => {
                                 </div>
                                 <div className='col-md-7 col-5'>
                                     <div class="Desc">
-                                        <Link className='font'><h3 class="Title2 effect pt-2">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
+                                    <Link to='/'><h3 class="Title ">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
                                     </div>
                                 </div>
                                 </div>
@@ -54,7 +54,7 @@ const Probash = () => {
                                 </div>
                                 <div className='col-md-7 col-5'>
                                     <div class="Desc">
-                                        <Link className='font'><h3 class="Title2 effect pt-2">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
+                                    <Link to='/'><h3 class="Title ">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
                                     </div>
                                 </div>
                                 </div>
@@ -68,7 +68,7 @@ const Probash = () => {
                                 </div>
                                 <div className='col-md-7 col-5'>
                                     <div class="Desc">
-                                        <Link className='font'><h3 class="Title2 effect pt-2">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
+                                    <Link to='/'><h3 class="Title ">মুগদায় স্কুলছাত্রীর আত্মহত্যা</h3></Link>
                                     </div>
                                 </div>
                                 </div>

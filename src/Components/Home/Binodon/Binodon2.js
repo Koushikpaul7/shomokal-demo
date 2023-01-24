@@ -5,16 +5,16 @@ import '../Home.css'
 const Binodon2 = () => {
     return (
         <div className='container title '>
-            <div className='col-md-12 mt-4'>
+            <div className='col-md-12 mb-5'>
                 <h6><Link className='font'>
                     <span className='box'></span>
                     বিনোদন</Link>
                 </h6>
             </div>
-            <div className='mt-5'>
+            <div className=''>
                 
-            <div className='row g-4'>
-                <div className='col-md-6 col-12 DEnterTop '>
+            <div className='row '>
+                <div className='col-md-6 mb-4 col-12 DEnterTop '>
                     <div className='row'>
                         <div className='col-md-8'>
                         <div className='lead'>
@@ -40,6 +40,27 @@ const Binodon2 = () => {
 
                 </div>
                 <div className='col-md-3 '>
+                 
+                    <div className='lead '>
+                                <Link to='/'>
+                                    <div className='zoom '>
+                                        <div className='imgContainer'>
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" className='fix-ratio' />
+                                        </div>
+                                    </div>
+
+                                </Link>
+                            </div>
+                            <Link to='/'>
+                                <div className='Title '>
+                                    <h3 className=' '>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
+
+                                </div>
+                            </Link>
+                    </div>
+                
+               
+                <div className='col-md-3 '>
                 <div className='B-lead '>
                                 <Link to='/'>
                                     <div className='zoom '>
@@ -51,8 +72,8 @@ const Binodon2 = () => {
                                 </Link>
                             </div>
                             <Link to='/'>
-                                <div className='text-decoration-none text-dark'>
-                                    <p className='py-1 fw-bold effect Bin-head '>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</p>
+                            <div className='Title '>
+                                    <h3 className=' '>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
 
                                 </div>
                             </Link>
@@ -69,8 +90,8 @@ const Binodon2 = () => {
                                 </Link>
                             </div>
                             <Link to='/'>
-                                <div className='text-decoration-none text-dark'>
-                                    <p className='py-1 fw-bold effect Bin-head p-2'>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</p>
+                            <div className='Title '>
+                                    <h3 className=' '>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
 
                                 </div>
                             </Link>
@@ -87,8 +108,8 @@ const Binodon2 = () => {
                                 </Link>
                             </div>
                             <Link to='/'>
-                                <div className='text-decoration-none text-dark'>
-                                    <p className='py-1 fw-bold effect Bin-head p-2'>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</p>
+                            <div className='Title '>
+                                    <h3 className=' '>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
 
                                 </div>
                             </Link>
@@ -105,8 +126,8 @@ const Binodon2 = () => {
                                 </Link>
                             </div>
                             <Link to='/'>
-                                <div className='text-decoration-none text-dark'>
-                                    <p className='py-1 fw-bold effect Bin-head p-2'>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</p>
+                            <div className='Title '>
+                                    <h3 className=' '>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
 
                                 </div>
                             </Link>
@@ -123,26 +144,8 @@ const Binodon2 = () => {
                                 </Link>
                             </div>
                             <Link to='/'>
-                                <div className='text-decoration-none text-dark'>
-                                    <p className='py-1 fw-bold effect Bin-head p-2'>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</p>
-
-                                </div>
-                            </Link>
-                </div>
-                <div className='col-md-3 '>
-                <div className='B-lead '>
-                                <Link to='/'>
-                                    <div className='zoom '>
-                                        <div className='imgContainer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" className='fix-ratio' />
-                                        </div>
-                                    </div>
-
-                                </Link>
-                            </div>
-                            <Link to='/'>
-                                <div className='text-decoration-none text-dark'>
-                                    <p className='py-1 fw-bold effect Bin-head p-2'>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</p>
+                            <div className='Title '>
+                                    <h3 className=' '>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
 
                                 </div>
                             </Link>

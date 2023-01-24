@@ -30,6 +30,7 @@ const Home = () => {
             <Binodon2/>
             <Sports/>
             <Sharadesh/>
+            <AddSection/>
             <International/>
             <AddSection/>
             <TechLife/>
