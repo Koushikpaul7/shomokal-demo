@@ -28,14 +28,17 @@ const Binodon2 = () => {
                                         </Link>
                                     </div>
                         </div>
+                      
                         <div className='col-md-4 p-3'>
-                        <Link to='#' >
+                        <Link to='#'>
                        <h1 className='Title'> আমরা একসঙ্গে আছি, এক ছাদের নিচেই আছি: পরীমণি</h1>
-                        </Link>
+                       
                                     <div className='Brief'>
                                     <p>রাজের বাসায় থাকছেন না পরীমণি বা রাজ থাকছেন না পরীমণির বাসায়- গত কয়েকদিন ধরে এ নিয়ে চলে আলোচনা। তাদের বিচ্ছেদ হচ্ছে- এমন কথাও সংবাদ মাধ্যমে আসে। কিন্তু এরই মধ্যে বৃহস্পতিবার সমকালকে পরীমণি বললেন, 'আমরা আলাদা থাকছি না, একসঙ্গেই আছি, এক ছাদের নিচে আছি।'</p>
                                     </div>
+                                    </Link>
                         </div>
+                       
                     </div>
 
                 </div>
@@ -52,10 +55,10 @@ const Binodon2 = () => {
                                 </Link>
                             </div>
                             <Link to='/'>
-                                <div className='Title '>
-                                    <h3 className=' '>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
+                                
+                                    <h3 className=' Title boundary'>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
 
-                                </div>
+                               
                             </Link>
                     </div>
                 
@@ -72,10 +75,7 @@ const Binodon2 = () => {
                                 </Link>
                             </div>
                             <Link to='/'>
-                            <div className='Title '>
-                                    <h3 className=' '>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
-
-                                </div>
+                            <h3 className=' Title boundary'>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
                             </Link>
                 </div>
                 <div className='col-md-3 '>
@@ -90,10 +90,7 @@ const Binodon2 = () => {
                                 </Link>
                             </div>
                             <Link to='/'>
-                            <div className='Title '>
-                                    <h3 className=' '>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
-
-                                </div>
+                            <h3 className=' Title boundary' >তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
                             </Link>
                 </div>
                 <div className='col-md-3 '>
@@ -108,10 +105,7 @@ const Binodon2 = () => {
                                 </Link>
                             </div>
                             <Link to='/'>
-                            <div className='Title '>
-                                    <h3 className=' '>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
-
-                                </div>
+                            <h3 className=' Title boundary'>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
                             </Link>
                 </div>
                 <div className='col-md-3 '>
@@ -126,10 +120,7 @@ const Binodon2 = () => {
                                 </Link>
                             </div>
                             <Link to='/'>
-                            <div className='Title '>
-                                    <h3 className=' '>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
-
-                                </div>
+                            <h3 className=' Title boundary'>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
                             </Link>
                 </div>
                 <div className='col-md-3 '>
@@ -144,10 +135,7 @@ const Binodon2 = () => {
                                 </Link>
                             </div>
                             <Link to='/'>
-                            <div className='Title '>
-                                    <h3 className=' '>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
-
-                                </div>
+                            <h3 className=' Title boundary'>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</h3>
                             </Link>
                 </div>
 

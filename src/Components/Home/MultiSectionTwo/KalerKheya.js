@@ -8,7 +8,7 @@ const KalerKheya = () => {
                     <div className='col-md-12 '>
                         <h6><Link className='font'>
                             <span className='box'></span>
-                            চাকরি</Link>
+                            কালের খেয়া</Link>
                         </h6>
                     </div>
                 </div>
@@ -18,10 +18,10 @@ const KalerKheya = () => {
                                 <Link to='/' className='font'>
                                     <div className='Imgresize'>
                                         <div className='ImgViewer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/rfl-s-samakal-63ba571484faa.webp" alt="" className='img-fluid' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-56-samakal-63b72092b87b0.jpg" alt="" className='img-fluid' />
                                         </div>
                                         <div class="Desc">
-                                            <h3 class="MulTwo text-white">আরএফএল গ্রুপে ম্যানেজমেন্ট ট্রেইনি অফিসার’পদে চাকরির সুযোগ</h3>
+                                            <h3 class="Title">গুচ্ছ গুচ্ছ কবিতা</h3>
                                         </div>
                                     </div>
                                 </Link>
@@ -31,7 +31,7 @@ const KalerKheya = () => {
                     <div className='DCatStyle3List'>
                         <div className='DCatStyle3ListItem'>
 
-                            <Link to='/'> <h5 className='Title'>এসএসসি পাসেই শ্রম ও কর্মসংস্থান মন্ত্রণালয়ে চাকরির সুযোগ</h5></Link>
+                            <Link to='/'> <h4 className='Title'> সভ্যতা-সংস্কৃতি ও নারী</h4></Link>
 
                         </div>
                         <div className='DCatStyle3ListItem'>

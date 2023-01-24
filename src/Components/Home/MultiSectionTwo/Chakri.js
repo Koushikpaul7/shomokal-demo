@@ -30,7 +30,7 @@ const Chakri = () => {
                                             <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/rfl-s-samakal-63ba571484faa.webp" alt="" className='img-fluid' />
                                         </div>
                                         <div class="Desc">
-                                            <h3 class="MulTwo text-white">আরএফএল গ্রুপে ম্যানেজমেন্ট ট্রেইনি অফিসার’পদে চাকরির সুযোগ</h3>
+                                            <h3 class="Title">আরএফএল গ্রুপে ম্যানেজমেন্ট ট্রেইনি অফিসার’পদে চাকরির সুযোগ</h3>
                                         </div>
                                     </div>
                                 </Link>

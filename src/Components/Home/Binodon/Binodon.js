@@ -29,7 +29,7 @@ const Binodon = () => {
                                     </div>
                                </div>
                                 <div className='col-md-4'>
-                                    <Link to='#' className='text-dark'><p className='py-3 fw-bold effect Bin-head'> আমরা একসঙ্গে আছি, এক ছাদের নিচেই আছি: পরীমণি</p></Link>
+                                    <Link to='#' className='text-dark'><p className='Title'> আমরা একসঙ্গে আছি, এক ছাদের নিচেই আছি: পরীমণি</p></Link>
                                     <p className='Bin-line'>রাজের বাসায় থাকছেন না পরীমণি বা রাজ থাকছেন না পরীমণির বাসায়- গত কয়েকদিন ধরে এ নিয়ে চলে আলোচনা। তাদের বিচ্ছেদ হচ্ছে- এমন কথাও সংবাদ মাধ্যমে আসে। কিন্তু এরই মধ্যে বৃহস্পতিবার সমকালকে পরীমণি বললেন, 'আমরা আলাদা থাকছি না, একসঙ্গেই আছি, এক ছাদের নিচে আছি।'</p>
                                 </div>
                                 <div className='row g-2'>
@@ -45,10 +45,9 @@ const Binodon = () => {
                                 </Link>
                             </div>
                             <Link to='/'>
-                                <div className='text-decoration-none text-dark'>
-                                    <p className='py-1 fw-bold effect Bin-head p-2'>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</p>
+                              
+                                    <p className='Title'>তিশার কঞ্জুস স্বামী ফারহান, বছর শুরুতেই মিলিয়নিয়ার</p>
 
-                                </div>
                             </Link>
                             
                         </div>

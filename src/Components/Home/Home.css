@@ -342,7 +342,8 @@
   line-height: 24px;
   font-weight: 400;
 }
-.Title-2{
+
+.DSportsTop.Title-2{
   margin-top: 5px;
   font-size: 19px;
   line-height: 32px;
@@ -351,6 +352,9 @@
     padding-left: 2px;
     color: #000;
  
+}
+.Title-2:hover{
+ color: #e18b20;
 }
 .DBusinessTop .Brief p {
   -webkit-line-clamp: 4;
@@ -382,20 +386,38 @@
   margin-top: 6px;
   font-size: 17px;
   line-height: 25px;
+  
 }
-DCatStyle{
+.DCatStyle{
   margin-top: 15px;
+}
+.DCatStyle2Top .Title {
+  font-size: 17px;
+  line-height: 23px;
+  color: #fff;
 }
 .DCatStyle3List {
   border-bottom: 1px solid #ebebeb;
   border-left: 1px solid #ebebeb;
   border-right: 1px solid #ebebeb;
 }
+.DCatStyle3List .Title{
+  font-size: 17px;
+    line-height: 23px;
+    min-height: 46px;
+    -webkit-line-clamp: 2;
+}
 .DCatStyle3ListItem {
   padding: 10px;
   border-bottom: 1px solid #ebebeb;
+  
 }
-
+.boundary{
+  border-bottom: 1px solid #ebebeb;
+  border-left: 1px solid #ebebeb;
+  border-right: 1px solid #ebebeb;
+  padding: 10px;
+}
 
 
 

@@ -40,14 +40,30 @@ top: 44%;
     width: 60px;
     text-align: center;
 }
-.DPhotoGalleryList:first-child {
-  
-}
+
 .DPhotoGalleryList {
-   
-    width: 100%;
-    border-bottom: 1px solid #e18b20;
+    width: 100%;   
+    overflow: hidden; 
+}
+.DPhotoGalleryList2 {
     background: #fff;
-    overflow: hidden;
-    
+    border-bottom: 1px solid #e18b20;
+    margin-bottom: 20px;
+}
+.DPhotoGalleryList2 .VideoIcon::after {
+    position: absolute;
+    top: 82%;
+    left: 87%;
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    content: "\f030";
+    font-family: FontAwesome;
+    font-size: 18px;
+    color: #fff;
+    background: #e18b20;
+    line-height: 40px;
+    height: 40px;
+    width: 45px;
+    text-align: center;
+    border-radius: unset;
 }

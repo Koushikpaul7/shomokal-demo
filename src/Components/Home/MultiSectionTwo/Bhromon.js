@@ -8,7 +8,7 @@ const Bhromon = () => {
             <div className='col-md-12 '>
                 <h6><Link className='font'>
                     <span className='box'></span>
-                    চাকরি'
+                    ভ্রমণ'
                     </Link>
                 </h6>
             </div>
@@ -19,10 +19,10 @@ const Bhromon = () => {
                                 <Link to='/' className='font'>
                                     <div className='Imgresize'>
                                         <div className='ImgViewer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/rfl-s-samakal-63ba571484faa.webp" alt="" className='img-fluid' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/samakal-63b3cb135bb81.gif" alt="" className='img-fluid' />
                                         </div>
                                         <div class="Desc">
-                                            <h3 class="MulTwo text-white">আরএফএল গ্রুপে ম্যানেজমেন্ট ট্রেইনি অফিসার’পদে চাকরির সুযোগ</h3>
+                                            <h3 class="Title">বিশ্বের যেসব জায়গায় কখনও পুরোপুরি অন্ধকার হয় না</h3>
                                         </div>
                                     </div>
                                 </Link>
