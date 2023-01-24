@@ -218,14 +218,35 @@
 }
 
 .DEditorialListItem {
-  padding: 10px 0;
-  border-top: 1px solid #ebebeb;
+  padding:  0;
+  
   display: flow-root;
 }
-.DEditorialListItem .DetailsBlock {
+.DetailsBlock {
   float: none;
   width: auto;
 }
+.DEditorialListItem .WriterName {
+  font-size: 14px;
+  margin: 0;
+  color: #e18b20;
+  line-height: 16px;
+  padding: 5px 0;
+
+}
+.DEditorialListItem .Title {
+  font-size: 16px;
+  line-height: 22px;
+  color: #000;
+}
+.DEditorialListItem .Title:hover {
+  color: #e18b20;
+}
+.DEditorialListItem Desc{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 
 
 
