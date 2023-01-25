@@ -12,7 +12,7 @@ const BannerSide = () => {
                 </div>
                 
                     {/* Tab section  */}
-                <div className='' id="exTab1">
+                <div className='side-heading' id="exTab1">
                     <div className='mt-2  background text-center border-bottom '>
                         
                     
@@ -20,17 +20,17 @@ const BannerSide = () => {
                             <li class="active  col-md-6">
                                 <Link
                                    to="#1a" data-toggle="tab"
-                                ><p className='bg p-3'>সর্বশেষ</p></Link>
+                                ><p className='bg text-dark p-3'>সর্বশেষ</p></Link>
                             </li>
                             <li class="nav-item col-md-6" role="presentation">
                                 <a
-                                    href="#2a" data-toggle="tab"><p className='bg p-3'>সর্বশেষ</p></a>
+                                    href="#2a" data-toggle="tab"><p className='bg text-dark p-3'>সর্বশেষ</p></a>
                             </li>
                             </ul>
                        
                     </div>
                     <div className='bodyHeight tab-content clearfix'>
-                        <div className='tab-pane ' id="1a" >
+                        <div className='tab-pane active' id="1a" >
                             <div className='d-flex flex-row latest py-2 border-bottom' >
                                 <div className='d-flex align-items-center'>
                                     <span>১</span>

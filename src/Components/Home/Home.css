@@ -654,17 +654,28 @@
   top: 2px;
   color: #000;
 }
+.latest{
+  background: #f5f5f5 !important;
+}
+
 .latest p:hover{
   color: #e18b20;
 }
+
 
 .bg{
   font-size: 18px;
     line-height: 25px;
 }
+.sub-heading ul li a p{
+  color: #000 !important;
+}
 .active {
   background: #e18b20;
-  color: #fff;
+  color: #fff !important;
+  
+}.active ul li a p{
+  color: #fff !important;
 }
 
 .tab-pan{
