@@ -44,53 +44,53 @@ const NavBottom = () => {
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav me-auto mb-2 mb-lg-0 position-relative ">
                 <li class="nav-item ">
-                  <Link to="/" class="nav-link active" aria-current="page"> বাংলাদেশ </Link>
+                  <Link to="/" class="nav-link active-list" aria-current="page"> বাংলাদেশ </Link>
                 </li>
                 <li class="nav-item ">
-                <Link to="/" class="nav-link active">রাজনীতি
+                <Link to="/" class="nav-link active-list">রাজনীতি
                    </Link>
                 </li>
                 <li class="nav-item ">
-                <Link to="/" class="nav-link active">অর্থনীতি
+                <Link to="/" class="nav-link active-list">অর্থনীতি
 
                   </Link>
                 </li>
                 <li class="nav-item ">
-                <Link to="/" class="nav-link active">আন্তর্জাতিক
+                <Link to="/" class="nav-link active-list">আন্তর্জাতিক
                 </Link>
                 </li>
                 <li class="nav-item ">
-                <Link to="/" class="nav-link active">খেলা
+                <Link to="/" class="nav-link active-list">খেলা
                    </Link>
                 </li>
                 <li class="nav-item ">
-                  <Link to="/" class="nav-link active"> বিনোদন
+                  <Link to="/" class="nav-link active-list"> বিনোদন
                    </Link>
                 </li>
                 <li class="nav-item ">
-                  <Link to="/" class="nav-link active"> সারাদেশ </Link>
+                  <Link to="/" class="nav-link active-list"> সারাদেশ </Link>
                 </li>
                 <li class="nav-item ">
-                  <Link to="/" class="nav-link active">মতামত
+                  <Link to="/" class="nav-link active-list">মতামত
                  </Link>
                 </li>
                 <li class="nav-item ">
-                  <Link to="/" class="nav-link active"> প্রবাস
+                  <Link to="/" class="nav-link active-list"> প্রবাস
                  </Link>
                 </li>
                 <li class="nav-item ">
-                  <Link to="/" class="nav-link active"> রাজধানী </Link>
+                  <Link to="/" class="nav-link active-list"> রাজধানী </Link>
                 </li>
                 <li class="nav-item ">
-                  <Link to="/" class="nav-link active"> জীবনশৈলী
+                  <Link to="/" class="nav-link active-list"> জীবনশৈলী
                    </Link>
                 </li>
                 <li class="nav-item ">
-                  <Link to="/" class="nav-link active"> ভিডিও
+                  <Link to="/" class="nav-link active-list"> ভিডিও
                    </Link>
                 </li>
                 <li class="nav-item dropdown">
-                  <Link to="/"  class="nav-link active dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="true">
+                  <Link to="/"  class="nav-link active-list dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="true">
                     অন্যান্য
                   </Link>
                 </li>
@@ -104,7 +104,7 @@ const NavBottom = () => {
                 <div className={`position-absolute top-0 start-0 w-100 h-100 ${navbar2 ? "d-block" : "d-none"}`}>
                   <li className='d-flex justify-content-center p-1'>
                     <input type="text" class="form-control h-25 w-full " placeholder='এখানে খুঁজুন...'/>
-                    <Link to="/" class="nav-link active text-dark  mx-auto fs-1"> < GoSearch style={{"width": "24","height":"24","padding":"4","marginBottom":"305px","backgroundColor": "#ddd"}}/>
+                    <Link to="/" class="nav-link active-list text-dark  mx-auto fs-1"> < GoSearch style={{"width": "24","height":"24","padding":"4","marginBottom":"305px","backgroundColor": "#ddd"}}/>
                   </Link>
                   </li>
                 </div>

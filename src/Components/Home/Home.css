@@ -5,6 +5,17 @@
     padding-left: 10px;
 }
 
+/* tab */
+#exTab1 .tab-content {
+  
+  background: #f5f5f5;
+  padding : 5px 15px;
+}
+#exTab1 .nav-pills > li > a {
+  border-radius: 0;
+}
+
+
 /* Lead section */
 .DLeadNews {
   width: 100%;
@@ -646,15 +657,20 @@
 .latest p:hover{
   color: #e18b20;
 }
-.bg:hover{
-  cursor: pointer;
-  background: #e18b20;
-  color: #fff;
-}
+
 .bg{
   font-size: 18px;
     line-height: 25px;
 }
+.active {
+  background: #e18b20;
+  color: #fff;
+}
+
+.tab-pan{
+  background: #dee2e6!important;
+}
+
 
 
 
