@@ -34,6 +34,9 @@ const Footer = () => {
                                 <li><a href="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/">আর্কাইভ</a></li>
                             </ul>
                         </div>
+
+       
+
                     </div>
                     
                 </div>

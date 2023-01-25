@@ -13,8 +13,31 @@ const BannerSide = () => {
 
                 <div className='col-12 col-md-12'>
                     <div className='mt-2  text-center background text-center d-flex col-12 col-md-12 border-bottom'>
-                        <p className='bg p-3 col-6 col-md-6'>সর্বশেষ</p>
-                        <p className='bg p-3 col-6 col-md-6'>সর্বাধিক পঠিত</p>
+                        
+                        
+                        <ul class="nav nav-tabs mb-3" id="ex1" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <a
+                                    class="nav-link active"
+                                    id="ex1-tab-1"
+                                    data-mdb-toggle="tab"
+                                    href="#ex1-tabs-1"
+                                    role="tab"
+                                    aria-controls="ex1-tabs-1"
+                                    aria-selected="true"
+                                ><p className='bg p-3 col-6 col-md-6'>সর্বশেষ</p></a>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <a
+                                    class="nav-link"
+                                    id="ex1-tab-1"
+                                    data-mdb-toggle="tab"
+                                    href="#ex1-tabs-1"
+                                    role="tab"
+                                    aria-controls="ex1-tabs-1"
+                                    aria-selected="true"><p className='bg p-3 col-6 col-md-6'>সর্বশেষ</p></a>
+                            </li>
+                            </ul>
                     </div>
                     <div className='bodyHeight'>
                         <Link to='/'>
@@ -64,12 +87,12 @@ const BannerSide = () => {
                         </Link>
                     </div>
                     <div className='allnews-btn'>
-                      <Link to='#'> <p className='d-flex align-items-center justify-content-center'>সব খবর <AiOutlineDoubleRight/></p></Link> 
+                        <Link to='#'> <p className='d-flex align-items-center justify-content-center'>সব খবর <AiOutlineDoubleRight /></p></Link>
                     </div>
                 </div>
                 <div className='col-12 col-md-12'>
                     <div className='mt-2'>
-                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/namaz.png" className='img-fluid' alt=""/>
+                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/namaz.png" className='img-fluid' alt="" />
                     </div>
                     <div className='table-bg table-responsive'>
                         <table className='table'>
@@ -81,12 +104,12 @@ const BannerSide = () => {
                                 <tr>
                                     <td>যোহর</td>
                                     <td>১১:৪৭ দুপুর
-</td>
+                                    </td>
                                 </tr>
                                 <tr>
                                     <td>আছর</td>
                                     <td>৩:৩৬ বিকেল
-</td>
+                                    </td>
                                 </tr>
                                 <tr>
                                     <td>মাগরিব</td>
