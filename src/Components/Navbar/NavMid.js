@@ -35,7 +35,7 @@ const NavMid = () => {
                             <Link to='#' className='social-link-twit me-2'><AiOutlineTwitter/></Link>
                             <Link to='#' className='social-link-insta me-2'><SiInstagram/></Link>
                             <Link to='#' className='social-link-u-tube me-2'><TfiYoutube/></Link>
-                            <Link to='#' className='social-link'><BiRss/></Link>
+                            <Link to='#' className='social-link-rss'><BiRss/></Link>
                         </div>
                         </div>
                     </div>

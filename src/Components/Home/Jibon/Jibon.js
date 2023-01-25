@@ -7,7 +7,7 @@ const Jibon = () => {
         <div className='my-5 container'>
             <div className='title'>
                 <div className='col-md-12 '>
-                    <h6><Link className='font'>
+                    <h6><Link to='/' className='font'>
                         <span className='box'></span>
                         জীবনশৈলী</Link>
                     </h6>
@@ -30,7 +30,7 @@ const Jibon = () => {
                     </Link>
                 </div>
                 <div className='col-md-3 col-12 border-end'>
-                    <div className='lead'>
+                    <div className='B-lead'>
                         <Link to='/'>
                             <div className='zoom '>
                                 <div className='imgContainer'>

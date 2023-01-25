@@ -10,7 +10,7 @@ const TechLife = () => {
                 <div className='col-md-6 col-12'>
                     <div className='title my-4'>
                         <div className='col-md-12 '>
-                            <h6><Link className='font'>
+                            <h6><Link to='/' className='font'>
                                 <span className='box'></span>
                                 টেকলাইফ</Link>
                             </h6>
@@ -60,7 +60,7 @@ const TechLife = () => {
                                                 </div>
                                             </div>
                                             <div className='col-md-12 col-7 '>
-                                            <Link className='font'> <h3 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3></Link>
+                                            <Link to='/' className='font'> <h3 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3></Link>
                                             </div>
                                     </div>
                                 </div>
@@ -79,7 +79,7 @@ const TechLife = () => {
                                                 </div>
                                             </div>
                                             <div className='col-md-12 col-7 '>
-                                            <Link className='font'> <h3 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3></Link>
+                                            <Link to='/' className='font'> <h3 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3></Link>
                                             </div>
                                     </div>
                                 </div>
@@ -98,7 +98,7 @@ const TechLife = () => {
                                                 </div>
                                             </div>
                                             <div className='col-md-12 col-7 '>
-                                            <Link className='font'> <h3 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3></Link>
+                                            <Link to='/' className='font'> <h3 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3></Link>
                                             </div>
                                     </div>
                                 </div>
@@ -111,7 +111,7 @@ const TechLife = () => {
                 <div className='col-md-6 col-12'>
                     <div className='title my-4'>
                         <div className='col-md-12 '>
-                            <h6><Link className='font'>
+                            <h6><Link to='/' className='font'>
                                 <span className='box'></span>
                                 ক্যাম্পাস</Link>
                             </h6>

@@ -6,7 +6,7 @@ import '../Sharadesh/Sharadesh.css'
 const Sharadesh = () => {
     return (
         <div className='title my-4 container'>
-            <h6><Link className='font'>
+            <h6><Link to='/' className='font'>
                 <span className='box'></span>
                 সারাদেশ</Link>
             </h6>

@@ -6,7 +6,7 @@ const Binodon = () => {
     return (
         <div className='title my-3'>
             <div className='col-md-12 '>
-                <h6><Link className='font'>
+                <h6><Link to='/' className='font'>
                     <span className='box'></span>
                     বিনোদন</Link>
                 </h6>

@@ -6,7 +6,7 @@ import '../Sports/Sports.css'
 const Sports = () => {
     return (
         <div className='title my-4 container'>
-            <h6><Link className='font'>
+            <h6><Link to='/' className='font'>
                 <span className='box'></span>
                 খেলা</Link>
             </h6>

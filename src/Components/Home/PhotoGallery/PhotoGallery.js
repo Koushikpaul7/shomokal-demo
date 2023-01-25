@@ -11,7 +11,7 @@ const PhotoGallery = () => {
             <div className='container'>
             <div className='title my-4'>
                 <div className='col-md-12 '>
-                    <h6><Link className='font'>
+                    <h6><Link to='/' className='font'>
                         <span className='box'></span>
                         ফটো গ্যালারী</Link>
                     </h6>

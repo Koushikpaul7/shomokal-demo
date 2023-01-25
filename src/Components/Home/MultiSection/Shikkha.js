@@ -8,7 +8,7 @@ const Shikkha = () => {
 
                     <div className='title'>
                         <div className='col-md-12 '>
-                            <h6><Link className='font'>
+                            <h6><Link to='/' className='font'>
                                 <span className='box'></span>
                                 শিক্ষা</Link>
                             </h6>

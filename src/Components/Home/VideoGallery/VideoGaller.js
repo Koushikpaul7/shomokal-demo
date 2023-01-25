@@ -10,7 +10,7 @@ const VideoGaller = () => {
             <div className='container'>
             <div className='title '>
             <div className='col-md-12 '>
-                <h6><Link  className='font text-white'>
+                <h6><Link to='/' className='font text-white'>
                 <span className='box '></span>
                 ভিডিও</Link>
                 </h6>

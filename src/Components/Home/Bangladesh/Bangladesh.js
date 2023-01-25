@@ -106,7 +106,7 @@ const Bangladesh = () => {
                                 </div>
                                 <div className='border-bottom d-flex'>
                                     <div className='col-md-12 col-12 '>
-                                        <Link className='font'>
+                                        <Link to='/' className='font'>
                                             <div className='Bd-sub-list'>
                                                 <div className='row'>
                                                     <div className='col-md-8 col-7 '>

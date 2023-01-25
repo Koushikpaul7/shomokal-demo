@@ -86,7 +86,7 @@ const Campus = () => {
                                                 </div>
                                             </div>
                                             <div className='col-md-12 col-7 '>
-                                            <Link className='font'> <h3 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3></Link>
+                                            <Link to='/' className='font'> <h3 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h3></Link>
                                             </div>
                                     </div>
                                 </div>

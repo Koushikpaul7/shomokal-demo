@@ -6,7 +6,7 @@ const Rajniti = () => {
     return (
         <div className='title my-4 container'>
             <div className='col-md-12 '>
-                <h6><Link className='font'>
+                <h6><Link to='/' className='font'>
                     <span className='box'></span>
                     রাজনীতি</Link>
                 </h6>

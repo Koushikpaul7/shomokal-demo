@@ -10,7 +10,7 @@ const International = () => {
                 <div className='col-md-6 col-12'>
                     <div className='title my-4'>
                         <div className='col-md-12 '>
-                            <h6><Link className='font'>
+                            <h6><Link to='/' className='font'>
                                 <span className='box'></span>
                                 আন্তর্জাতিক</Link>
                             </h6>
@@ -147,7 +147,7 @@ const International = () => {
                 <div className='col-md-6 col-12'>
                     <div className='title my-4'>
                         <div className='col-md-12 '>
-                            <h6><Link className='font'>
+                            <h6><Link to='/' className='font'>
                                 <span className='box'></span>
                                 অর্থনীতি</Link>
                             </h6>

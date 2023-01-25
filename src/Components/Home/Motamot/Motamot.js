@@ -10,7 +10,7 @@ const Motamot = () => {
             <div className='container'>
             <div className='title my-4'>
                         <div className='col-md-12 '>
-                            <h6><Link className='font'>
+                            <h6><Link to='/' className='font'>
                                 <span className='box'></span>
                                 মতামত</Link>
                             </h6>
@@ -30,7 +30,7 @@ const Motamot = () => {
                            <Link to='/'>
                            <h3 className='Title'>রাজউকের ওয়েবসাইট হ্যাক এবং আমাদের প্রস্তুতি পর্ব</h3>
                            </Link>
-                           <i> <p className='sub-heading-mot mt-1 writer'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></i>
+                           <i> <Link to='/'><p className='sub-heading-mot mt-1 writer'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></Link></i>
                            
                         </div>
                     </div>
@@ -48,7 +48,8 @@ const Motamot = () => {
                         <Link to='/'>
                            <h3 className='Title'>রাজউকের ওয়েবসাইট হ্যাক এবং আমাদের প্রস্তুতি পর্ব</h3>
                            </Link>
-                           <i> <p className='sub-heading-mot mt-1 writer'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></i>
+                           <i> <Link to='/'><p className='sub-heading-mot mt-1 writer'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></Link></i>
+                        
                         </div>
                     </div>
                        </div>
@@ -65,7 +66,7 @@ const Motamot = () => {
                         <Link to='/'>
                            <h3 className='Title'>রাজউকের ওয়েবসাইট হ্যাক এবং আমাদের প্রস্তুতি পর্ব</h3>
                            </Link>
-                           <i> <p className='sub-heading-mot mt-1 writer'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></i>
+                           <i> <Link to='/'><p className='sub-heading-mot mt-1 writer'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></Link></i>
                         </div>
                     </div>
                        </div>
@@ -82,7 +83,7 @@ const Motamot = () => {
                         <Link to='/'>
                            <h3 className='Title'>রাজউকের ওয়েবসাইট হ্যাক এবং আমাদের প্রস্তুতি পর্ব</h3>
                            </Link>
-                           <i> <p className='sub-heading-mot mt-1 writer'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></i>
+                           <i> <Link to='/'><p className='sub-heading-mot mt-1 writer'> <MdOutlineModeEdit className='me-2'/>জাকারিয়া স্বপন</p></Link></i>
                         </div>
                     </div>
                        </div>

@@ -7,7 +7,7 @@ const Projukti = () => {
         <div className='container'>
              <div className='title my-4'>
             <div className='col-md-12 '>
-                <h6><Link className='font'>
+                <h6><Link to='/' className='font'>
                     <span className='box'></span>
                     প্রযুক্তি</Link>
                 </h6>

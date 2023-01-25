@@ -94,10 +94,16 @@ const NavBottom = () => {
                     অন্যান্য
                   </Link>
                 </li>
+
+
+              {/* https://bootstrap-menu.com/detail-megamenu.html */}
+
+
+
                 
                 <div className={`position-absolute top-0 start-0 w-100 h-100 ${navbar2 ? "d-block" : "d-none"}`}>
                   <li className='d-flex justify-content-center p-1'>
-                    <input type="text" class="form-control h-25 w-full px-5 " placeholder='এখানে খুঁজুন...'/>
+                    <input type="text" class="form-control h-25 w-full " placeholder='এখানে খুঁজুন...'/>
                     <Link to="/" class="nav-link active text-dark  mx-auto fs-1"> < GoSearch style={{"width": "24","height":"24","padding":"4","marginBottom":"305px","backgroundColor": "#ddd"}}/>
                   </Link>
                   </li>
