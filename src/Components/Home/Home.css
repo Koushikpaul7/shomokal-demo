@@ -670,9 +670,7 @@
   font-size: 18px;
     line-height: 25px;
 }
-.sub-heading ul li a p{
-  color: #000 !important;
-}
+
 .active {
   background: #e18b20;
   color: #fff !important;

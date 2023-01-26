@@ -36,7 +36,7 @@ const NavBottom = () => {
             <div className='d-flex justify-content-between'>
 
 
-              <Link to="/"> <a class="navbar-brand d-block d-md-none" href={() => false}><img className='w-50 ' src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/logo.png" alt="" /></a> </Link>
+              <Link to="/"> <Link class="navbar-brand d-block d-md-none" href={() => false}><img className='w-50 ' src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/logo.png" alt="" /></Link ></Link>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -91,42 +91,43 @@ const NavBottom = () => {
                 </li>
 
                 <li class="nav-item  has-megamenu">
-                        <a class="nav-link dropdown-toggle active-list" href="#" data-bs-toggle="dropdown">অন্যান্য</a>
+                        <Link class="nav-link dropdown-toggle active-list" to="#" data-bs-toggle="dropdown">অন্যান্য</Link>
                         <div class="dropdown-menu megamenu" role="menu">
                             <div class="row w-100 ">
                                     <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
                                         <ul class="nav flex-column">
-                                            <li><a class="dropdown-item" href="#">চতুরঙ্গ</a></li>
-                                            <li><a class="dropdown-item" href="#">নারী দিবস</a></li>
-                                            <li><a class="dropdown-item" href="#">সাহিত্য ও সংস্কৃতি</a></li>
+                                            <li><Link class="dropdown-item" href="#">চতুরঙ্গ</Link></li>
+                                            <li><Link class="dropdown-item" href="#">নারী দিবস</Link></li>
+                                            <li><Link class="dropdown-item" href="#">সাহিত্য ও সংস্কৃতি</Link></li>
                                         </ul>
                                     </div>
                                     <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
                                         <ul class="nav flex-column">
-                                            <li><a class="dropdown-item" href="#">জীবন সংগ্রাম</a></li>
-                                            <li><a class="dropdown-item" href="#">ভ্রমণ</a></li>
-                                            <li><a class="dropdown-item" href="#">ফিচার</a></li>
+                                            <li><Link class="dropdown-item" href="#">সাহিত্য ও সংস্কৃতি</Link></li>
+                                            <li><Link class="dropdown-item" href="#">জীবন সংগ্রাম</Link></li>
+                                            <li><Link class="dropdown-item" href="#">ভ্রমণ</Link></li>
+                                            <li><Link class="dropdown-item" href="#">ফিচার</Link></li>
                                         </ul>
                                     </div>
                                     <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
                                         <ul class="nav flex-column">
-                                            <li><a class="dropdown-item" href="#">শিল্প-বাণিজ্য</a></li>
-                                            <li><a class="dropdown-item" href="#">সাক্ষাৎকার</a></li>
-                                            <li><a class="dropdown-item" href="#">প্রযুক্তি</a></li>
+                                            <li><Link class="dropdown-item" href="#">শিল্প-বাণিজ্য</Link></li>
+                                            <li><Link class="dropdown-item" href="#">সাক্ষাৎকার</Link></li>
+                                            <li><Link class="dropdown-item" href="#">প্রযুক্তি</Link></li>
                                         </ul>
                                     </div>
                                     <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
                                         <ul class="nav flex-column">
-                                            <li><a class="dropdown-item" href="#">শেয়ারবাজার</a></li>
-                                            <li><a class="dropdown-item" href="#">সমকাল অনুসন্ধান</a></li>
-                                            <li><a class="dropdown-item" href="#">অফবিট</a></li>
+                                            <li><Link class="dropdown-item" href="#">শেয়ারবাজার</Link></li>
+                                            <li><Link class="dropdown-item" href="#">সমকাল অনুসন্ধান</Link></li>
+                                            <li><Link class="dropdown-item" href="#">অফবিট</Link></li>
                                         </ul>
                                     </div>
                                     <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
                                         <ul class="nav flex-column">
-                                            <li><a class="dropdown-item" href="#">অপরাধ</a></li>
-                                            <li><a class="dropdown-item" href="#">চাকরি </a></li>
-                                            <li><a class="dropdown-item" href="#">শিল্পমঞ্চ</a></li>
+                                            <li><Link class="dropdown-item" href="#">অপরাধ</Link></li>
+                                            <li><Link class="dropdown-item" href="#">চাকরি </Link></li>
+                                            <li><Link class="dropdown-item" href="#">শিল্পমঞ্চ</Link></li>
                                         </ul>
                                     </div>
                                 </div>

@@ -35,7 +35,7 @@ const BannerSide = () => {
                                 <div className='d-flex align-items-center'>
                                     <span>১</span>
                                 </div>
-                                <p className=''>গুচ্ছ ভর্তি পরীক্ষায় প্রতি আসনে লড়বেন ১০ শিক্ষার্থী</p>
+                                <p className='text'>গুচ্ছ ভর্তি পরীক্ষায় প্রতি আসনে লড়বেন ১০ শিক্ষার্থী</p>
                             </div>
                             <div className='d-flex flex-row latest py-3 border-bottom'>
                                 <div className='d-flex align-items-center'>
