@@ -662,6 +662,9 @@
   color: #e18b20;
 }
 
+.has-megamenu {
+  position: static!important;
+}
 
 .bg{
   font-size: 18px;
@@ -674,7 +677,12 @@
   background: #e18b20;
   color: #fff !important;
   
-}.active ul li a p{
+}
+.no-bg{
+  background: none !important;
+}
+
+.active ul li a p{
   color: #fff !important;
 }
 

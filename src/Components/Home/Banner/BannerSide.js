@@ -79,13 +79,13 @@ const BannerSide = () => {
                             
                             <div className='d-flex flex-row latest py-3 border-bottom'>
                                 <div className='d-flex align-items-center'>
-                                    <span>২</span>
+                                    <span>১</span>
                                 </div>
                                 <p className=''>অসাম্প্রদায়িক চেতনায় বাংলাদেশ গড়তে চাই ॥ প্রধানমন্ত্রী</p>
                             </div>
                             <div className='d-flex flex-row latest py-2 border-bottom' >
                                 <div className='d-flex align-items-center'>
-                                    <span>১</span>
+                                    <span>২</span>
                                 </div>
                                 <p className=''>গুচ্ছ ভর্তি পরীক্ষায় প্রতি আসনে লড়বেন ১০ শিক্ষার্থী</p>
                             </div>

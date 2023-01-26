@@ -4,7 +4,7 @@ import '../Bangladesh/Bangladesh.css';
 import '../International/International.css';
 const Economics = () => {
     return (
-        <div className='row border-end ' >
+        <div className='row ' >
                        <div className='col-md-12 DInternationalTop '>
                         <div className='row border-bottom pb-4'>
                             
@@ -58,7 +58,7 @@ const Economics = () => {
                                         </div>
                                     </div>
                                 </div>
-                                <div className='col-md-6 col-12 border-end border-bottom pb-3'>
+                                <div className='col-md-6 col-12  border-bottom pb-3'>
                                         <div className='Inter-sub-list'>
                                         <div className='row'>
                                         <div className='col-md-7 col-7 '>
@@ -104,7 +104,7 @@ const Economics = () => {
                                         </div>
                                     </div>
                                 </div>
-                                <div className='col-md-6 col-12 border-end'>
+                                <div className='col-md-6 col-12 '>
                                         <div className='Inter-sub-list'>
                                         <div className='row'>
                                         <div className='col-md-7 col-7 '>

@@ -7,10 +7,10 @@ const Footer = () => {
         <div className=''>
             <FooterTop />
             <div className='main-footer px-5'>
-                <div className='row'>
+                <div className='row container'>
                     <div className='col-md-6 col-12'>
                         <div class="DAddress">
-                            <h6>ভারপ্রাপ্ত সম্পাদক : মোজাম্মেল হোসেন। প্রকাশক : আবুল কালাম আজাদ</h6>
+                            <h1 className='text-white px-0 mb-2'>ভারপ্রাপ্ত সম্পাদক : মোজাম্মেল হোসেন। প্রকাশক : আবুল কালাম আজাদ</h1>
                             <p>টাইমস মিডিয়া ভবন (৫ম তলা) | ৩৮৭ তেজগাঁও শিল্প এলাকা, ঢাকা - ১২০৮ ।</p>
                             <p>ফোন : <a href="tel:৫৫০২৯৮৩২-৩৮">৫৫০২৯৮৩২-৩৮</a></p>
                             <p>বিজ্ঞাপন : <a href="tel:+৮৮০১৭১৪০৮০৩৭৮">+৮৮০১৭১৪০৮০৩৭৮</a></p>
@@ -18,7 +18,7 @@ const Footer = () => {
                         </div>
                     </div>
                     <div className='col-md-6 col-12'>
-                        <div class="AboutMenu">
+                        <div class="AboutMenu text-end">
                             <ul>
                                 <li><a href="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/">বিশেষ আয়োজন</a></li>
                                 <li><a href="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/">কালের খেয়া</a></li>
@@ -35,13 +35,13 @@ const Footer = () => {
                             </ul>
                         </div>
 
-       
+
 
                     </div>
-                    
+
                 </div>
             </div>
-            <FooterBottom/>
+            <FooterBottom />
         </div>
     );
 };

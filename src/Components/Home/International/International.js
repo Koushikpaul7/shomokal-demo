@@ -70,7 +70,7 @@ const International = () => {
                                         </div>
                                     </div>
                                 </div>
-                                <div className='col-md-6 col-12 border-end border-bottom pb-3'>
+                                <div className='col-md-6 col-12 border-bottom pb-3'>
                                         <div className='Inter-sub-list'>
                                         <div className='row'>
                                         <div className='col-md-7 col-7 '>
@@ -116,7 +116,7 @@ const International = () => {
                                         </div>
                                     </div>
                                 </div>
-                                <div className='col-md-6 col-12 border-end'>
+                                <div className='col-md-6 col-12 '>
                                         <div className='Inter-sub-list'>
                                         <div className='row'>
                                         <div className='col-md-7 col-7 '>

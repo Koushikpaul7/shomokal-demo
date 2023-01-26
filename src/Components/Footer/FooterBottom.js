@@ -3,7 +3,7 @@ import '../Footer/Footer.css';
 const FooterBottom = () => {
     return (
         <div className='footer-bottom px-5'>
-            <div className='row '>
+            <div className='row container'>
                 <div className='col-md-4 col-12'>
                 <div class="DFooterLink">
                         <ul>

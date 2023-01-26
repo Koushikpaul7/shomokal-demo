@@ -89,14 +89,50 @@ const NavBottom = () => {
                   <Link to="/" class="nav-link active-list"> ভিডিও
                    </Link>
                 </li>
-                <li class="nav-item dropdown">
-                  <Link to="/"  class="nav-link active-list dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="true">
-                    অন্যান্য
-                  </Link>
-                </li>
 
-
-              {/* https://bootstrap-menu.com/detail-megamenu.html */}
+                <li class="nav-item  has-megamenu">
+                        <a class="nav-link dropdown-toggle active-list" href="#" data-bs-toggle="dropdown">অন্যান্য</a>
+                        <div class="dropdown-menu megamenu" role="menu">
+                            <div class="row w-100 ">
+                                    <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
+                                        <ul class="nav flex-column">
+                                            <li><a class="dropdown-item" href="#">চতুরঙ্গ</a></li>
+                                            <li><a class="dropdown-item" href="#">নারী দিবস</a></li>
+                                            <li><a class="dropdown-item" href="#">সাহিত্য ও সংস্কৃতি</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
+                                        <ul class="nav flex-column">
+                                            <li><a class="dropdown-item" href="#">জীবন সংগ্রাম</a></li>
+                                            <li><a class="dropdown-item" href="#">ভ্রমণ</a></li>
+                                            <li><a class="dropdown-item" href="#">ফিচার</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
+                                        <ul class="nav flex-column">
+                                            <li><a class="dropdown-item" href="#">শিল্প-বাণিজ্য</a></li>
+                                            <li><a class="dropdown-item" href="#">সাক্ষাৎকার</a></li>
+                                            <li><a class="dropdown-item" href="#">প্রযুক্তি</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
+                                        <ul class="nav flex-column">
+                                            <li><a class="dropdown-item" href="#">শেয়ারবাজার</a></li>
+                                            <li><a class="dropdown-item" href="#">সমকাল অনুসন্ধান</a></li>
+                                            <li><a class="dropdown-item" href="#">অফবিট</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
+                                        <ul class="nav flex-column">
+                                            <li><a class="dropdown-item" href="#">অপরাধ</a></li>
+                                            <li><a class="dropdown-item" href="#">চাকরি </a></li>
+                                            <li><a class="dropdown-item" href="#">শিল্পমঞ্চ</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </li> 
+      
 
 
 
