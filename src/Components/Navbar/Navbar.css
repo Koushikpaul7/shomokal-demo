@@ -182,7 +182,13 @@ a {
     width: 100%;
   position: fixed;
   z-index: 999;
- ;
+}
+
+#logo-small{
+    background-image: url('https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/logo.png');
+background-repeat: no-repeat;
+width: 10px;
+height: 20px;
 }
 
 /* Sub Heading */

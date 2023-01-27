@@ -8,6 +8,17 @@ const NavBottom = () => {
 
   useEffect(() => {
     const chatEl = document.querySelector('.sidebar').getBoundingClientRect();
+    const isSticky = (e) => {
+      const chatEl = document.querySelector('.sidebar');
+      const scrollTop = window.scrollY;
+      if (scrollTop >= sidebarTop - 10) {
+        chatEl.classList.add('is-sticky') ;
+        
+      } else {
+        chatEl.classList.remove('is-sticky');
+       
+      }
+    };
 
     setSidebarTop(chatEl.top);
     if (!sidebarTop)
@@ -19,15 +30,7 @@ const NavBottom = () => {
     };
   }, [sidebarTop]);
 
-  const isSticky = (e) => {
-    const chatEl = document.querySelector('.sidebar');
-    const scrollTop = window.scrollY;
-    if (scrollTop >= sidebarTop - 10) {
-      chatEl.classList.add('is-sticky');
-    } else {
-      chatEl.classList.remove('is-sticky');
-    }
-  };
+ 
   return (
     <div id='navbar_top' className={`nav-border sticky-top sidebar position ${navbar2 ? "bg-light" : "bg-white"}`}>
       <div className='container'>
@@ -36,7 +39,7 @@ const NavBottom = () => {
             <div className='d-flex justify-content-between'>
 
 
-              <Link to="/"> <Link class="navbar-brand d-block d-md-none" href={() => false}><img className='w-50 ' src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/logo.png" alt="" /></Link ></Link>
+              <Link to="/"> <Link class="navbar-brand d-block d-md-none" ><img className='w-50 ' src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/logo.png" alt="" /></Link ></Link>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -141,7 +144,7 @@ const NavBottom = () => {
                 <div className={`position-absolute top-0 start-0 w-100 h-100 ${navbar2 ? "d-block" : "d-none"}`}>
                   <li className='d-flex justify-content-center p-1'>
                     <input type="text" class="form-control h-25 w-full " placeholder='এখানে খুঁজুন...'/>
-                    <Link to="/" class="nav-link active-list text-dark  mx-auto fs-1"> < GoSearch style={{"width": "24","height":"24","padding":"4","marginBottom":"305px","backgroundColor": "#ddd"}}/>
+                    <Link to="/" class="nav-link active-list text-dark  mx-auto fs-1"> < GoSearch style={{"width": "24","height":"24",padding:"4",marginBottom:"305px",backgroundColor: "#ddd"}}/>
                   </Link>
                   </li>
                 </div>
@@ -154,7 +157,7 @@ const NavBottom = () => {
                   <svg className='mt-2'
                   xmlns="http://www.w3.org/2000/svg"
                  
-                  style={{"width": "24", "fontWeight": "900","padding":"4", "backgroundColor": "#BFBFBF",}}
+                  style={{"width": "24", "fontWeight": "900","padding":"4", backgroundColor: "#BFBFBF"}}
                   viewBox="0 0 20 20"
                   fill="currentColor"
                 >
