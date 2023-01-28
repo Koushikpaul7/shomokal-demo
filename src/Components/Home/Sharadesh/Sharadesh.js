@@ -24,7 +24,7 @@ const Sharadesh = () => {
                                         <Link to='/'>
                                             <div className='zoom '>
                                                 <div className='imgContainer'>
-                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/covid-samakal-63babe0d19e93.webp" alt="" className='fix-ratio' />
+                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/covid-samakal-63babe0d19e93.webp" alt=""title='...' className='fix-ratio' />
                                                 </div>
                                             </div>
                                         </Link>
@@ -59,7 +59,7 @@ const Sharadesh = () => {
                                                 <Link to='/'>
                                                     <div className='zoom '>
                                                         <div className='imgContainer'>
-                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/----10-samakal-63baa2599a279.webp" alt="" className='img-fluid' />
+                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/----10-samakal-63baa2599a279.webp" alt=""title='...' className='img-fluid' />
                                                         </div>
                                                     </div>
                                                 </Link>
@@ -83,7 +83,7 @@ const Sharadesh = () => {
                                                 <Link to='/'>
                                                     <div className='zoom '>
                                                         <div className='imgContainer'>
-                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/----10-samakal-63baa2599a279.webp" alt="" className='img-fluid' />
+                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/----10-samakal-63baa2599a279.webp" alt="" title='...' className='img-fluid' />
                                                         </div>
                                                     </div>
                                                 </Link>
@@ -107,7 +107,7 @@ const Sharadesh = () => {
                                                 <Link to='/'>
                                                     <div className='zoom '>
                                                         <div className='imgContainer'>
-                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/----10-samakal-63baa2599a279.webp" alt="" className='img-fluid' />
+                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/----10-samakal-63baa2599a279.webp" alt="..." title='...' className='img-fluid' />
                                                         </div>
                                                     </div>
                                                 </Link>
@@ -131,7 +131,7 @@ const Sharadesh = () => {
                                                 <Link to='/'>
                                                     <div className='zoom '>
                                                         <div className='imgContainer'>
-                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/----10-samakal-63baa2599a279.webp" alt="" className='img-fluid' />
+                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/----10-samakal-63baa2599a279.webp" alt=""title='...' className='img-fluid' />
                                                         </div>
                                                     </div>
                                                 </Link>
@@ -158,7 +158,7 @@ const Sharadesh = () => {
                                         <Link to='/'>
                                             <div className='zoom '>
                                                 <div className='imgContainer'>
-                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/----10-samakal-63baa2599a279.webp" alt="" className='img-fluid' />
+                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/----10-samakal-63baa2599a279.webp" title='...' alt="" className='img-fluid' />
                                                 </div>
                                             </div>
                                         </Link>
@@ -178,7 +178,7 @@ const Sharadesh = () => {
                                         <Link to='/'>
                                             <div className='zoom '>
                                                 <div className='imgContainer'>
-                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/sumon-samakal-63baa18867f4e.webp" alt="" className='img-fluid' />
+                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/sumon-samakal-63baa18867f4e.webp" title='...' alt="" className='img-fluid' />
                                                 </div>
                                             </div>
                                         </Link>
@@ -198,7 +198,7 @@ const Sharadesh = () => {
                                         <Link to='/'>
                                             <div className='zoom '>
                                                 <div className='imgContainer'>
-                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/momen-samakal-63baa5ec661ad.webp" alt="" className='img-fluid' />
+                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/momen-samakal-63baa5ec661ad.webp" title='...' alt="" className='img-fluid' />
                                                 </div>
                                             </div>
                                         </Link>
@@ -218,7 +218,7 @@ const Sharadesh = () => {
                                         <Link to='/'>
                                             <div className='zoom '>
                                                 <div className='imgContainer'>
-                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/sumon-samakal-63baa18867f4e.webp" alt="" className='img-fluid' />
+                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/sumon-samakal-63baa18867f4e.webp" title='...' alt="" className='img-fluid' />
                                                 </div>
                                             </div>
                                         </Link>
@@ -264,7 +264,7 @@ const Sharadesh = () => {
                         </form>
                     </div>
                    <div className='d-flex justify-content-center'>
-                   <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement%20(300X250).png" className='img-fluid my-2' alt="" />
+                   <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement%20(300X250).png" title='...' className='img-fluid my-2' alt="" />
                    </div>
                 </div>
             </div>

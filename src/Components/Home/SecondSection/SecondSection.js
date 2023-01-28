@@ -22,7 +22,7 @@ const SecondSection = () => {
                                                
                                                     <div className='zoom '>
                                                         <div className='imgContainer'>
-                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/----7-samakal-63be880758163.webp" alt="" className='fix-ratio' />
+                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/----7-samakal-63be880758163.webp" title='...' alt="" className='fix-ratio' />
                                                         </div>
                                                     </div>
 
@@ -44,7 +44,7 @@ const SecondSection = () => {
                                                
                                                     <div className='zoom '>
                                                         <div className='imgContainer'>
-                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/dead-body-2-samakal-63be87b59388c.jpg" alt="" className='fix-ratio' />
+                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/dead-body-2-samakal-63be87b59388c.jpg" alt="" title='...' className='fix-ratio' />
                                                         </div>
                                                     </div>
 
@@ -65,7 +65,7 @@ const SecondSection = () => {
                                                 <Link to='/'>
                                                     <div className='zoom '>
                                                         <div className='imgContainer'>
-                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/rangpur-alig-samakal-63be8483c51f7.jpg" alt="" className='fix-ratio' />
+                                                            <img title='...' src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/rangpur-alig-samakal-63be8483c51f7.jpg" alt="" className='fix-ratio' />
                                                         </div>
                                                     </div>
 
@@ -85,7 +85,7 @@ const SecondSection = () => {
                                                 <Link to='/'>
                                                     <div className='zoom '>
                                                         <div className='imgContainer'>
-                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/rangpur-tuku-samakal-63be7d911f2ae.webp" alt="" className='fix-ratio' />
+                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/rangpur-tuku-samakal-63be7d911f2ae.webp" alt="" title='...' className='fix-ratio' />
                                                         </div>
                                                     </div>
 
@@ -121,7 +121,7 @@ const SecondSection = () => {
                                     <Link to='/'>
                                         <div className='zoom '>
                                             <div className='imgContainer'>
-                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/bv-news24-2301080833-2301080836.jpg" alt="" className='fix-ratio' />
+                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/bv-news24-2301080833-2301080836.jpg" alt=""title='...' className='fix-ratio' />
                                             </div>
                                         </div>
 

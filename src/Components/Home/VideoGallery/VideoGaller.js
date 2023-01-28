@@ -25,7 +25,7 @@ const VideoGaller = () => {
                             <Link to='/'>
                             <div  className='Imgresize'>
                                 <div className='ImgViewer'>
-                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/pori-samakal-63b92ddb1e951.webp" className='img-fluid' alt=""/>
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/pori-samakal-63b92ddb1e951.webp" title='...' className='img-fluid' alt=""/>
                             <div class="card-video-img transition"></div>
                                 </div>
                             </div>
@@ -48,7 +48,7 @@ const VideoGaller = () => {
                             <Link to='/'>
                             <div  className='Imgresize'>
                                 <div className='ImgViewer'>
-                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/pori-samakal-63b92ddb1e951.webp" className='img-fluid' alt=""/>
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/pori-samakal-63b92ddb1e951.webp" title='...' className='img-fluid' alt=""/>
                             <div class="card-video-img transition"></div>
                                 </div>
                             </div>
@@ -69,7 +69,7 @@ const VideoGaller = () => {
                             <Link to='/'>
                             <div  className='Imgresize'>
                                 <div className='ImgViewer'>
-                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/pori-samakal-63b92ddb1e951.webp" className='img-fluid' alt=""/>
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/pori-samakal-63b92ddb1e951.webp" title='...' className='img-fluid' alt=""/>
                             <div class="card-video-img transition"></div>
                                 </div>
                             </div>

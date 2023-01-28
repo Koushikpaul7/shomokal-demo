@@ -11,7 +11,7 @@ const FooterTop = () => {
         <div className='footer-top d-none d-md-block px-5'>
             <div className='row container'>
                 <div className='col-md-6'>
-                    <img src=" https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/logo.png" className='img-fluid logo' alt=""/>
+                    <img src=" https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/logo.png" className='img-fluid logo' alt="" title='...'/>
                 </div>
                 <div className='col-md-6'>
                 <div className='d-flex justify-content-end align-items-center'>

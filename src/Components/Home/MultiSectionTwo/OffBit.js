@@ -18,7 +18,7 @@ const OffBit = () => {
                                 <Link to='/' className='font'>
                                     <div className='Imgresize'>
                                         <div className='ImgViewer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/----4-samakal-63ba732358e25.webp" alt="" className='img-fluid' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/----4-samakal-63ba732358e25.webp" alt="" title='...' className='img-fluid' />
                                         </div>
                                         <div class="Desc">
                                             <h3 class="Title">এক কুকুরের দাম উঠল ২০ কোটি রুপি!</h3>

@@ -15,7 +15,7 @@ const Banner = () => {
                                     <div className='lead '>
                                         <div className='zoom '>
                                             <div className='imgContainer'>
-                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/PM-samakal-63bd9133d9930.jpg" alt="" className='fix-ratio' />
+                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/PM-samakal-63bd9133d9930.jpg" title='...' alt="" className='fix-ratio' />
                                             </div>
                                             <div className='caption'>
                                                 জাতীয়
@@ -69,7 +69,7 @@ const Banner = () => {
                                     <div className='lead '>
                                         <div className='zoom '>
                                             <div className='imgContainer'>
-                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/chatrolig-f-samakal-63be66e27aee5.jpg" alt="" className='fix-ratio' />
+                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/chatrolig-f-samakal-63be66e27aee5.jpg" title='...' alt="" className='fix-ratio' />
                                             </div>
                                             <div className='caption'>
                                                 রাজনীতি
@@ -92,7 +92,7 @@ const Banner = () => {
 
                                             <div className='zoom '>
                                                 <div className='imgContainer'>
-                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/rohit-shanaka-samakal-63be65c85676a.jpg" alt="" className='fix-ratio' />
+                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/rohit-shanaka-samakal-63be65c85676a.jpg" title='...' alt="" className='fix-ratio' />
                                                 </div>
                                                 <div className='caption'>
                                                     খেলা
@@ -121,16 +121,7 @@ const Banner = () => {
 
                 {/* Side bar */}
                 <BannerSide />
-            </div>
-
-            {/* Advertisement */}
-            <div className='py-4 d-flex justify-content-center'>
-                <div className='row'>
-                    <div className='col-12 col-md-12'>
-                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement(970X90).png" className='img-fluid' alt="" />
-                    </div>
-                </div>
-            </div>
+            </div>   
             <div>
 
             </div>

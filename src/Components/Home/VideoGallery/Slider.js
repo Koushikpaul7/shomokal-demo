@@ -47,7 +47,7 @@ const Slider = () => {
         <SwiperSlide><div className='DVideoGalleryTopItem'>
                         <div className='col-sm-12 thumbnail'>
                             <Link to='/'>
-                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/pori-samakal-63b92ddb1e951.webp" className='img-fluid' alt=""/>
+                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/pori-samakal-63b92ddb1e951.webp" title='...' className='img-fluid' alt=""/>
                             <div class="card-video-img transition"></div>
                             
                             </Link>
@@ -57,7 +57,7 @@ const Slider = () => {
         <SwiperSlide><div className='DVideoGalleryTopItem'>
                         <div className='col-sm-12 thumbnail'>
                             <Link to='/'>
-                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-4-samakal-631cd7f8dd490.webp" className='img-fluid' alt=""/>
+                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-4-samakal-631cd7f8dd490.webp" title='...' className='img-fluid' alt=""/>
                             <div class="card-video-img transition"></div>
                            
                             </Link>
@@ -66,7 +66,7 @@ const Slider = () => {
         <SwiperSlide><div className='DVideoGalleryTopItem'>
                         <div className='col-sm-12 thumbnail'>
                             <Link to='/'>
-                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/2-samakal-63b3b8b843a03.jpg" className='img-fluid' alt=""/>
+                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/2-samakal-63b3b8b843a03.jpg" title='...' className='img-fluid' alt=""/>
                             <div class="card-video-img transition"></div>
                            
                             </Link>
@@ -75,7 +75,7 @@ const Slider = () => {
         <SwiperSlide><div className='DVideoGalleryTopItem'>
                         <div className='col-sm-12 thumbnail'>
                             <Link to='/'>
-                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/mahia12-samakal-63ad95af3b438.webp" className='img-fluid' alt=""/>
+                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/mahia12-samakal-63ad95af3b438.webp" title='...' className='img-fluid' alt=""/>
                             <div class="card-video-img transition"></div>
                             
                             </Link>
@@ -84,7 +84,7 @@ const Slider = () => {
         <SwiperSlide><div className='DVideoGalleryTopItem'>
                         <div className='col-sm-12 thumbnail'>
                             <Link to='/'>
-                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/pori-samakal-63b92ddb1e951.webp" className='img-fluid' alt=""/>
+                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/pori-samakal-63b92ddb1e951.webp" title='...' className='img-fluid' alt=""/>
                             <div class="card-video-img transition"></div>
                             
                             </Link>

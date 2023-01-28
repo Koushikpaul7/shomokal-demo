@@ -27,7 +27,7 @@ const Sports = () => {
                                 <Link to='/'>
                                     <div className='zoom '>
                                         <div className='imgContainer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/mash-papon-samakal-63bd1e1f60807.webp" alt="" className='fix-ratio-sp' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/mash-papon-samakal-63bd1e1f60807.webp" alt="" title='...' className='fix-ratio-sp' />
                                         </div>
                                     </div>
 
@@ -42,7 +42,7 @@ const Sports = () => {
                         <Link to='/'>
                             <div className='zoom '>
                                 <div className='imgContainer'>
-                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Alisson-samakal-63ba4fa041638.jpg" alt="" className='fix-ratio' />
+                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Alisson-samakal-63ba4fa041638.jpg" alt=""title='...' className='fix-ratio' />
                                 </div>
                             </div>
                         </Link>
@@ -61,8 +61,8 @@ const Sports = () => {
                         <div className='lead'>
                             <Link to='/'>
                                 <div className='zoom '>
-                                    <div className='imgContainer'>
-                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/henry-samakal-63baa30722392.webp" alt="" className='fix-ratio' />
+                                    <div className='imgContainer '>
+                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/henry-samakal-63baa30722392.webp" alt="" title='...' className='fix-ratio ' />
                                     </div>
                                 </div>
                             </Link>
@@ -74,7 +74,7 @@ const Sports = () => {
                             <Link to='/'>
                                 <div className='zoom '>
                                     <div className='imgContainer'>
-                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/martinez-samakal-63ba6c0541c44.webp" alt="" className='fix-ratio' />
+                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/martinez-samakal-63ba6c0541c44.webp" alt="" title='...' className='fix-ratio' />
                                     </div>
                                 </div>
                             </Link>
@@ -86,7 +86,7 @@ const Sports = () => {
                             <Link to='/'>
                                 <div className='zoom '>
                                     <div className='imgContainer'>
-                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/khwaja-samakal-63bab7316d251.webp" alt="" className='fix-ratio' />
+                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/khwaja-samakal-63bab7316d251.webp" alt="" title='...' className='fix-ratio' />
                                     </div>
                                 </div>
                             </Link>
@@ -98,7 +98,7 @@ const Sports = () => {
                             <Link to='/'>
                                 <div className='zoom '>
                                     <div className='imgContainer'>
-                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/shakib-1-samakal-63b98131427a3.webp" alt="" className='fix-ratio' />
+                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/shakib-1-samakal-63b98131427a3.webp" alt="" title='...' className='fix-ratio' />
                                     </div>
                                 </div>
                             </Link>

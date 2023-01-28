@@ -8,7 +8,7 @@ const BannerSide = () => {
         <div className='col-md-3 col-12 '>
             <div className='row'>
                 <div className='col-12 col-md-12 d-flex justify-content-center'>
-                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement%20(300X250).png" className='img-fluid' alt="" />
+                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement%20(300X250).png" title='...' className='img-fluid' alt="" />
                 </div>
                 
                     {/* Tab section  */}
@@ -35,44 +35,44 @@ const BannerSide = () => {
                                 <div className='d-flex align-items-center'>
                                     <span>১</span>
                                 </div>
-                                <p className='text'>গুচ্ছ ভর্তি পরীক্ষায় প্রতি আসনে লড়বেন ১০ শিক্ষার্থী</p>
+                               <Link to='/'> <p className='text'>গুচ্ছ ভর্তি পরীক্ষায় প্রতি আসনে লড়বেন ১০ শিক্ষার্থী</p></Link>
                             </div>
                             <div className='d-flex flex-row latest py-3 border-bottom'>
                                 <div className='d-flex align-items-center'>
                                     <span>২</span>
                                 </div>
-                                <p className=''>অসাম্প্রদায়িক চেতনায় বাংলাদেশ গড়তে চাই ॥ প্রধানমন্ত্রী</p>
+                                <Link to='/'> <p className=''>অসাম্প্রদায়িক চেতনায় বাংলাদেশ গড়তে চাই ॥ প্রধানমন্ত্রী</p></Link>
                             </div>
                             <div className='d-flex flex-row latest py-3 border-bottom'>
                                 <div className='d-flex align-items-center'>
                                     <span>৩</span>
                                 </div>
-                                <p className=''>বাংলাদেশকে ১৪১ রানের লক্ষ্য ছুড়ে দিলো স্কটল্যান্ড</p>
+                                <Link to='/'><p className=''>বাংলাদেশকে ১৪১ রানের লক্ষ্য ছুড়ে দিলো স্কটল্যান্ড</p></Link>
                             </div>
                             <div className='d-flex flex-row latest py-3 border-bottom'>
                                 <div className='d-flex align-items-center'>
                                     <span>৪</span>
                                 </div>
-                                <p className=''>
-                                    আগামী নির্বাচনে সরকারের কোনো হস্তক্ষেপ থাকবে না: ওবায়দুল</p>
+                                <Link to='/'> <p className=''>
+                                    আগামী নির্বাচনে সরকারের কোনো হস্তক্ষেপ থাকবে না: ওবায়দুল</p></Link>
                             </div>
                             <div className='d-flex flex-row latest py-3 border-bottom'>
                                 <div className='d-flex align-items-center'>
                                     <span>৫</span>
                                 </div>
-                                <p className=''>মুহিবুল্লাহ হত্যাকান্ডে জড়িত সন্দেহে আরসা ক্যাডার গ্রেফতার</p>
+                                <Link to='/'><p className=''>মুহিবুল্লাহ হত্যাকান্ডে জড়িত সন্দেহে আরসা ক্যাডার গ্রেফতার</p></Link>
                             </div>
                             <div className='d-flex flex-row latest py-3 border-bottom'>
                                 <div className='d-flex align-items-center'>
                                     <span>৬</span>
                                 </div>
-                                <p className=''>মার্কিন ধর্ম প্রচারকসহ পরিবারের ১৭ জন অপহৃত</p>
+                                <Link to='/'><p className=''>মার্কিন ধর্ম প্রচারকসহ পরিবারের ১৭ জন অপহৃত</p></Link>
                             </div>
                             <div className='d-flex flex-row latest py-3 border-bottom'>
                                 <div className='d-flex align-items-center'>
                                     <span>৭</span>
                                 </div>
-                                <p className=''>পীরগঞ্জে হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</p>
+                                <Link to='/'><p className=''>পীরগঞ্জে হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</p></Link>
                             </div>
                         </div>
                         <div className='tab-pane ' id="2a" >
@@ -81,44 +81,44 @@ const BannerSide = () => {
                                 <div className='d-flex align-items-center'>
                                     <span>১</span>
                                 </div>
-                                <p className=''>অসাম্প্রদায়িক চেতনায় বাংলাদেশ গড়তে চাই ॥ প্রধানমন্ত্রী</p>
+                                <Link to='/'><p className=''>অসাম্প্রদায়িক চেতনায় বাংলাদেশ গড়তে চাই ॥ প্রধানমন্ত্রী</p></Link>
                             </div>
                             <div className='d-flex flex-row latest py-2 border-bottom' >
                                 <div className='d-flex align-items-center'>
                                     <span>২</span>
                                 </div>
-                                <p className=''>গুচ্ছ ভর্তি পরীক্ষায় প্রতি আসনে লড়বেন ১০ শিক্ষার্থী</p>
+                                <Link to='/'><p className=''>গুচ্ছ ভর্তি পরীক্ষায় প্রতি আসনে লড়বেন ১০ শিক্ষার্থী</p></Link>
                             </div>
                             <div className='d-flex flex-row latest py-3 border-bottom'>
                                 <div className='d-flex align-items-center'>
                                     <span>৩</span>
                                 </div>
-                                <p className=''>বাংলাদেশকে ১৪১ রানের লক্ষ্য ছুড়ে দিলো স্কটল্যান্ড</p>
+                                <Link to='/'><p className=''>বাংলাদেশকে ১৪১ রানের লক্ষ্য ছুড়ে দিলো স্কটল্যান্ড</p></Link>
                             </div>
                             <div className='d-flex flex-row latest py-3 border-bottom'>
                                 <div className='d-flex align-items-center'>
                                     <span>৪</span>
                                 </div>
-                                <p className=''>
-                                    আগামী নির্বাচনে সরকারের কোনো হস্তক্ষেপ থাকবে না: ওবায়দুল</p>
+                                <Link to='/'><p className=''>
+                                    আগামী নির্বাচনে সরকারের কোনো হস্তক্ষেপ থাকবে না: ওবায়দুল</p></Link>
                             </div>
                             <div className='d-flex flex-row latest py-3 border-bottom'>
                                 <div className='d-flex align-items-center'>
                                     <span>৫</span>
                                 </div>
-                                <p className=''>মুহিবুল্লাহ হত্যাকান্ডে জড়িত সন্দেহে আরসা ক্যাডার গ্রেফতার</p>
+                                <Link to='/'><p className=''>মুহিবুল্লাহ হত্যাকান্ডে জড়িত সন্দেহে আরসা ক্যাডার গ্রেফতার</p></Link>
                             </div>
                             <div className='d-flex flex-row latest py-3 border-bottom'>
                                 <div className='d-flex align-items-center'>
                                     <span>৬</span>
                                 </div>
-                                <p className=''>মার্কিন ধর্ম প্রচারকসহ পরিবারের ১৭ জন অপহৃত</p>
+                                <Link to='/'><p className=''>মার্কিন ধর্ম প্রচারকসহ পরিবারের ১৭ জন অপহৃত</p></Link>
                             </div>
                             <div className='d-flex flex-row latest py-3 border-bottom'>
                                 <div className='d-flex align-items-center'>
                                     <span>৭</span>
                                 </div>
-                                <p className=''>পীরগঞ্জে হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</p>
+                                <Link to='/'><p className=''>পীরগঞ্জে হিন্দু পল্লীতে আগুনের ঘটনায় ৪১ জন গ্রেপ্তার</p></Link>
                             </div>
                         </div>
                     </div>
@@ -128,7 +128,7 @@ const BannerSide = () => {
                 </div>
                 <div className='col-12 col-md-12'>
                     <div className='mt-2'>
-                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/namaz.png" className='img-fluid' alt="" />
+                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/namaz.png" className='img-fluid' title='...' alt="" />
                     </div>
                     <div className='table-bg table-responsive'>
                         <table className='table'>

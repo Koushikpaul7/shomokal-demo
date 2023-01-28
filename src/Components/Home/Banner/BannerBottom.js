@@ -13,7 +13,7 @@ const
 
                                     <div className='zoom '>
                                         <div className='imgContainer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Pic-4-samakal-63be6887c9bb3.webp" alt="" className='fix-ratio' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Pic-4-samakal-63be6887c9bb3.webp" alt="" title='...' className='fix-ratio' />
                                         </div>
                                         <div className='caption'>
                                             সারাদেশ
@@ -38,7 +38,7 @@ const
 
                                     <div className='zoom '>
                                         <div className='imgContainer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Pic-4-samakal-63be6887c9bb3.webp" alt="" className='fix-ratio' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Pic-4-samakal-63be6887c9bb3.webp" alt="" title='...' className='fix-ratio' />
                                         </div>
                                         <div className='caption'>
                                             সারাদেশ
@@ -63,7 +63,7 @@ const
 
                                     <div className='zoom '>
                                         <div className='imgContainer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Pic-4-samakal-63be6887c9bb3.webp" alt="" className='fix-ratio' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Pic-4-samakal-63be6887c9bb3.webp" alt="" title='...' className='fix-ratio' />
                                         </div>
                                         <div className='caption'>
                                             সারাদেশ

@@ -21,6 +21,7 @@ const Home = () => {
     return (
         <div>
             <Banner/>
+            <AddSection/>
             <SecondSection/>
             <AddSection/>
             <Editorial/>

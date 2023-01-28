@@ -24,7 +24,7 @@ const TechLife = () => {
                                 <Link to='/'>
                                     <div className='zoom '>
                                         <div className='imgContainer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/Untitled-27-samakal-63bb17ca6af77.webp" alt="" className='fix-ratio' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/Untitled-27-samakal-63bb17ca6af77.webp" title='...' alt="" className='fix-ratio' />
                                         </div>
                                     </div>
 
@@ -52,7 +52,7 @@ const TechLife = () => {
                                                     <Link to='/'>
                                                         <div className='zoom '>
                                                             <div className='imgContainer'>
-                                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                                <img title='...' src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
                                                             </div>
                                                         </div>
 
@@ -71,7 +71,7 @@ const TechLife = () => {
                                                     <Link to='/'>
                                                         <div className='zoom '>
                                                             <div className='imgContainer'>
-                                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" title='...' className='fix-ratio' />
                                                             </div>
                                                         </div>
 
@@ -90,7 +90,7 @@ const TechLife = () => {
                                                     <Link to='/'>
                                                         <div className='zoom '>
                                                             <div className='imgContainer'>
-                                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" title='...' className='fix-ratio' />
                                                             </div>
                                                         </div>
 

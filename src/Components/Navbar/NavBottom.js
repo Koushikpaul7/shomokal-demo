@@ -39,7 +39,7 @@ const NavBottom = () => {
             <div className='d-flex justify-content-between'>
 
 
-              <Link to="/"> <Link class="navbar-brand d-block d-md-none" ><img className='w-50 ' src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/logo.png" alt="" /></Link ></Link>
+               <Link to="/" class="navbar-brand d-block d-md-none" ><img className='w-50 ' title='...' src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/common/logo.png" alt="" /></Link >
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -141,10 +141,10 @@ const NavBottom = () => {
 
 
                 
-                        <div style={{width: "1250px"}} className={`position-absolute top-0  ${navbar2 ? "d-block" : "d-none"}`}>
-                  <li className='d-flex justify-content-center'>
+                        <div style={{width: "1200px"}} className={`position-absolute top-0  ${navbar2 ? "d-block" : "d-none"}`}>
+                  <li className='d-flex justify-content-center' >
                     <input type="text" class="form-control h-25 border-0" placeholder='এখানে খুঁজুন...'/>
-                    <Link to="/" class="nav-link active-list text-dark fs-1"> < GoSearch style={{width: "24",height:"24",padding:"4",marginBottom:"305px",backgroundColor: "#BFBFBF"}}/>
+                    <Link to="/" class="nav-link active-list text-dark fs-1"> < GoSearch className='' style={{width: "24",height:"24",padding:"4",marginBottom:"305px",backgroundColor: "#BFBFBF"}}/>
                   </Link>
                   </li>
                 </div>
@@ -156,11 +156,11 @@ const NavBottom = () => {
                 {navbar2 ? (
                   <svg className='mt-1'
                   xmlns="http://www.w3.org/2000/svg"
-                  style={{width: "24", fontWeight: "900",padding:"4",marginLeft:"140px", backgroundColor: "#BFBFBF"}}
+                  style={{width: "24", fontWeight: "900",padding:"4",marginLeft:"100px", backgroundColor: "#ddd",fontSize:"18px"}}
                   viewBox="0 0 20 20"
                   fill="currentColor"
                 >
-                  <path
+                  <path 
                     fillRule="evenodd"
                     d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
                     clipRule="evenodd"
@@ -168,7 +168,7 @@ const NavBottom = () => {
                 </svg>
 
                 ) : (
-                 < GoSearch />
+                 < GoSearch  className='ms-4 fw-bold fs-5'/>
                   
                 )}
               </p>

@@ -24,7 +24,7 @@ const PhotoGallery = () => {
                                                 <Link to='/'>
                                                     <div className='Imgresize VideoIcon'>
                                                         <div className='ImgViewer'>
-                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Ctg-_-Accsident_-12--700x400-629cb2a283608.webp" alt="" className=' d-block w-100' />
+                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Ctg-_-Accsident_-12--700x400-629cb2a283608.webp" alt="" title='...' className=' d-block w-100' />
                                                         </div>
                                                         <div class="Desc">
                                                             <h3 class="Title2">ঘন কুয়াশায় শাহজালাল বিমানবন্দরে ফ্লাইটের অবতরণ-উড্ডয়ন বন্ধ</h3>
@@ -42,7 +42,7 @@ const PhotoGallery = () => {
                                                 <Link to='/'>
                                                     <div className='Imgresize'>
                                                         <div className='ImgViewer VideoIcon'>
-                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/chatak-1-62b3124721d6d.jpg" alt="" className=' d-block w-100' />
+                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/chatak-1-62b3124721d6d.jpg" alt="" title='...' className=' d-block w-100' />
                                                         </div>
                                                         <div class="Desc">
                                                             <h3 class="Title2">ঘন কুয়াশায় শাহজালাল বিমানবন্দরে ফ্লাইটের অবতরণ-উড্ডয়ন বন্ধ</h3>
@@ -60,7 +60,7 @@ const PhotoGallery = () => {
                                                 <Link to='/'>
                                                     <div className='Imgresize'>
                                                         <div className='ImgViewer VideoIcon'>
-                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/flight-r-samakal-63ba385f47357.webp" alt="" className=' d-block w-100' />
+                                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/flight-r-samakal-63ba385f47357.webp" alt="" title='...' className=' d-block w-100' />
                                                         </div>
                                                         <div class="Desc">
                                                             <h3 class="Title2">ঘন কুয়াশায় শাহজালাল বিমানবন্দরে ফ্লাইটের অবতরণ-উড্ডয়ন বন্ধ</h3>

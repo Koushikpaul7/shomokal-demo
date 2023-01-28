@@ -27,7 +27,7 @@ const Chakri = () => {
                                 <Link to='/' className='font'>
                                     <div className='Imgresize'>
                                         <div className='ImgViewer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/rfl-s-samakal-63ba571484faa.webp" alt="" className='img-fluid' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/rfl-s-samakal-63ba571484faa.webp" alt="" title='...' className='img-fluid' />
                                         </div>
                                         <div class="Desc">
                                             <h3 class="Title">আরএফএল গ্রুপে ম্যানেজমেন্ট ট্রেইনি অফিসার’পদে চাকরির সুযোগ</h3>

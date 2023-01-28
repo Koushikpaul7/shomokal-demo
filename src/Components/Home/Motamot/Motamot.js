@@ -23,7 +23,7 @@ const Motamot = () => {
                        <div className='col-md-4'>
                           <Link to='/'>
                           <div className='DImgZoomBlock'>
-                           <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-Recovered-samakal-63bd9dbbc2571.jpg" className='img-fluid img100' alt=""/>
+                           <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-Recovered-samakal-63bd9dbbc2571.jpg" title='...' className='img-fluid img100' alt=""/>
                            </div></Link>
                         </div>
                         <div className='col-md-8'>
@@ -41,7 +41,7 @@ const Motamot = () => {
                     <div className='row'>
                        <div className='col-md-4'>
                            <div className='DImgZoomBlock'>
-                           <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-Recovered-samakal-63bd9dbbc2571.jpg" className='img-fluid img100' alt=""/>
+                           <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-Recovered-samakal-63bd9dbbc2571.jpg" className='img-fluid img100' title='...' alt=""/>
                            </div>
                         </div>
                         <div className='col-md-8'>
@@ -59,7 +59,7 @@ const Motamot = () => {
                     <div className='row'>
                        <div className='col-md-4'>
                            <div className='DImgZoomBlock'>
-                           <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-Recovered-samakal-63bd9dbbc2571.jpg" className='img-fluid img100' alt=""/>
+                           <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-Recovered-samakal-63bd9dbbc2571.jpg" className='img-fluid img100' title='...' alt=""/>
                            </div>
                         </div>
                         <div className='col-md-8'>
@@ -76,7 +76,7 @@ const Motamot = () => {
                     <div className='row'>
                        <div className='col-md-4'>
                            <div className='DImgZoomBlock'>
-                           <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-Recovered-samakal-63bd9dbbc2571.jpg" className='img-fluid img100' alt=""/>
+                           <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-Recovered-samakal-63bd9dbbc2571.jpg" className='img-fluid img100' title='...' alt=""/>
                            </div>
                         </div>
                         <div className='col-md-8'>

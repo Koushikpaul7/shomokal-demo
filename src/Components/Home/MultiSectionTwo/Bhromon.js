@@ -19,7 +19,7 @@ const Bhromon = () => {
                                 <Link to='/' className='font'>
                                     <div className='Imgresize'>
                                         <div className='ImgViewer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/samakal-63b3cb135bb81.gif" alt="" className='img-fluid' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/samakal-63b3cb135bb81.gif" alt="" title='...' className='img-fluid' />
                                         </div>
                                         <div class="Desc">
                                             <h3 class="Title">বিশ্বের যেসব জায়গায় কখনও পুরোপুরি অন্ধকার হয় না</h3>

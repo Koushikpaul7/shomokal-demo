@@ -18,7 +18,7 @@ const Rajniti = () => {
                                 <div className='B-lead'>
                                         <div className='zoom '>
                                             <div className='imgContainer'>
-                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' title='...' />
                                             </div>
                                         </div>
 
@@ -42,7 +42,7 @@ const Rajniti = () => {
                                         
                                             <div className='zoom '>
                                                 <div className='imgContainer'>
-                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" className='fix-ratio' />
+                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" className='fix-ratio' title='...' />
                                                 </div>
                                             </div>
 
@@ -62,7 +62,7 @@ const Rajniti = () => {
                                         <Link to='/'>
                                             <div className='zoom '>
                                                 <div className='imgContainer'>
-                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" className='fix-ratio' />
+                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt=""title='...' className='fix-ratio' />
                                                 </div>
                                             </div>
 
@@ -127,7 +127,7 @@ const Rajniti = () => {
                     </div>
                     <div className='col-12 col-md-3 d-flex align-items-center'>
                        <div className='row'>
-                       <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement%20(300X250).png" className='img-fluid ' alt="" />
+                       <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement%20(300X250).png" title='...' className='img-fluid ' alt="" />
                        </div>
                     </div>
 

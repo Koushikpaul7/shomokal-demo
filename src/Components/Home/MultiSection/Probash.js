@@ -20,7 +20,7 @@ const Probash = () => {
                                 <Link to='/'>
                                     <div className='Imgresize'>
                                         <div className='ImgViewer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/flight-r-samakal-63ba385f47357.webp" alt="" className='img-fluid' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/flight-r-samakal-63ba385f47357.webp" alt="" title='...' className='img-fluid' />
                                         </div>
                                         <div class="Desc">
                                             <h3 class="Title2">ঘন কুয়াশায় শাহজালাল বিমানবন্দরে ফ্লাইটের অবতরণ-উড্ডয়ন বন্ধ</h3>
@@ -35,7 +35,7 @@ const Probash = () => {
                             <div className='row'>
                                 <div className='col-md-5 col-7'>
                                     <Link to='/'>
-                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/SUICIDE-samakal-63b9c29a8d0a2.webp" className='img-fluid' alt="" />
+                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/SUICIDE-samakal-63b9c29a8d0a2.webp" className='img-fluid' title='...' alt="" />
                                     </Link>
                                 </div>
                                 <div className='col-md-7 col-5'>
@@ -49,7 +49,7 @@ const Probash = () => {
                             <div className='row'>
                                 <div className='col-md-5 col-7'>
                                     <Link to='/'>
-                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/SUICIDE-samakal-63b9c29a8d0a2.webp" className='img-fluid' alt="" />
+                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/SUICIDE-samakal-63b9c29a8d0a2.webp" className='img-fluid' title='...' alt="" />
                                     </Link>
                                 </div>
                                 <div className='col-md-7 col-5'>
@@ -63,7 +63,7 @@ const Probash = () => {
                             <div className='row'>
                                 <div className='col-md-5 col-7'>
                                     <Link to='/'>
-                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/SUICIDE-samakal-63b9c29a8d0a2.webp" className='img-fluid' alt="" />
+                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/SUICIDE-samakal-63b9c29a8d0a2.webp" className='img-fluid' title='...' alt="" />
                                     </Link>
                                 </div>
                                 <div className='col-md-7 col-5'>

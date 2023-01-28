@@ -24,7 +24,7 @@ const Editorial = () => {
                                         <div className='lead '>
                                             <div className='zoom '>
                                                 <div className='imgContainer'>
-                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-27-samakal-63bc54b76083f.webp" alt="" className='fix-ratio' />
+                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-27-samakal-63bc54b76083f.webp" title='...' alt="" className='fix-ratio' />
                                                 </div>
                                             </div>
                                             <div class="Desc">
@@ -48,7 +48,7 @@ const Editorial = () => {
 
                                                                 <div className='zoom '>
                                                                     <div className='imgContainer'>
-                                                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' />
+                                                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' title='...' />
                                                                     </div>
                                                                 </div>
 
@@ -76,7 +76,7 @@ const Editorial = () => {
 
                                                                 <div className='zoom '>
                                                                     <div className='imgContainer'>
-                                                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' />
+                                                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' title='...' />
                                                                     </div>
                                                                 </div>
 
@@ -103,7 +103,7 @@ const Editorial = () => {
 
                                                                 <div className='zoom '>
                                                                     <div className='imgContainer'>
-                                                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' />
+                                                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' title='..' />
                                                                     </div>
                                                                 </div>
 
@@ -156,7 +156,7 @@ const Editorial = () => {
 
                                                             <div className='zoom '>
                                                                 <div className='imgContainer'>
-                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' />
+                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" title='...' alt="" className='fix-ratio' />
                                                                 </div>
                                                             </div>
 
@@ -214,7 +214,7 @@ const Editorial = () => {
 
                                                             <div className='zoom '>
                                                                 <div className='imgContainer'>
-                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' />
+                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' title='...' />
                                                                 </div>
                                                             </div>
 
@@ -260,7 +260,7 @@ const Editorial = () => {
 
                                                             <div className='zoom '>
                                                                 <div className='imgContainer'>
-                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' />
+                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' title='...' />
                                                                 </div>
                                                             </div>
 
@@ -290,7 +290,7 @@ const Editorial = () => {
 
                                                             <div className='zoom '>
                                                                 <div className='imgContainer'>
-                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' />
+                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' title='...' />
                                                                 </div>
                                                             </div>
 
@@ -318,7 +318,7 @@ const Editorial = () => {
 
                                                             <div className='zoom '>
                                                                 <div className='imgContainer'>
-                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' />
+                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' title='...' />
                                                                 </div>
                                                             </div>
 

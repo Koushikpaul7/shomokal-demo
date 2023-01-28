@@ -17,7 +17,7 @@ const PhotoSide = () => {
                 <div className='col-md-5 col-12'>
                  <div className='Imgresize zoom'>
                     <div className='ImgViewer VideoIcon imgContainer'>
-                      <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Ctg-_-Accsident_-12--700x400-629cb2a283608.webp" alt="" className=' d-block w-100' />
+                      <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Ctg-_-Accsident_-12--700x400-629cb2a283608.webp" alt="" title='...' className=' d-block w-100' />
                     </div>
                   </div>
                 </div>
@@ -34,7 +34,7 @@ const PhotoSide = () => {
                 <div className='col-md-5 col-12'>
                 <div className='Imgresize zoom'>
                     <div className='ImgViewer VideoIcon imgContainer'>
-                      <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Ctg-_-Accsident_-12--700x400-629cb2a283608.webp" alt="" className=' d-block w-100' />
+                      <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Ctg-_-Accsident_-12--700x400-629cb2a283608.webp" alt="" title='...' className=' d-block w-100' />
                     </div>
                   </div>
                 </div>
@@ -50,7 +50,7 @@ const PhotoSide = () => {
                 <div className='col-md-5 col-12'>
                 <div className='Imgresize zoom'>
                     <div className='ImgViewer VideoIcon imgContainer'>
-                      <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Ctg-_-Accsident_-12--700x400-629cb2a283608.webp" alt="" className=' d-block w-100' />
+                      <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Ctg-_-Accsident_-12--700x400-629cb2a283608.webp" alt="" title='...' className=' d-block w-100' />
                     </div>
                   </div>
                 </div>
@@ -66,7 +66,7 @@ const PhotoSide = () => {
                 <div className='col-md-5 col-12 '>
                   <div className='Imgresize zoom'>
                     <div className='ImgViewer VideoIcon imgContainer'>
-                      <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Ctg-_-Accsident_-12--700x400-629cb2a283608.webp" alt="" className=' d-block w-100' />
+                      <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Ctg-_-Accsident_-12--700x400-629cb2a283608.webp" alt="" title='...' className=' d-block w-100' />
                     </div>
                   </div>
                 </div>

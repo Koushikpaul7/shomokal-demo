@@ -19,7 +19,7 @@ const Bangladesh = () => {
                             <Link to='/'>
                                 <div className='zoom '>
                                     <div className='imgContainer'>
-                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-samakal-63bac1fe6c990.webp" alt="" className='fix-ratio' />
+                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-samakal-63bac1fe6c990.webp" alt="" title='...' className='fix-ratio' />
                                     </div>
                                 </div>
 
@@ -41,7 +41,7 @@ const Bangladesh = () => {
 
                                     <div className='zoom '>
                                         <div className='imgContainer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" className='fix-ratio' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" title='...' className='fix-ratio' />
                                         </div>
                                     </div>
 
@@ -57,7 +57,7 @@ const Bangladesh = () => {
 
                                 <div className='zoom '>
                                     <div className='imgContainer'>
-                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" className='fix-ratio' />
+                                        <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt=""title='...' className='fix-ratio' />
                                     </div>
                                 </div>
 
@@ -89,7 +89,7 @@ const Bangladesh = () => {
 
                                                             <div className='zoom '>
                                                                 <div className='imgContainer'>
-                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" title='...' className='fix-ratio' />
                                                                 </div>
                                                             </div>
 
@@ -118,7 +118,7 @@ const Bangladesh = () => {
                                                         <div className='B-lead'>
                                                             <div className='zoom '>
                                                                 <div className='imgContainer'>
-                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' title='...' />
                                                                 </div>
                                                             </div>
 
@@ -144,7 +144,7 @@ const Bangladesh = () => {
                                                         <div className='B-lead'>
                                                             <div className='zoom '>
                                                                 <div className='imgContainer'>
-                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' title='...' />
                                                                 </div>
                                                             </div>
 
@@ -170,7 +170,7 @@ const Bangladesh = () => {
                                                     <div className='B-lead'>
                                                         <div className='zoom '>
                                                             <div className='imgContainer'>
-                                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' title='...' />
                                                             </div>
                                                         </div>
 

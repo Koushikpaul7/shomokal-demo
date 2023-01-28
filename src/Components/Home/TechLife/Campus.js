@@ -12,7 +12,7 @@ const Campus = () => {
                                 <Link to='/'>
                                     <div className='zoom '>
                                         <div className='imgContainer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/Untitled-23-samakal-63bb16fdd93de.webp" alt="" className='img-fluid' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/Untitled-23-samakal-63bb16fdd93de.webp" title='...' alt="" className='img-fluid' />
                                         </div>
                                     </div>
 
@@ -40,7 +40,7 @@ const Campus = () => {
                                                     <Link to='/'>
                                                         <div className='zoom '>
                                                             <div className='imgContainer'>
-                                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" title='...' className='fix-ratio' />
                                                             </div>
                                                         </div>
 
@@ -59,7 +59,7 @@ const Campus = () => {
                                                     <Link to='/'>
                                                         <div className='zoom '>
                                                             <div className='imgContainer'>
-                                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" title='...' className='fix-ratio' />
                                                             </div>
                                                         </div>
 
@@ -78,7 +78,7 @@ const Campus = () => {
                                                     <Link to='/'>
                                                         <div className='zoom '>
                                                             <div className='imgContainer'>
-                                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" title='...' className='fix-ratio' />
                                                             </div>
                                                         </div>
 

@@ -21,7 +21,7 @@ const Binodon2 = () => {
                                         <Link to='/'>
                                             <div className='zoom '>
                                                 <div className='imgContainer'>
-                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-samakal-63bac1fe6c990.webp" alt="" className='fix-ratio' />
+                                                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-samakal-63bac1fe6c990.webp" title='...' alt="" className='fix-ratio' />
                                                 </div>
                                             </div>
 
@@ -48,7 +48,7 @@ const Binodon2 = () => {
                                 <Link to='/'>
                                     <div className='zoom '>
                                         <div className='imgContainer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" className='fix-ratio' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" title='...' className='fix-ratio' />
                                         </div>
                                     </div>
 
@@ -68,7 +68,7 @@ const Binodon2 = () => {
                                 <Link to='/'>
                                     <div className='zoom '>
                                         <div className='imgContainer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" className='fix-ratio' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" title='...' alt="" className='fix-ratio' />
                                         </div>
                                     </div>
 
@@ -83,7 +83,7 @@ const Binodon2 = () => {
                                 <Link to='/'>
                                     <div className='zoom '>
                                         <div className='imgContainer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" className='fix-ratio' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" title='...' className='fix-ratio' />
                                         </div>
                                     </div>
 
@@ -98,7 +98,7 @@ const Binodon2 = () => {
                                 <Link to='/'>
                                     <div className='zoom '>
                                         <div className='imgContainer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" className='fix-ratio' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" title='...' alt="" className='fix-ratio' />
                                         </div>
                                     </div>
 
@@ -113,7 +113,7 @@ const Binodon2 = () => {
                                 <Link to='/'>
                                     <div className='zoom '>
                                         <div className='imgContainer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" className='fix-ratio' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" title='...' alt="" className='fix-ratio' />
                                         </div>
                                     </div>
 
@@ -128,7 +128,7 @@ const Binodon2 = () => {
                                 <Link to='/'>
                                     <div className='zoom '>
                                         <div className='imgContainer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" alt="" className='fix-ratio' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Parliament-Adhibession-samakal-63babf7dba9bd.jpg" title='...' alt="" className='fix-ratio' />
                                         </div>
                                     </div>
 

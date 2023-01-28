@@ -18,7 +18,7 @@ const KalerKheya = () => {
                                 <Link to='/' className='font'>
                                     <div className='Imgresize'>
                                         <div className='ImgViewer'>
-                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-56-samakal-63b72092b87b0.jpg" alt="" className='img-fluid' />
+                                            <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-56-samakal-63b72092b87b0.jpg" alt="" title='...' className='img-fluid' />
                                         </div>
                                         <div class="Desc">
                                             <h3 class="Title">গুচ্ছ গুচ্ছ কবিতা</h3>

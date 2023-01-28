@@ -7,7 +7,7 @@ const AddSection = () => {
             <div className='row'>
                 <div className='col-md-12 col-12'>
                     <Link to='/'>
-                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement(970X90).png" className='img-fluid' alt=""/>
+                    <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/Advertisement/Advertisement(970X90).png" className='img-fluid' alt="..." title='...'/>
                     </Link>
                 </div>
             </div>

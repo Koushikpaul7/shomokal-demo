@@ -11,7 +11,7 @@ const SubNews = () => {
                     <Link to='/'>
                         <div className='zoom '>
                             <div className='imgContainer'>
-                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' />
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" title='...' className='fix-ratio' />
                             </div>
                         </div>
                     </Link>
@@ -33,7 +33,7 @@ const SubNews = () => {
                     <Link to='/'>
                         <div className='zoom '>
                             <div className='imgContainer'>
-                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-samakal-63be89701583f.webp" alt="" className='fix-ratio' />
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-1-samakal-63be89701583f.webp" title='...' alt="" className='fix-ratio' />
                             </div>
                         </div>
                     </Link>
@@ -52,7 +52,7 @@ const SubNews = () => {
                     <Link to='/'>
                         <div className='zoom '>
                             <div className='imgContainer'>
-                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/4210d.webp" alt="" className='fix-ratio' />
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/4210d.webp" alt="" title='...' className='fix-ratio' />
                             </div>
                         </div>
                     </Link>
@@ -71,7 +71,7 @@ const SubNews = () => {
                     <Link to='/'>
                         <div className='zoom '>
                             <div className='imgContainer'>
-                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/ramu-bn-samakal-63be6d06213c2.jpg" alt="" className='fix-ratio' />
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/ramu-bn-samakal-63be6d06213c2.jpg" title='...' alt="" className='fix-ratio' />
                             </div>
                         </div>
                     </Link>
@@ -90,7 +90,7 @@ const SubNews = () => {
                     <Link to='/'>
                         <div className='zoom '>
                             <div className='imgContainer'>
-                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/b1b2197c537140e26c3caeae815cece5-616e8ea44d2ed.webp" alt="" className='fix-ratio' />
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/b1b2197c537140e26c3caeae815cece5-616e8ea44d2ed.webp" alt="" title='...' className='fix-ratio' />
                             </div>
                         </div>
                     </Link>
@@ -109,7 +109,7 @@ const SubNews = () => {
                     <Link to='/'>
                         <div className='zoom '>
                             <div className='imgContainer'>
-                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" alt="" className='fix-ratio' />
+                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/9-samakal-63be67bda61a4.webp" title='...' alt="" className='fix-ratio' />
                             </div>
                         </div>
                     </Link>

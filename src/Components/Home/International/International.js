@@ -25,7 +25,7 @@ const International = () => {
                                     <Link to='/'>
                                         <div className='zoom fix-ratio'>
                                             <div className='imgContainer'>
-                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/harry-samakal-63bab7d47245b.webp" alt="" className='img-fluid' />
+                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3//media/imgAll/harry-samakal-63bab7d47245b.webp" alt="" className='img-fluid' title='...' />
                                             </div>
                                         </div>
 
@@ -60,7 +60,7 @@ const International = () => {
                                     <Link to='/'>
                                         <div className='zoom '>
                                             <div className='imgContainer'>
-                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' title='...' />
                                             </div>
                                         </div>
 
@@ -83,7 +83,7 @@ const International = () => {
                                     <Link to='/'>
                                         <div className='zoom '>
                                             <div className='imgContainer'>
-                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' title='...' />
                                             </div>
                                         </div>
 
@@ -106,7 +106,7 @@ const International = () => {
                                     <Link to='/'>
                                         <div className='zoom '>
                                             <div className='imgContainer'>
-                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' title='...' />
                                             </div>
                                         </div>
 
@@ -129,7 +129,7 @@ const International = () => {
                                     <Link to='/'>
                                         <div className='zoom '>
                                             <div className='imgContainer'>
-                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' />
+                                                <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Obaidur-Kader--samakal-63b96d5d964f9.jpg" alt="" className='fix-ratio' title='...' />
                                             </div>
                                         </div>
 
