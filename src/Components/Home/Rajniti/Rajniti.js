@@ -13,7 +13,7 @@ const Rajniti = () => {
                 <div className='row border-bottom pb-4'>
                     <div className='col-md-9 col-12'>
                         <div className='row'>
-                            <div className='col-md-5 col-12 border-end'>
+                            <div className='col-md-6 col-12 border-end'>
                             <Link to='/'>
                                 <div className='B-lead'>
                                         <div className='zoom '>
@@ -36,7 +36,7 @@ const Rajniti = () => {
                                 </Link>
                             </div>
                             <div className='col-md-3 col-12 border-end'>
-                                <div className='border-bottom pb-1'>
+                                <div className='border-bottom'>
                                 <Link to='/'>
                                     <div className='lead '>
                                         
@@ -78,7 +78,7 @@ const Rajniti = () => {
                                     </Link>
                                 </div>
                             </div>
-                            <div className='col-md-4 col-12'>
+                            <div className='col-md-3 col-12'>
                                 <div className='border-bottom pb-1'>
                                     <Link to='/'>
                                         <div className='text-decoration-none text-dark'>
