@@ -1,6 +1,5 @@
 import React from 'react';
 import { Swiper, SwiperSlide } from "swiper/react";
-
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/free-mode";
@@ -45,21 +44,32 @@ const Slider = () => {
         
       >
         <SwiperSlide><div className='DVideoGalleryTopItem'>
+        <Link to='/'>
                         <div className='col-sm-12 thumbnail'>
-                            <Link to='/'>
+                          
                             <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/pori-samakal-63b92ddb1e951.webp" title='...' className='img-fluid' alt=""/>
-                            <div class="card-video-img transition"></div>
                             
-                            </Link>
+                          
+                          
+                           
                         </div>
-                    </div></SwiperSlide>
+                        <div class="card-video-img transition"></div>
+                        <div class="Desc">
+                                    <h2 class="Title">রানীর বিপুল সম্পদের কী হবে</h2>
+                                </div>
+                                </Link>
+                    </div>
+                    
+                    </SwiperSlide>
 
         <SwiperSlide><div className='DVideoGalleryTopItem'>
                         <div className='col-sm-12 thumbnail'>
                             <Link to='/'>
                             <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/Untitled-4-samakal-631cd7f8dd490.webp" title='...' className='img-fluid' alt=""/>
                             <div class="card-video-img transition"></div>
-                           
+                            <div class="Desc">
+                                    <h2 class="Title">মেট্রোরেলে ৫ দিনে ৪৬ লাখ ৮০ হাজার টাকার টিকিট বিক্রি</h2>
+                                </div>
                             </Link>
                         </div>
                     </div></SwiperSlide>
@@ -68,6 +78,9 @@ const Slider = () => {
                             <Link to='/'>
                             <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/2-samakal-63b3b8b843a03.jpg" title='...' className='img-fluid' alt=""/>
                             <div class="card-video-img transition"></div>
+                            <div class="Desc">
+                                    <h2 class="Title">মেট্রোরেলে ৫ দিনে ৪৬ লাখ ৮০ হাজার টাকার টিকিট বিক্রি</h2>
+                                </div>
                            
                             </Link>
                         </div>
@@ -77,6 +90,9 @@ const Slider = () => {
                             <Link to='/'>
                             <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/mahia12-samakal-63ad95af3b438.webp" title='...' className='img-fluid' alt=""/>
                             <div class="card-video-img transition"></div>
+                            <div class="Desc">
+                                    <h2 class="Title">মেট্রোরেলে ৫ দিনে ৪৬ লাখ ৮০ হাজার টাকার টিকিট বিক্রি</h2>
+                                </div>
                             
                             </Link>
                         </div>
@@ -86,6 +102,9 @@ const Slider = () => {
                             <Link to='/'>
                             <img src="https://www.emythmaker.com/project/Template/NewsProtal/DailySamakal/Demo-3/media/imgAll/pori-samakal-63b92ddb1e951.webp" title='...' className='img-fluid' alt=""/>
                             <div class="card-video-img transition"></div>
+                            <div class="Desc">
+                                    <h2 class="Title">মেট্রোরেলে ৫ দিনে ৪৬ লাখ ৮০ হাজার টাকার টিকিট বিক্রি</h2>
+                                </div>
                             
                             </Link>
                         </div>

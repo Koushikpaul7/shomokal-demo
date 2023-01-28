@@ -15,11 +15,11 @@ const FooterTop = () => {
                 </div>
                 <div className='col-md-6'>
                 <div className='d-flex justify-content-end align-items-center'>
-                            <Link to='#' className='social-link me-2'><FiFacebook /></Link>
-                            <Link to='#' className='social-link me-2'><AiOutlineTwitter/></Link>
-                            <Link to='#' className='social-link me-2'><SiInstagram/></Link>
-                            <Link to='#' className='social-link me-2'><TfiYoutube/></Link>
-                            <Link to='#' className='social-link'><BiRss/></Link>
+                <Link to='#' className='social-link-fb me-2'><FiFacebook/></Link>
+                            <Link to='#' className='social-link-twit me-2'><AiOutlineTwitter/></Link>
+                            <Link to='#' className='social-link-insta me-2'><SiInstagram/></Link>
+                            <Link to='#' className='social-link-u-tube me-2'><TfiYoutube/></Link>
+                            <Link to='#' className='social-link-rss'><BiRss/></Link>
                         </div>
                 </div>
             </div>

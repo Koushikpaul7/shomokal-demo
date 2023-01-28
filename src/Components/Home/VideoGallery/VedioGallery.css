@@ -55,8 +55,27 @@
 .DVideoGalleryTopItem .Desc {
     width: 100%;
     bottom: 0;
-    position: absolute;
+   
     z-index: 10;
     max-height: 140px;
     overflow: hidden;
+        padding: 5px 7px;
+        height: 64px;
+        overflow: hidden;
+        color: white;
+        padding: 5px;
+    
+}
+.DVideoGalleryTopItem .Desc .Title{
+    color: white;
+    text-align: left;
+    height: 64px; 
+    -webkit-line-clamp: 2;
+    font-size: 18px;
+}
+.DVideoGalleryTopItem .Desc .Title:hover{
+    color:#e18b20;
+}
+.DVideoGalleryTopItem{
+    background-color: #000;
 }
