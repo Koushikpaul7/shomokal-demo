@@ -49,12 +49,12 @@ const Rajniti = () => {
                                       
                                     </div>
                                   
-                                        <div className=''>
+                                       
                                         <div className=' my-2'>
                                        <h4 className='Title'>ভারতে কয়লা খনি ধসে ১০ জন আটকে পড়ার শঙ্কা</h4>
                                        </div>
 
-                                        </div>
+                                        
                                     </Link>
                                 </div>
                                 <div className='pt-2'>
