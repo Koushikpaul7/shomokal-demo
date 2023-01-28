@@ -32,7 +32,7 @@ const NavBottom = () => {
 
  
   return (
-    <div id='navbar_top' className={`nav-border sticky-top sidebar position ${navbar2 ? "bg-light" : "bg-white"}`}>
+    <div  id='navbar_top' className={`nav-border sticky-top sidebar position ${navbar2 ? "bg-light" : "bg-white"}`}>
       <div className='container'>
         <nav class="navbar navbar-expand-lg navbar-light">
           <div class="container-fluid">
@@ -99,38 +99,38 @@ const NavBottom = () => {
                             <div class="row w-100 ">
                                     <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
                                         <ul class="nav flex-column">
-                                            <li><Link class="dropdown-item" href="#">চতুরঙ্গ</Link></li>
-                                            <li><Link class="dropdown-item" href="#">নারী দিবস</Link></li>
-                                            <li><Link class="dropdown-item" href="#">সাহিত্য ও সংস্কৃতি</Link></li>
+                                            <li><Link class="dropdown-item" to="#">চতুরঙ্গ</Link></li>
+                                            <li><Link class="dropdown-item" to="#">নারী দিবস</Link></li>
+                                            <li><Link class="dropdown-item" to="#">সাহিত্য ও সংস্কৃতি</Link></li>
                                         </ul>
                                     </div>
                                     <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
                                         <ul class="nav flex-column">
-                                            <li><Link class="dropdown-item" href="#">সাহিত্য ও সংস্কৃতি</Link></li>
-                                            <li><Link class="dropdown-item" href="#">জীবন সংগ্রাম</Link></li>
-                                            <li><Link class="dropdown-item" href="#">ভ্রমণ</Link></li>
-                                            <li><Link class="dropdown-item" href="#">ফিচার</Link></li>
+                                            <li><Link class="dropdown-item" to="#">সাহিত্য ও সংস্কৃতি</Link></li>
+                                            <li><Link class="dropdown-item" to="#">জীবন সংগ্রাম</Link></li>
+                                            <li><Link class="dropdown-item" to="#">ভ্রমণ</Link></li>
+                                            <li><Link class="dropdown-item" to="#">ফিচার</Link></li>
                                         </ul>
                                     </div>
                                     <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
                                         <ul class="nav flex-column">
-                                            <li><Link class="dropdown-item" href="#">শিল্প-বাণিজ্য</Link></li>
-                                            <li><Link class="dropdown-item" href="#">সাক্ষাৎকার</Link></li>
-                                            <li><Link class="dropdown-item" href="#">প্রযুক্তি</Link></li>
+                                            <li><Link class="dropdown-item" to="#">শিল্প-বাণিজ্য</Link></li>
+                                            <li><Link class="dropdown-item" to="#">সাক্ষাৎকার</Link></li>
+                                            <li><Link class="dropdown-item" to="#">প্রযুক্তি</Link></li>
                                         </ul>
                                     </div>
                                     <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
                                         <ul class="nav flex-column">
-                                            <li><Link class="dropdown-item" href="#">শেয়ারবাজার</Link></li>
-                                            <li><Link class="dropdown-item" href="#">সমকাল অনুসন্ধান</Link></li>
-                                            <li><Link class="dropdown-item" href="#">অফবিট</Link></li>
+                                            <li><Link class="dropdown-item" to="#">শেয়ারবাজার</Link></li>
+                                            <li><Link class="dropdown-item" to="#">সমকাল অনুসন্ধান</Link></li>
+                                            <li><Link class="dropdown-item" to="#">অফবিট</Link></li>
                                         </ul>
                                     </div>
                                     <div class="col-md-3" style={{flex:" 0 0 20%",maxwidth: '20%'}}>
                                         <ul class="nav flex-column">
-                                            <li><Link class="dropdown-item" href="#">অপরাধ</Link></li>
-                                            <li><Link class="dropdown-item" href="#">চাকরি </Link></li>
-                                            <li><Link class="dropdown-item" href="#">শিল্পমঞ্চ</Link></li>
+                                            <li><Link class="dropdown-item" to="#">অপরাধ</Link></li>
+                                            <li><Link class="dropdown-item" to="#">চাকরি </Link></li>
+                                            <li><Link class="dropdown-item" to="#">শিল্পমঞ্চ</Link></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -141,10 +141,10 @@ const NavBottom = () => {
 
 
                 
-                <div className={`position-absolute top-0 start-0 w-100 h-100 ${navbar2 ? "d-block" : "d-none"}`}>
-                  <li className='d-flex justify-content-center p-1'>
-                    <input type="text" class="form-control h-25 w-full " placeholder='এখানে খুঁজুন...'/>
-                    <Link to="/" class="nav-link active-list text-dark  mx-auto fs-1"> < GoSearch style={{"width": "24","height":"24",padding:"4",marginBottom:"305px",backgroundColor: "#ddd"}}/>
+                        <div style={{width: "1250px"}} className={`position-absolute top-0  ${navbar2 ? "d-block" : "d-none"}`}>
+                  <li className='d-flex justify-content-center'>
+                    <input type="text" class="form-control h-25 border-0" placeholder='এখানে খুঁজুন...'/>
+                    <Link to="/" class="nav-link active-list text-dark fs-1"> < GoSearch style={{width: "24",height:"24",padding:"4",marginBottom:"305px",backgroundColor: "#BFBFBF"}}/>
                   </Link>
                   </li>
                 </div>
@@ -154,10 +154,9 @@ const NavBottom = () => {
                 onClick={() => setNavbar2(!navbar2)}
               >
                 {navbar2 ? (
-                  <svg className='mt-2'
+                  <svg className='mt-1'
                   xmlns="http://www.w3.org/2000/svg"
-                 
-                  style={{"width": "24", "fontWeight": "900","padding":"4", backgroundColor: "#BFBFBF"}}
+                  style={{width: "24", fontWeight: "900",padding:"4",marginLeft:"140px", backgroundColor: "#BFBFBF"}}
                   viewBox="0 0 20 20"
                   fill="currentColor"
                 >
