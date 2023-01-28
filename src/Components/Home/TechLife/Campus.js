@@ -5,7 +5,7 @@ import '../International/International.css';
 const Campus = () => {
     return (
         <div className='row '>
-                      <div className='col-md-12 border-end'>
+                      <div className='col-md-12'>
                         <div className='row DTechCamTop'>
                         <div className='col-md-7 col-12 '>
                             <div className='lead'>
