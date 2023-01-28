@@ -144,7 +144,7 @@ const NavBottom = () => {
                         <div style={{width: "1200px"}} className={`position-absolute top-0  ${navbar2 ? "d-block" : "d-none"}`}>
                   <li className='d-flex justify-content-center' >
                     <input type="text" class="form-control h-25 border-0" placeholder='এখানে খুঁজুন...'/>
-                    <Link to="/" class="nav-link active-list text-dark fs-1"> < GoSearch className='' style={{width: "24",height:"24",padding:"4",marginBottom:"305px",backgroundColor: "#BFBFBF"}}/>
+                    <Link to="/" class="nav-link active-list text-dark ms-5 fs-1"> < GoSearch className='' style={{width: "24",height:"24",padding:"4",marginBottom:"305px",backgroundColor: "#BFBFBF"}}/>
                   </Link>
                   </li>
                 </div>
